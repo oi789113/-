@@ -1,0 +1,21 @@
+name: Publish world history downloads
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Assemble and verify transfer
+        run: |
+          cat .history-transfer/project.part-* > world-history-project.zip
+          sha256sum -c .history-transfer/project.sha256
+          unzip -q world-history-project.zip
+      - name: Upload history assets and publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release upload world-history-v1 world-history-project.zip .history-transfer/world-history-source.zip world-history/output/world-history-1080p60.mp4 world-history/output/history-preview.mp4 world-history/output/storyboard.png world-history/output/timeline.png world-history/subtitles.srt world-history/output/validation.json .history-transfer/SHA256SUMS.txt .history-transfer/decode-validation.json --clobber
+          gh release edit world-history-v1 --draft=false --latest=false
