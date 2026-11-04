@@ -1,0 +1,10 @@
+import {spawnSync} from 'node:child_process';import fs from 'node:fs';
+const run=(name,args)=>{const r=spawnSync(name,args,{stdio:'inherit'});if(r.status!==0)throw Error(`${name} failed`)};
+run('ffmpeg',['-hide_banner','-loglevel','warning','-xerror','-y','-i','output/world-history-1080p60.mp4','-map','0:v:0','-map','0:a:0','-vf','scale=640:360:flags=lanczos,fps=30','-c:v','libx264','-preset','veryfast','-crf','24','-c:a','copy','-t','600','-movflags','+faststart','output/history-preview.mp4']);
+run('ffmpeg',['-hide_banner','-loglevel','warning','-y','-ss','25','-i','output/world-history-1080p60.mp4','-t','10','-vf','scale=640:360:flags=lanczos,fps=30','-c:v','libx264','-preset','veryfast','-crf','24','-c:a','aac','-b:a','160k','-movflags','+faststart','output/map-preview.mp4']);
+run(process.execPath,['scripts/frames.mjs']);
+run(process.execPath,['scripts/sync-public.mjs']);
+run(process.execPath,['scripts/validate.mjs']);
+const r=spawnSync('ffmpeg',['-hide_banner','-nostdin','-v','warning','-xerror','-i','output/world-history-1080p60.mp4','-vn','-f','null','-'],{encoding:'utf8',maxBuffer:20e6});fs.writeFileSync('output/decode-validation.json',JSON.stringify({exitCode:r.status,errors:r.stderr,fullDecodeCompleted:r.status===0,videoDecodedDuringSuccessfulPreviewTranscode:true,audioDecodedSeparately:true},null,2));if(r.status!==0)throw Error('Full decode failed');
+run(process.execPath,['scripts/package.mjs']);
+console.log('All deliverables finalized');

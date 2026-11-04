@@ -1,0 +1,5 @@
+import fs from 'node:fs';import {spawn,spawnSync} from 'node:child_process';import {once} from 'node:events';
+const queue=Array.from({length:12},(_,i)=>i+1).filter(n=>n>=Number(process.argv[2]||1));
+const bounds=[0,25,80,130,185,240,295,345,395,440,495,555,600];
+async function worker(){while(queue.length){const n=queue.shift(),p=`output/chapter-${String(n).padStart(2,'0')}`;if(fs.existsSync(p+'.mp4')){const probe=spawnSync('ffprobe',['-v','quiet','-show_entries','stream=nb_frames','-select_streams','v:0','-of','csv=p=0',p+'.mp4'],{encoding:'utf8'});if(Number(probe.stdout.trim())===(bounds[n]-bounds[n-1])*60){console.log('Reuse '+p);continue;}}console.log('Rendering '+p);const log=fs.openSync(p+'.log','w');const job=spawn(process.execPath,['scripts/render.mjs','--chapter',String(n),'--width','1920','--fps','60','--output',p+'.mp4'],{stdio:['ignore',log,log]});const [code]=await once(job,'close');fs.closeSync(log);if(code!==0)throw Error('Render failed '+p);console.log('Complete '+p);}}
+await Promise.all([worker(),worker()]);let r=spawnSync(process.execPath,['scripts/assemble.mjs'],{stdio:'inherit'});if(r.status!==0)process.exit(r.status||1);

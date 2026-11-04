@@ -1,0 +1,776 @@
+[
+  {
+    "id": "neo-assyrian-650",
+    "name": "新亚述统治的主要城市，约前650年",
+    "chapter": 3,
+    "startYear": -650,
+    "endYear": -649,
+    "points": [
+      [
+        43.15,
+        36.36
+      ],
+      [
+        43.33,
+        36.1
+      ],
+      [
+        43.26,
+        35.46
+      ],
+      [
+        36.3,
+        33.51
+      ],
+      [
+        35.19,
+        32.28
+      ]
+    ],
+    "source": "https://www.metmuseum.org/toah/ht/04/wam.html",
+    "sources": [
+      "https://www.metmuseum.org/toah/ht/04/wam.html",
+      "https://www.metmuseum.org/toah/ht/04/wae.html",
+      "https://www.iranicaonline.org/articles/assyria-i/"
+    ],
+    "approximate": true,
+    "geometryType": "MultiPoint",
+    "cities": [
+      {
+        "name": "尼尼微",
+        "coordinates": [
+          43.15,
+          36.36
+        ],
+        "visibleByYear": -650
+      },
+      {
+        "name": "尼姆鲁德",
+        "coordinates": [
+          43.33,
+          36.1
+        ],
+        "visibleByYear": -650
+      },
+      {
+        "name": "亚述城",
+        "coordinates": [
+          43.26,
+          35.46
+        ],
+        "visibleByYear": -650
+      },
+      {
+        "name": "大马士革",
+        "coordinates": [
+          36.3,
+          33.51
+        ],
+        "visibleByYear": -650
+      },
+      {
+        "name": "撒马利亚",
+        "coordinates": [
+          35.19,
+          32.28
+        ],
+        "visibleByYear": -650
+      }
+    ],
+    "note": "核心城市节点示意；不是疆界多边形。节点间联系线不代表逐段实际道路或进军路线。展示本土中心与已被征服的黎凡特城市；没有将埃及在更早年份的短期占领延续到此前650年截面。"
+  },
+  {
+    "id": "achaemenid-500",
+    "name": "阿契美尼德行政中心，约前500年",
+    "chapter": 3,
+    "startYear": -500,
+    "endYear": -499,
+    "points": [
+      [
+        48.26,
+        32.19
+      ],
+      [
+        52.89,
+        29.94
+      ],
+      [
+        44.42,
+        32.54
+      ],
+      [
+        48.51,
+        34.8
+      ],
+      [
+        28.04,
+        38.49
+      ],
+      [
+        31.25,
+        29.85
+      ]
+    ],
+    "source": "https://www.iranicaonline.org/articles/capital-cities/",
+    "sources": [
+      "https://www.iranicaonline.org/articles/capital-cities/",
+      "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c"
+    ],
+    "approximate": true,
+    "geometryType": "MultiPoint",
+    "cities": [
+      {
+        "name": "苏萨",
+        "coordinates": [
+          48.26,
+          32.19
+        ],
+        "visibleByYear": -500
+      },
+      {
+        "name": "波斯波利斯",
+        "coordinates": [
+          52.89,
+          29.94
+        ],
+        "visibleByYear": -500
+      },
+      {
+        "name": "巴比伦",
+        "coordinates": [
+          44.42,
+          32.54
+        ],
+        "visibleByYear": -500
+      },
+      {
+        "name": "埃克巴坦那",
+        "coordinates": [
+          48.51,
+          34.8
+        ],
+        "visibleByYear": -500
+      },
+      {
+        "name": "萨迪斯",
+        "coordinates": [
+          28.04,
+          38.49
+        ],
+        "visibleByYear": -500
+      },
+      {
+        "name": "孟菲斯",
+        "coordinates": [
+          31.25,
+          29.85
+        ],
+        "visibleByYear": -500
+      }
+    ],
+    "note": "核心城市节点示意；不是疆界多边形。节点间联系线不代表逐段实际道路或进军路线。节点来自主要王室驻地及行省行政中心。"
+  },
+  {
+    "id": "qin-221",
+    "name": "秦统一后的核心城市，前221年",
+    "chapter": 4,
+    "startYear": -221,
+    "endYear": -206,
+    "points": [
+      [
+        108.71,
+        34.33
+      ],
+      [
+        114.49,
+        36.61
+      ],
+      [
+        118.31,
+        36.81
+      ],
+      [
+        114.35,
+        34.8
+      ]
+    ],
+    "source": "https://ajaonline.org/online-museum-review/369/",
+    "sources": [
+      "https://ajaonline.org/online-museum-review/369/",
+      "https://asia.si.edu/education/educator-resources/teaching-china-with-the-smithsonian/explore-by-dynasty/"
+    ],
+    "approximate": true,
+    "geometryType": "MultiPoint",
+    "cities": [
+      {
+        "name": "咸阳",
+        "coordinates": [
+          108.71,
+          34.33
+        ],
+        "visibleByYear": -221
+      },
+      {
+        "name": "邯郸",
+        "coordinates": [
+          114.49,
+          36.61
+        ],
+        "visibleByYear": -221
+      },
+      {
+        "name": "临淄",
+        "coordinates": [
+          118.31,
+          36.81
+        ],
+        "visibleByYear": -221
+      },
+      {
+        "name": "大梁",
+        "coordinates": [
+          114.35,
+          34.8
+        ],
+        "visibleByYear": -221
+      }
+    ],
+    "note": "核心城市节点示意；不是疆界多边形。节点间联系线不代表逐段实际道路或进军路线。前221年已完成对六国的征服；仅展示都城及被征服国家的若干旧都，不能据此推断边界，也未把前214年的岭南扩张提前。"
+  },
+  {
+    "id": "han-100",
+    "name": "东汉的若干主要城市，约100年",
+    "chapter": 4,
+    "startYear": 100,
+    "endYear": 101,
+    "points": [
+      [
+        112.58,
+        34.72
+      ],
+      [
+        108.86,
+        34.37
+      ],
+      [
+        104.07,
+        30.67
+      ],
+      [
+        112.53,
+        32.99
+      ],
+      [
+        117.19,
+        34.26
+      ]
+    ],
+    "source": "https://www.metmuseum.org/essays/han-dynasty-206-b-c-220-a-d",
+    "sources": [
+      "https://www.metmuseum.org/essays/han-dynasty-206-b-c-220-a-d",
+      "https://depts.washington.edu/silkroad/exhibit/han/essay.html"
+    ],
+    "approximate": true,
+    "geometryType": "MultiPoint",
+    "cities": [
+      {
+        "name": "洛阳",
+        "coordinates": [
+          112.58,
+          34.72
+        ],
+        "visibleByYear": 100
+      },
+      {
+        "name": "长安",
+        "coordinates": [
+          108.86,
+          34.37
+        ],
+        "visibleByYear": 100
+      },
+      {
+        "name": "成都",
+        "coordinates": [
+          104.07,
+          30.67
+        ],
+        "visibleByYear": 100
+      },
+      {
+        "name": "南阳",
+        "coordinates": [
+          112.53,
+          32.99
+        ],
+        "visibleByYear": 100
+      },
+      {
+        "name": "彭城",
+        "coordinates": [
+          117.19,
+          34.26
+        ],
+        "visibleByYear": 100
+      }
+    ],
+    "note": "核心城市节点示意；不是疆界多边形。节点间联系线不代表逐段实际道路或进军路线。首都为洛阳；长安保留为旧都与重要城市。不把西汉、东汉及西域都护控制变化合并成同一精确边界。"
+  },
+  {
+    "id": "roman-117",
+    "name": "罗马城市体系，约117年",
+    "chapter": 4,
+    "startYear": 117,
+    "endYear": 118,
+    "points": [
+      [
+        12.5,
+        41.9
+      ],
+      [
+        -0.09,
+        51.51
+      ],
+      [
+        4.82,
+        45.76
+      ],
+      [
+        10.32,
+        36.85
+      ],
+      [
+        29.92,
+        31.2
+      ],
+      [
+        36.16,
+        36.2
+      ],
+      [
+        27.34,
+        37.94
+      ]
+    ],
+    "source": "https://resources.metmuseum.org/resources/metpublications/pdf/Roman_Art_A_Resource_for_Educators.pdf",
+    "sources": [
+      "https://resources.metmuseum.org/resources/metpublications/pdf/Roman_Art_A_Resource_for_Educators.pdf",
+      "https://www.metmuseum.org/essays/the-roman-empire-27-b-c-393-a-d"
+    ],
+    "approximate": true,
+    "geometryType": "MultiPoint",
+    "cities": [
+      {
+        "name": "罗马",
+        "coordinates": [
+          12.5,
+          41.9
+        ],
+        "visibleByYear": 117
+      },
+      {
+        "name": "伦丁尼乌姆",
+        "coordinates": [
+          -0.09,
+          51.51
+        ],
+        "visibleByYear": 117
+      },
+      {
+        "name": "卢格杜努姆",
+        "coordinates": [
+          4.82,
+          45.76
+        ],
+        "visibleByYear": 117
+      },
+      {
+        "name": "迦太基",
+        "coordinates": [
+          10.32,
+          36.85
+        ],
+        "visibleByYear": 117
+      },
+      {
+        "name": "亚历山大",
+        "coordinates": [
+          29.92,
+          31.2
+        ],
+        "visibleByYear": 117
+      },
+      {
+        "name": "安条克",
+        "coordinates": [
+          36.16,
+          36.2
+        ],
+        "visibleByYear": 117
+      },
+      {
+        "name": "以弗所",
+        "coordinates": [
+          27.34,
+          37.94
+        ],
+        "visibleByYear": 117
+      }
+    ],
+    "note": "核心城市节点示意；不是疆界多边形。节点间联系线不代表逐段实际道路或进军路线。选取持续受罗马统治的已知城市；117年东方新占领地区控制短暂且变化迅速，因此不外推整个极盛版图。"
+  },
+  {
+    "id": "arab-650",
+    "name": "早期阿拉伯政权主要节点，约650年",
+    "chapter": 5,
+    "startYear": 650,
+    "endYear": 651,
+    "points": [
+      [
+        39.61,
+        24.47
+      ],
+      [
+        39.83,
+        21.42
+      ],
+      [
+        36.3,
+        33.51
+      ],
+      [
+        35.23,
+        31.78
+      ],
+      [
+        29.92,
+        31.2
+      ],
+      [
+        44.4,
+        32.03
+      ],
+      [
+        44.58,
+        33.09
+      ]
+    ],
+    "source": "https://www.metmuseum.org/exhibitions/listings/2012/byzantium-and-islam",
+    "sources": [
+      "https://www.metmuseum.org/exhibitions/listings/2012/byzantium-and-islam",
+      "https://www.metmuseum.org/essays/ctesiphon",
+      "https://antiquities.bibalex.org/Collection/Index.aspx?collection=41&lang=en"
+    ],
+    "approximate": true,
+    "geometryType": "MultiPoint",
+    "cities": [
+      {
+        "name": "麦地那",
+        "coordinates": [
+          39.61,
+          24.47
+        ],
+        "visibleByYear": 650
+      },
+      {
+        "name": "麦加",
+        "coordinates": [
+          39.83,
+          21.42
+        ],
+        "visibleByYear": 650
+      },
+      {
+        "name": "大马士革",
+        "coordinates": [
+          36.3,
+          33.51
+        ],
+        "visibleByYear": 650
+      },
+      {
+        "name": "耶路撒冷",
+        "coordinates": [
+          35.23,
+          31.78
+        ],
+        "visibleByYear": 650
+      },
+      {
+        "name": "亚历山大",
+        "coordinates": [
+          29.92,
+          31.2
+        ],
+        "visibleByYear": 650
+      },
+      {
+        "name": "库法",
+        "coordinates": [
+          44.4,
+          32.03
+        ],
+        "visibleByYear": 650
+      },
+      {
+        "name": "泰西封",
+        "coordinates": [
+          44.58,
+          33.09
+        ],
+        "visibleByYear": 650
+      }
+    ],
+    "note": "核心城市节点示意；不是疆界多边形。节点间联系线不代表逐段实际道路或进军路线。这是650年前后政治节点而非宗教信仰分布；大马士革成为倭马亚首都是661年，不能提前标成650年的首都。"
+  },
+  {
+    "id": "mongol-1227",
+    "name": "蒙古扩张第一阶段，至1227年",
+    "chapter": 6,
+    "startYear": 1206,
+    "endYear": 1227,
+    "points": [
+      [
+        109.2,
+        47.7
+      ],
+      [
+        116.35,
+        39.9
+      ],
+      [
+        64.42,
+        39.77
+      ],
+      [
+        66.96,
+        39.65
+      ],
+      [
+        59.08,
+        42.33
+      ]
+    ],
+    "source": "https://en.unesco.org/silkroad/sites/default/files/knowledge-bank-article/the%20mongol%20empire%20in%20the%20thirteenth%20and%20fourteenth%20centuries.pdf",
+    "sources": [
+      "https://en.unesco.org/silkroad/sites/default/files/knowledge-bank-article/the%20mongol%20empire%20in%20the%20thirteenth%20and%20fourteenth%20centuries.pdf",
+      "https://www.iranicaonline.org/articles/bukhara-iii/"
+    ],
+    "approximate": true,
+    "geometryType": "MultiPoint",
+    "cities": [
+      {
+        "name": "蒙古高原核心",
+        "coordinates": [
+          109.2,
+          47.7
+        ],
+        "visibleByYear": 1206
+      },
+      {
+        "name": "中都",
+        "coordinates": [
+          116.35,
+          39.9
+        ],
+        "visibleByYear": 1215
+      },
+      {
+        "name": "不花剌",
+        "coordinates": [
+          64.42,
+          39.77
+        ],
+        "visibleByYear": 1220
+      },
+      {
+        "name": "撒马尔罕",
+        "coordinates": [
+          66.96,
+          39.65
+        ],
+        "visibleByYear": 1220
+      },
+      {
+        "name": "玉龙杰赤",
+        "coordinates": [
+          59.08,
+          42.33
+        ],
+        "visibleByYear": 1221
+      }
+    ],
+    "note": "核心城市节点示意；不是疆界多边形。节点间联系线不代表逐段实际道路或进军路线。蒙古高原标记为区域核心而非已核实1206年首都；中都1215年、河中主要城市1220—1221年陆续被攻陷。动画须按阶段点亮，不能在1206年全部亮起。"
+  },
+  {
+    "id": "mongol-1260",
+    "name": "蒙古诸部统治节点，至1260年",
+    "chapter": 6,
+    "startYear": 1228,
+    "endYear": 1260,
+    "points": [
+      [
+        102.82,
+        47.2
+      ],
+      [
+        116.35,
+        39.9
+      ],
+      [
+        66.96,
+        39.65
+      ],
+      [
+        64.42,
+        39.77
+      ],
+      [
+        44.37,
+        33.31
+      ],
+      [
+        46.29,
+        38.08
+      ]
+    ],
+    "source": "https://www.metmuseum.org/essays/the-art-of-the-ilkhanid-period-1256-1353",
+    "sources": [
+      "https://www.metmuseum.org/essays/the-art-of-the-ilkhanid-period-1256-1353",
+      "https://en.unesco.org/silkroad/sites/default/files/knowledge-bank-article/the%20mongol%20empire%20in%20the%20thirteenth%20and%20fourteenth%20centuries.pdf"
+    ],
+    "approximate": true,
+    "geometryType": "MultiPoint",
+    "cities": [
+      {
+        "name": "哈剌和林",
+        "coordinates": [
+          102.82,
+          47.2
+        ],
+        "visibleByYear": 1220
+      },
+      {
+        "name": "中都",
+        "coordinates": [
+          116.35,
+          39.9
+        ],
+        "visibleByYear": 1215
+      },
+      {
+        "name": "撒马尔罕",
+        "coordinates": [
+          66.96,
+          39.65
+        ],
+        "visibleByYear": 1220
+      },
+      {
+        "name": "不花剌",
+        "coordinates": [
+          64.42,
+          39.77
+        ],
+        "visibleByYear": 1220
+      },
+      {
+        "name": "巴格达",
+        "coordinates": [
+          44.37,
+          33.31
+        ],
+        "visibleByYear": 1258
+      },
+      {
+        "name": "大不里士",
+        "coordinates": [
+          46.29,
+          38.08
+        ],
+        "visibleByYear": 1256
+      }
+    ],
+    "note": "核心城市节点示意；不是疆界多边形。节点间联系线不代表逐段实际道路或进军路线。巴格达1258年才被攻陷。1260年前后汗国分立加深；不表示从1206年到1279年始终单一统一国家。"
+  },
+  {
+    "id": "yuan-1279",
+    "name": "元朝在中国的主要城市，1279年",
+    "chapter": 6,
+    "startYear": 1279,
+    "endYear": 1280,
+    "points": [
+      [
+        116.4,
+        39.93
+      ],
+      [
+        120.16,
+        30.25
+      ],
+      [
+        104.07,
+        30.67
+      ],
+      [
+        108.94,
+        34.26
+      ],
+      [
+        118.59,
+        24.91
+      ]
+    ],
+    "source": "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368",
+    "sources": [
+      "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368",
+      "https://afe.easia.columbia.edu/songdynasty-module/index.html",
+      "https://www.metmuseum.org/toah/ht/07/eac.html"
+    ],
+    "approximate": true,
+    "geometryType": "MultiPoint",
+    "cities": [
+      {
+        "name": "大都",
+        "coordinates": [
+          116.4,
+          39.93
+        ],
+        "visibleByYear": 1279
+      },
+      {
+        "name": "杭州",
+        "coordinates": [
+          120.16,
+          30.25
+        ],
+        "visibleByYear": 1279
+      },
+      {
+        "name": "成都",
+        "coordinates": [
+          104.07,
+          30.67
+        ],
+        "visibleByYear": 1279
+      },
+      {
+        "name": "长安",
+        "coordinates": [
+          108.94,
+          34.26
+        ],
+        "visibleByYear": 1279
+      },
+      {
+        "name": "泉州",
+        "coordinates": [
+          118.59,
+          24.91
+        ],
+        "visibleByYear": 1279
+      }
+    ],
+    "note": "核心城市节点示意；不是疆界多边形。节点间联系线不代表逐段实际道路或进军路线。1279年南宋结束；元朝是蒙古诸政权之一，不把所有汗国涂成统一元朝。节点不扩及未被征服的日本或越南。"
+  }
+]

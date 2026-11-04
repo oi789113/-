@@ -1,0 +1,2310 @@
+[
+  {
+    "id": "rewind-uruk",
+    "name": "乌鲁克：时间旅程的起点",
+    "startYear": -3500,
+    "endYear": -3200,
+    "region": "两河流域",
+    "coordinates": [
+      45.64,
+      31.32
+    ],
+    "chapter": 1,
+    "type": "文明诞生",
+    "explanation": "约前四千纪后期城市规模与管理方式发生变化。",
+    "visual": "城市星光与地球展开",
+    "sources": [
+      "https://www.metmuseum.org/essays/uruk-the-first-city"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "uruk"
+    ]
+  },
+  {
+    "id": "rewind-egypt",
+    "name": "尼罗河文明锚点",
+    "startYear": -3100,
+    "endYear": -2600,
+    "region": "尼罗河谷",
+    "coordinates": [
+      31.22,
+      29.87
+    ],
+    "chapter": 1,
+    "type": "文明诞生",
+    "explanation": "古埃及国家形成与后来的古王国建筑并非同一瞬间。",
+    "visual": "倒带光点",
+    "sources": [
+      "https://whc.unesco.org/en/list/86/"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "egypt"
+    ]
+  },
+  {
+    "id": "rewind-indus",
+    "name": "印度河文明锚点",
+    "startYear": -2600,
+    "endYear": -1900,
+    "region": "印度河流域",
+    "coordinates": [
+      68.14,
+      27.33
+    ],
+    "chapter": 1,
+    "type": "城市兴起",
+    "explanation": "成熟哈拉帕城市文化形成独立区域网络。",
+    "visual": "倒带光点",
+    "sources": [
+      "https://www.metmuseum.org/toah/ht/02/ssa.html"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "indus"
+    ]
+  },
+  {
+    "id": "rewind-han",
+    "name": "欧亚交流锚点",
+    "startYear": -130,
+    "endYear": 220,
+    "region": "长安与中亚",
+    "coordinates": [
+      108.94,
+      34.26
+    ],
+    "chapter": 1,
+    "type": "贸易",
+    "explanation": "丝路是多条陆海交流网络的后世统称。",
+    "visual": "网络闪回",
+    "sources": [
+      "https://www.unesco.org/en/silk-roads/about-silk-roads",
+      "https://depts.washington.edu/silkroad/exhibit/han/essay.html"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "silk",
+      "han"
+    ]
+  },
+  {
+    "id": "rewind-industry",
+    "name": "工业城市锚点",
+    "startYear": 1760,
+    "endYear": 1848,
+    "region": "英国",
+    "coordinates": [
+      -2.24,
+      53.48
+    ],
+    "chapter": 1,
+    "type": "工业化",
+    "explanation": "工业化是数代人的社会与生产变化。",
+    "visual": "城市灯光熄灭",
+    "sources": [
+      "https://blog.sciencemuseum.org.uk/steaming-through-the-centuries/"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "industrial"
+    ]
+  },
+  {
+    "id": "rewind-1848",
+    "name": "1848年的出版锚点",
+    "startYear": 1848,
+    "endYear": 1848,
+    "region": "伦敦",
+    "coordinates": [
+      -0.13,
+      51.51
+    ],
+    "chapter": 1,
+    "type": "思想形成",
+    "explanation": "《共产党宣言》于1848年2月在伦敦以德文出版。",
+    "visual": "书页化为地图",
+    "sources": [
+      "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/",
+      "https://www.unesco.org/en/memory-world/manifest-der-kommunistischen-partei-draft-manuscript-page-and-das-kapital-erster-band-karl-marxs"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "manifesto",
+      "iish"
+    ]
+  },
+  {
+    "id": "uruk",
+    "name": "乌鲁克的城市化",
+    "startYear": -3500,
+    "endYear": -3200,
+    "region": "美索不达米亚南部",
+    "coordinates": [
+      45.64,
+      31.32
+    ],
+    "chapter": 2,
+    "type": "城市兴起",
+    "explanation": "灌溉农业、劳动分工与管理机构共同推动城市发展。",
+    "visual": "河流农田与城市点亮",
+    "sources": [
+      "https://www.metmuseum.org/essays/uruk-the-first-city"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "uruk"
+    ]
+  },
+  {
+    "id": "writing",
+    "name": "早期记账与文字",
+    "startYear": -3400,
+    "endYear": -3000,
+    "region": "乌鲁克",
+    "coordinates": [
+      45.64,
+      31.32
+    ],
+    "chapter": 2,
+    "type": "科学成就",
+    "explanation": "早期泥板记录物资与数量，逐渐发展出文字系统。",
+    "visual": "泥板压痕特写",
+    "sources": [
+      "https://www.metmuseum.org/essays/the-origins-of-writing"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "writing"
+    ]
+  },
+  {
+    "id": "egypt-state",
+    "name": "古埃及早期国家",
+    "startYear": -3100,
+    "endYear": -3000,
+    "region": "尼罗河流域",
+    "coordinates": [
+      31.22,
+      29.87
+    ],
+    "chapter": 2,
+    "type": "文明诞生",
+    "explanation": "通常把约前3100年视为早期统一国家形成的标志。",
+    "visual": "尼罗河聚落连接",
+    "sources": [
+      "https://egymonuments.gov.eg/en/historical-periods/early-dynastic-period",
+      "https://whc.unesco.org/en/list/86/"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "earlyEgypt",
+      "egypt"
+    ]
+  },
+  {
+    "id": "pyramids",
+    "name": "吉萨金字塔",
+    "startYear": -2600,
+    "endYear": -2500,
+    "region": "吉萨",
+    "coordinates": [
+      31.13,
+      29.98
+    ],
+    "chapter": 2,
+    "type": "文化传播",
+    "explanation": "古王国大型建筑体现国家组织与大量劳动投入。",
+    "visual": "地标转建筑剖面",
+    "sources": [
+      "https://whc.unesco.org/en/list/86/"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "egypt"
+    ]
+  },
+  {
+    "id": "harappa",
+    "name": "成熟哈拉帕城市",
+    "startYear": -2600,
+    "endYear": -1900,
+    "region": "印度河流域",
+    "coordinates": [
+      68.14,
+      27.33
+    ],
+    "chapter": 2,
+    "type": "城市兴起",
+    "explanation": "摩亨佐达罗等城市拥有街区与排水设施。",
+    "visual": "街道排水剖面",
+    "sources": [
+      "https://www.metmuseum.org/toah/ht/02/ssa.html"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "indus"
+    ]
+  },
+  {
+    "id": "early-china",
+    "name": "黄河流域早期商代与青铜",
+    "startYear": -1600,
+    "endYear": -1500,
+    "region": "黄河流域",
+    "coordinates": [
+      113.65,
+      34.75
+    ],
+    "chapter": 2,
+    "type": "文明诞生",
+    "explanation": "早商国家与青铜文明在此时期发展，起始年代为约数。",
+    "visual": "青铜纹样与中心光点",
+    "sources": [
+      "https://www.metmuseum.org/essays/shang-and-zhou-dynasties-the-bronze-age-of-china"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "shang"
+    ]
+  },
+  {
+    "id": "caral",
+    "name": "卡拉尔—苏佩复杂社会",
+    "startYear": -3000,
+    "endYear": -1800,
+    "region": "安第斯中部海岸",
+    "coordinates": [
+      -77.52,
+      -10.89
+    ],
+    "chapter": 2,
+    "type": "文明诞生",
+    "explanation": "美洲的早期复杂社会独立发展，不能提前放入后来的印加帝国。",
+    "visual": "太平洋两岸双地图",
+    "sources": [
+      "https://whc.unesco.org/en/list/1269/"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "caral"
+    ]
+  },
+  {
+    "id": "late-bronze",
+    "name": "晚期青铜时代交流",
+    "startYear": -1500,
+    "endYear": -1200,
+    "region": "东地中海",
+    "coordinates": [
+      33.5,
+      35.0
+    ],
+    "chapter": 3,
+    "type": "贸易",
+    "explanation": "宫廷、港口与金属原料网络跨越多个地区。",
+    "visual": "港口与货物路径",
+    "sources": [
+      "https://nauticalarch.org/projects/uluburun-late-bronze-age-shipwreck-excavation/",
+      "https://www.metmuseum.org/toah/ht/04/wae.html"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "uluburun",
+      "phoenicia"
+    ]
+  },
+  {
+    "id": "iron",
+    "name": "铁器逐步推广",
+    "startYear": -1200,
+    "endYear": -600,
+    "region": "西亚与东地中海",
+    "coordinates": [
+      35.5,
+      37.0
+    ],
+    "chapter": 3,
+    "type": "科学成就",
+    "explanation": "铁器应用渐增，不是某年全世界同时进入铁器时代。",
+    "visual": "金属纹理转工具",
+    "sources": [
+      "https://www.metmuseum.org/toah/ht/04/wae.html"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "phoenicia"
+    ]
+  },
+  {
+    "id": "phoenician",
+    "name": "腓尼基航海贸易",
+    "startYear": -1000,
+    "endYear": -600,
+    "region": "地中海",
+    "coordinates": [
+      35.2,
+      33.27
+    ],
+    "chapter": 3,
+    "type": "贸易",
+    "explanation": "黎凡特港口与地中海多地建立贸易和殖民据点。",
+    "visual": "海上多节点路线",
+    "sources": [
+      "https://www.metmuseum.org/toah/ht/04/wae.html"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "phoenicia"
+    ]
+  },
+  {
+    "id": "assyria",
+    "name": "新亚述扩张",
+    "startYear": -911,
+    "endYear": -609,
+    "region": "两河流域北部",
+    "coordinates": [
+      43.15,
+      36.36
+    ],
+    "chapter": 3,
+    "type": "帝国扩张",
+    "explanation": "扩张分阶段进行，军事强制、贡赋与行政机构相互配合。",
+    "visual": "分期概略墨染区域",
+    "sources": [
+      "https://www.iranicaonline.org/articles/assyria-i/",
+      "https://www.metmuseum.org/toah/ht/04/wam.html"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "assyria",
+      "babylon"
+    ]
+  },
+  {
+    "id": "babylon",
+    "name": "新巴比伦王国",
+    "startYear": -626,
+    "endYear": -539,
+    "region": "巴比伦",
+    "coordinates": [
+      44.42,
+      32.54
+    ],
+    "chapter": 3,
+    "type": "国家更替",
+    "explanation": "新巴比伦兴起并参与消灭亚述，前539年被波斯征服。",
+    "visual": "城市与政权阶段变化",
+    "sources": [
+      "https://www.metmuseum.org/toah/ht/04/wam.html",
+      "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "babylon",
+      "persia"
+    ]
+  },
+  {
+    "id": "persia",
+    "name": "阿契美尼德波斯兴起",
+    "startYear": -550,
+    "endYear": -500,
+    "region": "伊朗至西亚",
+    "coordinates": [
+      52.89,
+      29.94
+    ],
+    "chapter": 3,
+    "type": "帝国扩张",
+    "explanation": "居鲁士及继承者扩张，行省与道路支持跨地区统治。",
+    "visual": "概略扩展与驿路",
+    "sources": [
+      "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "persia"
+    ]
+  },
+  {
+    "id": "zhou",
+    "name": "商周政治与礼制",
+    "startYear": -1600,
+    "endYear": -500,
+    "region": "黄河与长江流域",
+    "coordinates": [
+      114.35,
+      36.1
+    ],
+    "chapter": 3,
+    "type": "国家更替",
+    "explanation": "商代青铜礼器与西周政治网络经历长期演变。",
+    "visual": "青铜器变关系网络",
+    "sources": [
+      "https://www.metmuseum.org/essays/shang-and-zhou-dynasties-the-bronze-age-of-china"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "shang"
+    ]
+  },
+  {
+    "id": "olmec",
+    "name": "奥尔梅克文化",
+    "startYear": -1500,
+    "endYear": -400,
+    "region": "墨西哥湾沿岸",
+    "coordinates": [
+      -94.77,
+      17.76
+    ],
+    "chapter": 3,
+    "type": "文明诞生",
+    "explanation": "圣洛伦索与拉文塔等中心在不同阶段兴盛。",
+    "visual": "石雕地标与聚落",
+    "sources": [
+      "https://www.metmuseum.org/essays/olmec-art"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "olmec"
+    ]
+  },
+  {
+    "id": "greek-poleis",
+    "name": "希腊城邦与思想",
+    "startYear": -500,
+    "endYear": -323,
+    "region": "爱琴海",
+    "coordinates": [
+      23.73,
+      37.98
+    ],
+    "chapter": 4,
+    "type": "文化传播",
+    "explanation": "城邦制度、哲学与艺术在竞争和交流中发展。",
+    "visual": "爱琴海城邦群点",
+    "sources": [
+      "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "greece"
+    ]
+  },
+  {
+    "id": "persian-wars",
+    "name": "希波战争",
+    "startYear": -490,
+    "endYear": -479,
+    "region": "希腊与爱琴海",
+    "coordinates": [
+      23.97,
+      38.15
+    ],
+    "chapter": 4,
+    "type": "战争",
+    "explanation": "马拉松与萨拉米斯等战役发生于不同年份。",
+    "visual": "已知战场定位与结果",
+    "sources": [
+      "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c",
+      "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "greece",
+      "persia"
+    ]
+  },
+  {
+    "id": "peloponnesian",
+    "name": "伯罗奔尼撒战争",
+    "startYear": -431,
+    "endYear": -404,
+    "region": "希腊",
+    "coordinates": [
+      22.43,
+      37.08
+    ],
+    "chapter": 4,
+    "type": "战争",
+    "explanation": "雅典与斯巴达及各自盟邦之间的战争削弱城邦体系。",
+    "visual": "盟邦连线与战区",
+    "sources": [
+      "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "greece"
+    ]
+  },
+  {
+    "id": "alexander",
+    "name": "亚历山大东征",
+    "startYear": -334,
+    "endYear": -323,
+    "region": "东地中海至印度河",
+    "coordinates": [
+      44.42,
+      32.54
+    ],
+    "chapter": 4,
+    "type": "战争",
+    "explanation": "征服带来政权变化，也扩大希腊化时期的人员文化交流。",
+    "visual": "分阶段主要地点方向",
+    "sources": [
+      "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c",
+      "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "greece",
+      "persia"
+    ]
+  },
+  {
+    "id": "roman-change",
+    "name": "罗马共和国转向帝制",
+    "startYear": -100,
+    "endYear": -27,
+    "region": "地中海",
+    "coordinates": [
+      12.5,
+      41.9
+    ],
+    "chapter": 4,
+    "type": "国家更替",
+    "explanation": "长期战争、社会冲突与内战后，奥古斯都确立元首制。",
+    "visual": "罗马道路汇聚",
+    "sources": [
+      "https://resources.metmuseum.org/resources/metpublications/pdf/Roman_Art_A_Resource_for_Educators.pdf"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "rome"
+    ]
+  },
+  {
+    "id": "roman-roads",
+    "name": "罗马道路与城市",
+    "startYear": -27,
+    "endYear": 220,
+    "region": "地中海世界",
+    "coordinates": [
+      12.5,
+      41.9
+    ],
+    "chapter": 4,
+    "type": "城市兴起",
+    "explanation": "道路服务军事、行政与贸易，不等于现代国家交通网。",
+    "visual": "道路生长与城市",
+    "sources": [
+      "https://resources.metmuseum.org/resources/metpublications/pdf/Roman_Art_A_Resource_for_Educators.pdf"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "rome"
+    ]
+  },
+  {
+    "id": "maurya",
+    "name": "孔雀王朝与阿育王",
+    "startYear": -322,
+    "endYear": -185,
+    "region": "南亚",
+    "coordinates": [
+      85.14,
+      25.61
+    ],
+    "chapter": 4,
+    "type": "帝国扩张",
+    "explanation": "孔雀王朝统治南亚广大地区，阿育王支持佛教。",
+    "visual": "概略区域与石柱",
+    "sources": [
+      "https://www.metmuseum.org/essays/mauryan-empire-ca-323-185-b-c"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "maurya"
+    ]
+  },
+  {
+    "id": "qin",
+    "name": "秦统一",
+    "startYear": -221,
+    "endYear": -206,
+    "region": "中国",
+    "coordinates": [
+      108.71,
+      34.33
+    ],
+    "chapter": 4,
+    "type": "国家更替",
+    "explanation": "秦统一六国并推行行政与制度整合。",
+    "visual": "区域聚合与道路",
+    "sources": [
+      "https://depts.washington.edu/silkroad/exhibit/han/essay.html"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "han"
+    ]
+  },
+  {
+    "id": "han-networks",
+    "name": "汉代与中亚交流",
+    "startYear": -130,
+    "endYear": 220,
+    "region": "长安—河西—中亚",
+    "coordinates": [
+      108.94,
+      34.26
+    ],
+    "chapter": 4,
+    "type": "贸易",
+    "explanation": "多段贸易依赖中亚等地中介，并有并行海路。",
+    "visual": "分叉丝路与物件移动",
+    "sources": [
+      "https://depts.washington.edu/silkroad/exhibit/han/essay.html",
+      "https://www.unesco.org/en/silk-roads/about-silk-roads"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "han",
+      "silk"
+    ]
+  },
+  {
+    "id": "rome-division",
+    "name": "罗马帝国的分治",
+    "startYear": 284,
+    "endYear": 395,
+    "region": "地中海",
+    "coordinates": [
+      28.98,
+      41.01
+    ],
+    "chapter": 5,
+    "type": "国家更替",
+    "explanation": "三世纪以来多次分治，395年后的东西政治格局逐渐持续。",
+    "visual": "分层区域缓慢变化",
+    "sources": [
+      "https://www.metmuseum.org/essays/byzantium-ca-330-1453"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "byzantium"
+    ]
+  },
+  {
+    "id": "west-rome",
+    "name": "西罗马统治结构终结",
+    "startYear": 476,
+    "endYear": 476,
+    "region": "意大利",
+    "coordinates": [
+      12.2,
+      44.42
+    ],
+    "chapter": 5,
+    "type": "国家更替",
+    "explanation": "476年是常用标志，西部罗马制度和文化并未突然消失。",
+    "visual": "权力中心变暗与延续线",
+    "sources": [
+      "https://www.metmuseum.org/essays/byzantium-ca-330-1453"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "byzantium"
+    ]
+  },
+  {
+    "id": "east-rome",
+    "name": "东罗马延续",
+    "startYear": 330,
+    "endYear": 650,
+    "region": "君士坦丁堡与东地中海",
+    "coordinates": [
+      28.98,
+      41.01
+    ],
+    "chapter": 5,
+    "type": "国家更替",
+    "explanation": "东罗马自视为罗马帝国的延续。",
+    "visual": "建筑与城市再聚焦",
+    "sources": [
+      "https://www.metmuseum.org/essays/byzantium-ca-330-1453"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "byzantium"
+    ]
+  },
+  {
+    "id": "christianity",
+    "name": "基督教的发展与传播",
+    "startYear": 250,
+    "endYear": 650,
+    "region": "地中海及周边",
+    "coordinates": [
+      35.23,
+      31.78
+    ],
+    "chapter": 5,
+    "type": "宗教传播",
+    "explanation": "宗教传播、政治支持与教义争论是不同层次的过程。",
+    "visual": "开放网络与地区辉光",
+    "sources": [
+      "https://www.metmuseum.org/essays/byzantium-ca-330-1453"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "byzantium"
+    ]
+  },
+  {
+    "id": "gupta",
+    "name": "笈多时代文化科学",
+    "startYear": 320,
+    "endYear": 550,
+    "region": "南亚",
+    "coordinates": [
+      82.97,
+      25.32
+    ],
+    "chapter": 5,
+    "type": "科学成就",
+    "explanation": "数学、天文学、文学与艺术经多人多地积累发展。",
+    "visual": "数位与寺院网络",
+    "sources": [
+      "https://afe.easia.columbia.edu/tps/300ce_sa.htm",
+      "https://www.metmuseum.org/essays/buddhism-and-buddhist-art"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "gupta",
+      "buddhism"
+    ]
+  },
+  {
+    "id": "buddhist-networks",
+    "name": "佛教沿陆海网络传播",
+    "startYear": 220,
+    "endYear": 650,
+    "region": "南亚、中亚与东亚",
+    "coordinates": [
+      80.18,
+      37.11
+    ],
+    "chapter": 5,
+    "type": "宗教传播",
+    "explanation": "商人、僧侣、译经与地方社会共同参与传播。",
+    "visual": "多路经卷移动",
+    "sources": [
+      "https://www.metmuseum.org/essays/buddhism-and-buddhist-art",
+      "https://www.unesco.org/en/silk-roads/about-silk-roads"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "buddhism",
+      "silk"
+    ]
+  },
+  {
+    "id": "sui-tang",
+    "name": "分裂后的隋唐政权",
+    "startYear": 220,
+    "endYear": 618,
+    "region": "中国",
+    "coordinates": [
+      108.94,
+      34.26
+    ],
+    "chapter": 5,
+    "type": "国家更替",
+    "explanation": "魏晋南北朝历经多个政权，隋589年统一，唐618年建立。",
+    "visual": "多中心连接与运河",
+    "sources": [
+      "https://www.metmuseum.org/toah/ht/05/eac/",
+      "https://www.metmuseum.org/toah/ht/06/eac.html"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "sixdynasties",
+      "suitang"
+    ]
+  },
+  {
+    "id": "early-islam",
+    "name": "伊斯兰教兴起与早期扩展",
+    "startYear": 610,
+    "endYear": 650,
+    "region": "阿拉伯半岛及西亚",
+    "coordinates": [
+      39.61,
+      24.47
+    ],
+    "chapter": 5,
+    "type": "宗教传播",
+    "explanation": "7世纪宗教兴起与阿拉伯政权扩展，政治控制不等于立即皈依。",
+    "visual": "半岛聚焦后概略外扩",
+    "sources": [
+      "https://www.metmuseum.org/exhibitions/listings/2012/byzantium-and-islam"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "islam"
+    ]
+  },
+  {
+    "id": "tang-song",
+    "name": "唐宋城市与技术",
+    "startYear": 650,
+    "endYear": 1279,
+    "region": "中国",
+    "coordinates": [
+      114.31,
+      30.6
+    ],
+    "chapter": 6,
+    "type": "科学成就",
+    "explanation": "城市商业、造纸、印刷与火药技术在不同阶段发展。",
+    "visual": "城市星群与工艺剖面",
+    "sources": [
+      "https://afe.easia.columbia.edu/songdynasty-module/index.html"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "china"
+    ]
+  },
+  {
+    "id": "diamond-sutra",
+    "name": "868年《金刚经》印本",
+    "startYear": 868,
+    "endYear": 868,
+    "region": "敦煌出土文物",
+    "coordinates": [
+      94.81,
+      40.04
+    ],
+    "chapter": 6,
+    "type": "科学成就",
+    "explanation": "现存有明确纪年的早期完整印本；不是印刷技术发明时刻。",
+    "visual": "木版与纸张压印",
+    "sources": [
+      "https://idp.bl.uk/discover/learning/buddhism-on-the-silk-roads/articles/buddhism-on-the-ground/buddhist-texts-the-diamond-sutra/"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "print"
+    ]
+  },
+  {
+    "id": "abbasid",
+    "name": "阿拔斯学术与翻译",
+    "startYear": 750,
+    "endYear": 1000,
+    "region": "巴格达",
+    "coordinates": [
+      44.37,
+      33.31
+    ],
+    "chapter": 6,
+    "type": "科学成就",
+    "explanation": "跨语言学者整理、翻译并创新数学医学等知识。",
+    "visual": "书页—知识网络",
+    "sources": [
+      "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "https://doi.org/10.1086/698236"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "abbasid",
+      "translation"
+    ]
+  },
+  {
+    "id": "indian-ocean",
+    "name": "印度洋贸易网络",
+    "startYear": 650,
+    "endYear": 1400,
+    "region": "印度洋",
+    "coordinates": [
+      75.78,
+      11.26
+    ],
+    "chapter": 6,
+    "type": "贸易",
+    "explanation": "季风帮助多方向航行，沿海社会长期参与交流。",
+    "visual": "季风弧线与帆船",
+    "sources": [
+      "https://www.unesco.org/en/silk-roads/about-silk-roads",
+      "https://whc.unesco.org/en/list/144/"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "silk",
+      "kilwa"
+    ]
+  },
+  {
+    "id": "southeast-asia",
+    "name": "东南亚港口与信仰",
+    "startYear": 700,
+    "endYear": 1300,
+    "region": "苏门答腊及海峡",
+    "coordinates": [
+      104.75,
+      -2.99
+    ],
+    "chapter": 6,
+    "type": "贸易",
+    "explanation": "港口联系南亚与东亚，宗教和文化由本地社会重新塑造。",
+    "visual": "港口网络与建筑",
+    "sources": [
+      "https://www.unesco.org/en/silk-roads/about-silk-roads"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "silk"
+    ]
+  },
+  {
+    "id": "mali",
+    "name": "马里与跨撒哈拉贸易",
+    "startYear": 1230,
+    "endYear": 1400,
+    "region": "西非萨赫勒",
+    "coordinates": [
+      -3.01,
+      16.77
+    ],
+    "chapter": 6,
+    "type": "贸易",
+    "explanation": "黄金、盐与其他物资交换支撑西非城市和政治力量。",
+    "visual": "陆上虚线与商队",
+    "sources": [
+      "https://www.metmuseum.org/essays/the-trans-saharan-gold-trade-7th-14th-century"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "mali"
+    ]
+  },
+  {
+    "id": "kilwa",
+    "name": "基尔瓦与斯瓦希里海岸",
+    "startYear": 1200,
+    "endYear": 1400,
+    "region": "东非海岸",
+    "coordinates": [
+      39.52,
+      -8.96
+    ],
+    "chapter": 6,
+    "type": "城市兴起",
+    "explanation": "非洲沿海商人连接腹地、阿拉伯、印度与中国。",
+    "visual": "海港转印度洋地图",
+    "sources": [
+      "https://whc.unesco.org/en/list/144/"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "kilwa"
+    ]
+  },
+  {
+    "id": "maya",
+    "name": "玛雅城市、文字与历法",
+    "startYear": 250,
+    "endYear": 900,
+    "region": "中美洲",
+    "coordinates": [
+      -89.62,
+      17.22
+    ],
+    "chapter": 6,
+    "type": "科学成就",
+    "explanation": "玛雅社会拥有复杂文字与历法，城市兴衰各不相同。",
+    "visual": "阶梯建筑与天文盘",
+    "sources": [
+      "https://www.marc.ucsb.edu/research/maya/ancient-maya-civilization/classic-period"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "maya"
+    ]
+  },
+  {
+    "id": "europe-towns",
+    "name": "欧洲城市与大学",
+    "startYear": 1100,
+    "endYear": 1400,
+    "region": "西欧",
+    "coordinates": [
+      11.34,
+      44.49
+    ],
+    "chapter": 6,
+    "type": "文化传播",
+    "explanation": "城市商业及大学制度发展，学习包括跨文化知识交流。",
+    "visual": "城市与书籍连线",
+    "sources": [
+      "https://www.unibo.it/en/university/who-we-are/our-history",
+      "https://crrs.library.utoronto.ca/exhibits/show/vic449/vic449exhibit"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "bologna",
+      "renaissance"
+    ]
+  },
+  {
+    "id": "mongol",
+    "name": "蒙古扩张与欧亚联系",
+    "startYear": 1206,
+    "endYear": 1279,
+    "region": "蒙古及欧亚大陆",
+    "coordinates": [
+      102.82,
+      47.2
+    ],
+    "chapter": 6,
+    "type": "帝国扩张",
+    "explanation": "多代扩张伴随毁灭和人口迁移，也重组跨区域交通。",
+    "visual": "分代墨染与驿站",
+    "sources": [
+      "https://www.metmuseum.org/essays/the-art-of-the-ilkhanid-period-1256-1353",
+      "https://www.unesco.org/en/silk-roads/about-silk-roads"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "mongol",
+      "silk"
+    ]
+  },
+  {
+    "id": "black-death",
+    "name": "黑死病",
+    "startYear": 1347,
+    "endYear": 1353,
+    "region": "地中海、欧洲、西亚及北非",
+    "coordinates": [
+      15.09,
+      37.5
+    ],
+    "chapter": 6,
+    "type": "灾难",
+    "explanation": "瘟疫造成灾难性死亡；早期起源和传播细节仍有研究争论。",
+    "visual": "肃穆灰红扩散示意",
+    "sources": [
+      "https://openstax.org/books/world-history-volume-1/pages/16-3-the-black-death-from-east-to-west",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11949646/"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "plague",
+      "plagueDebate"
+    ]
+  },
+  {
+    "id": "renaissance",
+    "name": "文艺复兴与人文主义",
+    "startYear": 1350,
+    "endYear": 1550,
+    "region": "意大利及欧洲",
+    "coordinates": [
+      11.26,
+      43.77
+    ],
+    "chapter": 7,
+    "type": "文化传播",
+    "explanation": "城市、赞助和古典文献研究推动文化变化。",
+    "visual": "建筑透视与书页",
+    "sources": [
+      "https://crrs.library.utoronto.ca/exhibits/show/vic449/vic449exhibit"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "renaissance"
+    ]
+  },
+  {
+    "id": "china-print-context",
+    "name": "东亚印刷的不同背景",
+    "startYear": 868,
+    "endYear": 1400,
+    "region": "东亚",
+    "coordinates": [
+      114.31,
+      30.6
+    ],
+    "chapter": 7,
+    "type": "科学成就",
+    "explanation": "欧洲印刷之前，东亚雕版和活字已有长期发展。",
+    "visual": "双时段印刷对照",
+    "sources": [
+      "https://idp.bl.uk/discover/learning/buddhism-on-the-silk-roads/articles/buddhism-on-the-ground/buddhist-texts-the-diamond-sutra/",
+      "https://afe.easia.columbia.edu/songdynasty-module/index.html"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "print",
+      "china"
+    ]
+  },
+  {
+    "id": "gutenberg",
+    "name": "欧洲金属活字印刷",
+    "startYear": 1450,
+    "endYear": 1500,
+    "region": "美因茨及欧洲",
+    "coordinates": [
+      8.27,
+      50.0
+    ],
+    "chapter": 7,
+    "type": "科学成就",
+    "explanation": "15世纪中叶欧洲印刷系统推广，加快文本复制。",
+    "visual": "字模排列与压印",
+    "sources": [
+      "https://crrs.library.utoronto.ca/exhibits/show/vic449/vic449exhibit"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "renaissance"
+    ]
+  },
+  {
+    "id": "zheng-he",
+    "name": "郑和下西洋",
+    "startYear": 1405,
+    "endYear": 1433,
+    "region": "南海与印度洋",
+    "coordinates": [
+      118.8,
+      32.06
+    ],
+    "chapter": 7,
+    "type": "航海",
+    "explanation": "七次航行依托早已存在的印度洋交通网络。",
+    "visual": "分段港口航线",
+    "sources": [
+      "https://afe.easia.columbia.edu/special/china_1000ce_mingvoyages.htm"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "zheng"
+    ]
+  },
+  {
+    "id": "portugal-africa",
+    "name": "葡萄牙沿非洲航行",
+    "startYear": 1415,
+    "endYear": 1488,
+    "region": "非洲西岸至好望角",
+    "coordinates": [
+      18.48,
+      -34.36
+    ],
+    "chapter": 7,
+    "type": "航海",
+    "explanation": "逐步探航改变海路，也伴随暴力、殖民与奴役。",
+    "visual": "沿海分阶段路线",
+    "sources": [
+      "https://www.parlamento.pt/VisitaParlamento/Paginas/BiogVascodaGama.aspx",
+      "https://www.loc.gov/exhibits/1492/"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "gama",
+      "columbus"
+    ]
+  },
+  {
+    "id": "columbus-1492",
+    "name": "1492年跨大西洋航行",
+    "startYear": 1492,
+    "endYear": 1492,
+    "region": "加那利至加勒比",
+    "coordinates": [
+      -74.5,
+      24.06
+    ],
+    "chapter": 7,
+    "type": "航海",
+    "explanation": "欧洲人与长期存在的美洲社会建立持续而不平等的联系。",
+    "visual": "大西洋航线跟随",
+    "sources": [
+      "https://www.loc.gov/exhibits/1492/",
+      "https://www.loc.gov/exhibits/1492/america.html"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "columbus",
+      "america"
+    ]
+  },
+  {
+    "id": "gama-1498",
+    "name": "达·伽马抵达印度",
+    "startYear": 1497,
+    "endYear": 1498,
+    "region": "好望角至卡利卡特",
+    "coordinates": [
+      75.78,
+      11.26
+    ],
+    "chapter": 7,
+    "type": "航海",
+    "explanation": "船队经非洲南端进入印度洋，利用区域航海知识抵达印度。",
+    "visual": "绕非洲再进入季风区",
+    "sources": [
+      "https://www.parlamento.pt/VisitaParlamento/Paginas/BiogVascodaGama.aspx"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "gama"
+    ]
+  },
+  {
+    "id": "aztec-conquest",
+    "name": "墨西加帝国遭征服",
+    "startYear": 1519,
+    "endYear": 1521,
+    "region": "特诺奇蒂特兰",
+    "coordinates": [
+      -99.13,
+      19.43
+    ],
+    "chapter": 8,
+    "type": "战争",
+    "explanation": "西班牙军与原住民盟友、地方冲突和疫病共同影响结果。",
+    "visual": "城市、围困与断裂",
+    "sources": [
+      "https://www.loc.gov/exhibits/1492/eurocla.html",
+      "https://www.loc.gov/exhibits/1492/america.html"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "conquest",
+      "america"
+    ]
+  },
+  {
+    "id": "inca-conquest",
+    "name": "印加政权遭征服",
+    "startYear": 1532,
+    "endYear": 1533,
+    "region": "安第斯",
+    "coordinates": [
+      -78.52,
+      -7.16
+    ],
+    "chapter": 8,
+    "type": "战争",
+    "explanation": "西班牙征服利用内战局势，安第斯抵抗此后仍延续。",
+    "visual": "卡哈马卡定位与扩散",
+    "sources": [
+      "https://www.loc.gov/exhibits/1492/eurocla.html"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "conquest"
+    ]
+  },
+  {
+    "id": "crops",
+    "name": "哥伦布大交换：作物",
+    "startYear": 1500,
+    "endYear": 1700,
+    "region": "跨大西洋及全球",
+    "coordinates": [
+      -30.0,
+      10.0
+    ],
+    "chapter": 8,
+    "type": "贸易",
+    "explanation": "玉米、马铃薯等与小麦、牲畜等跨洋迁移，影响饮食与生态。",
+    "visual": "作物双向移动",
+    "sources": [
+      "https://www.aeaweb.org/articles?id=10.1257/jep.24.2.163"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "exchange"
+    ]
+  },
+  {
+    "id": "disease-americas",
+    "name": "疾病、强制劳动与人口灾难",
+    "startYear": 1500,
+    "endYear": 1700,
+    "region": "美洲",
+    "coordinates": [
+      -85.0,
+      10.0
+    ],
+    "chapter": 8,
+    "type": "灾难",
+    "explanation": "疫病与殖民暴力、剥削相互作用，造成严重人口灾难。",
+    "visual": "克制的聚落熄灭",
+    "sources": [
+      "https://www.aeaweb.org/articles?id=10.1257/jep.24.2.163",
+      "https://www.loc.gov/exhibits/1492/eurocla.html"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "exchange",
+      "conquest"
+    ]
+  },
+  {
+    "id": "atlantic-slavery",
+    "name": "大西洋奴隶贸易",
+    "startYear": 1500,
+    "endYear": 1700,
+    "region": "非洲至美洲",
+    "coordinates": [
+      -1.24,
+      5.1
+    ],
+    "chapter": 8,
+    "type": "强迫迁移",
+    "explanation": "被奴役者遭强迫跨洋，贸易在本章后仍长期延续。",
+    "visual": "无娱乐货物图标的强迫迁移线",
+    "sources": [
+      "https://legacy.slavevoyages.org/blog/methodology-trans-atlantic"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "slavery"
+    ]
+  },
+  {
+    "id": "global-silver",
+    "name": "美洲白银与亚洲商品",
+    "startYear": 1565,
+    "endYear": 1700,
+    "region": "阿卡普尔科—马尼拉",
+    "coordinates": [
+      120.98,
+      14.6
+    ],
+    "chapter": 8,
+    "type": "贸易",
+    "explanation": "白银、丝绸与瓷器把太平洋与更广阔市场连接起来。",
+    "visual": "跨太平洋分段网络",
+    "sources": [
+      "https://www.metmuseum.org/essays/the-manila-galleon-trade-1565-1815"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "silver"
+    ]
+  },
+  {
+    "id": "reformation",
+    "name": "欧洲宗教改革",
+    "startYear": 1517,
+    "endYear": 1648,
+    "region": "欧洲",
+    "coordinates": [
+      12.64,
+      51.87
+    ],
+    "chapter": 8,
+    "type": "宗教传播",
+    "explanation": "改革、反改革及政治冲突重塑欧洲社会，不能简化为单一战争。",
+    "visual": "文本网络分叉",
+    "sources": [
+      "https://www.metmuseum.org/toah/ht/08/euwc.html"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "reform"
+    ]
+  },
+  {
+    "id": "copernicus",
+    "name": "哥白尼著作出版",
+    "startYear": 1543,
+    "endYear": 1543,
+    "region": "纽伦堡",
+    "coordinates": [
+      11.08,
+      49.45
+    ],
+    "chapter": 9,
+    "type": "科学成就",
+    "explanation": "《天体运行论》提出以太阳为中心安排天体的模型。",
+    "visual": "地图变天体运行图",
+    "sources": [
+      "https://science.nasa.gov/earth/earth-observatory/planetary-motion/"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "science"
+    ]
+  },
+  {
+    "id": "galileo",
+    "name": "伽利略观测与实验",
+    "startYear": 1609,
+    "endYear": 1638,
+    "region": "帕多瓦与佛罗伦萨",
+    "coordinates": [
+      11.88,
+      45.41
+    ],
+    "chapter": 9,
+    "type": "科学成就",
+    "explanation": "望远镜观测与运动研究提供新证据，并引发争论。",
+    "visual": "透镜、木星卫星与落体",
+    "sources": [
+      "https://science.nasa.gov/earth/earth-observatory/planetary-motion/"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "science"
+    ]
+  },
+  {
+    "id": "kepler",
+    "name": "开普勒行星运动研究",
+    "startYear": 1609,
+    "endYear": 1619,
+    "region": "布拉格等地",
+    "coordinates": [
+      14.42,
+      50.08
+    ],
+    "chapter": 9,
+    "type": "科学成就",
+    "explanation": "利用第谷的观测数据发展行星运动定律。",
+    "visual": "椭圆轨道与等面积扇区",
+    "sources": [
+      "https://science.nasa.gov/earth/earth-observatory/planetary-motion/"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "science"
+    ]
+  },
+  {
+    "id": "science-networks",
+    "name": "知识传播与共同检验",
+    "startYear": 1550,
+    "endYear": 1720,
+    "region": "欧洲及跨区域网络",
+    "coordinates": [
+      2.35,
+      48.86
+    ],
+    "chapter": 9,
+    "type": "文化传播",
+    "explanation": "仪器、印刷、通信与研究共同体改变知识生产。",
+    "visual": "观测点和书信网络",
+    "sources": [
+      "https://crrs.library.utoronto.ca/exhibits/show/vic449/vic449exhibit",
+      "https://newtonproject.ox.ac.uk/texts/introduction"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "renaissance",
+      "newton"
+    ]
+  },
+  {
+    "id": "newton-1687",
+    "name": "《自然哲学的数学原理》",
+    "startYear": 1687,
+    "endYear": 1687,
+    "region": "伦敦",
+    "coordinates": [
+      -0.13,
+      51.51
+    ],
+    "chapter": 9,
+    "type": "科学成就",
+    "explanation": "牛顿以数学体系联系地面运动与天体运动。",
+    "visual": "公式线转机械曲线",
+    "sources": [
+      "https://newtonproject.ox.ac.uk/texts/introduction",
+      "https://science.nasa.gov/earth/earth-observatory/planetary-motion/"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "newton",
+      "science"
+    ]
+  },
+  {
+    "id": "science-limits",
+    "name": "从科学到工业的多重条件",
+    "startYear": 1687,
+    "endYear": 1760,
+    "region": "英国及欧洲",
+    "coordinates": [
+      -1.9,
+      52.49
+    ],
+    "chapter": 9,
+    "type": "工业化",
+    "explanation": "工业变革还依赖工匠技能、能源、制度、资本和劳动组织。",
+    "visual": "轨道齿轮连接能源与劳动",
+    "sources": [
+      "https://blog.sciencemuseum.org.uk/steaming-through-the-centuries/",
+      "https://www.historicenvironment.scot/about-us/our-work/commemorative-plaques/explore/james-watt/"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "industrial",
+      "watt"
+    ]
+  },
+  {
+    "id": "enlightenment",
+    "name": "启蒙思想与公共讨论",
+    "startYear": 1700,
+    "endYear": 1789,
+    "region": "欧洲及大西洋世界",
+    "coordinates": [
+      2.35,
+      48.86
+    ],
+    "chapter": 10,
+    "type": "思想形成",
+    "explanation": "理性、权利、主权与法律的讨论包含多种相互冲突立场。",
+    "visual": "出版、咖啡馆与文字网络",
+    "sources": [
+      "https://plato.stanford.edu/entries/enlightenment/"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "enlighten"
+    ]
+  },
+  {
+    "id": "american-war",
+    "name": "美国独立战争",
+    "startYear": 1775,
+    "endYear": 1783,
+    "region": "北美东部",
+    "coordinates": [
+      -71.35,
+      42.45
+    ],
+    "chapter": 10,
+    "type": "战争",
+    "explanation": "殖民地独立牵涉帝国、地方利益及国际战争。",
+    "visual": "列克星敦与约克镇定位",
+    "sources": [
+      "https://www.loc.gov/classroom-materials/american-revolution/",
+      "https://www.archives.gov/milestone-documents/declaration-of-independence"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "americanWar",
+      "declaration"
+    ]
+  },
+  {
+    "id": "declaration-1776",
+    "name": "《独立宣言》通过",
+    "startYear": 1776,
+    "endYear": 1776,
+    "region": "费城",
+    "coordinates": [
+      -75.15,
+      39.95
+    ],
+    "chapter": 10,
+    "type": "革命",
+    "explanation": "1776年7月4日大陆会议通过宣言，不应称所有代表当天签字。",
+    "visual": "纸页与政治节点",
+    "sources": [
+      "https://www.archives.gov/milestone-documents/declaration-of-independence"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "declaration"
+    ]
+  },
+  {
+    "id": "france-1789",
+    "name": "法国大革命的1789年",
+    "startYear": 1789,
+    "endYear": 1789,
+    "region": "巴黎与凡尔赛",
+    "coordinates": [
+      2.35,
+      48.86
+    ],
+    "chapter": 10,
+    "type": "革命",
+    "explanation": "财政危机、社会矛盾及政治动员推动制度激变。",
+    "visual": "三级会议—巴士底狱—权利宣言",
+    "sources": [
+      "https://www.larousse.fr/encyclopedie/divers/R%C3%A9volution_fran%C3%A7aise/184321"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "france"
+    ]
+  },
+  {
+    "id": "haitian",
+    "name": "海地革命",
+    "startYear": 1791,
+    "endYear": 1804,
+    "region": "圣多明各／海地",
+    "coordinates": [
+      -72.21,
+      19.76
+    ],
+    "chapter": 10,
+    "type": "革命",
+    "explanation": "被奴役者争取自由，经过复杂战争建立独立国家。",
+    "visual": "加勒比聚焦与解放网络",
+    "sources": [
+      "https://history.state.gov/milestones/1784-1800/haitian-rev"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "haiti"
+    ]
+  },
+  {
+    "id": "napoleon-wars",
+    "name": "拿破仑战争",
+    "startYear": 1803,
+    "endYear": 1815,
+    "region": "欧洲",
+    "coordinates": [
+      16.76,
+      49.13
+    ],
+    "chapter": 10,
+    "type": "战争",
+    "explanation": "征服、改革与抵抗改变欧洲，给许多地区带来沉重伤亡。",
+    "visual": "奥斯特里茨等真实战场",
+    "sources": [
+      "https://www.napoleon.org/en/young-historians/napodoc/timeline-consulate1st-french-empire/"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "napoleon"
+    ]
+  },
+  {
+    "id": "waterloo",
+    "name": "滑铁卢战役",
+    "startYear": 1815,
+    "endYear": 1815,
+    "region": "比利时",
+    "coordinates": [
+      4.41,
+      50.68
+    ],
+    "chapter": 10,
+    "type": "战争",
+    "explanation": "1815年6月18日拿破仑战败，其帝国统治最终结束。",
+    "visual": "战场位置与结果",
+    "sources": [
+      "https://www.nam.ac.uk/explore/battle-waterloo"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "waterloo"
+    ]
+  },
+  {
+    "id": "coal",
+    "name": "煤矿与能源变化",
+    "startYear": 1760,
+    "endYear": 1848,
+    "region": "英国",
+    "coordinates": [
+      -1.62,
+      54.97
+    ],
+    "chapter": 11,
+    "type": "工业化",
+    "explanation": "煤炭扩大可用能量，同时矿业与动力技术相互促进。",
+    "visual": "地层剖面到矿井",
+    "sources": [
+      "https://www.nms.ac.uk/discover-catalogue/the-newcomen-engine-and-its-role-in-britains-industrial-revolution",
+      "https://blog.sciencemuseum.org.uk/steaming-through-the-centuries/"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "steam",
+      "industrial"
+    ]
+  },
+  {
+    "id": "textiles",
+    "name": "纺织机械与工厂制",
+    "startYear": 1760,
+    "endYear": 1800,
+    "region": "兰开夏等地",
+    "coordinates": [
+      -2.24,
+      53.48
+    ],
+    "chapter": 11,
+    "type": "工业化",
+    "explanation": "纺纱、织造、水力与劳动组织一起变化，并非一步由手工变蒸汽。",
+    "visual": "手工—水轮—机械纺织",
+    "sources": [
+      "https://whc.unesco.org/en/list/1030/",
+      "https://blog.sciencemuseum.org.uk/steaming-through-the-centuries/"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "derwent",
+      "industrial"
+    ]
+  },
+  {
+    "id": "watt-patent",
+    "name": "瓦特分离冷凝器专利",
+    "startYear": 1769,
+    "endYear": 1769,
+    "region": "英国",
+    "coordinates": [
+      -4.25,
+      55.86
+    ],
+    "chapter": 11,
+    "type": "科学成就",
+    "explanation": "瓦特在已有蒸汽机基础上改进效率，后来与博尔顿合作推广。",
+    "visual": "活塞与冷凝器运动",
+    "sources": [
+      "https://www.historicenvironment.scot/about-us/our-work/commemorative-plaques/explore/james-watt/",
+      "https://www.nms.ac.uk/discover-catalogue/the-newcomen-engine-and-its-role-in-britains-industrial-revolution"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "watt",
+      "steam"
+    ]
+  },
+  {
+    "id": "rotary-engine",
+    "name": "蒸汽动力的旋转应用",
+    "startYear": 1780,
+    "endYear": 1800,
+    "region": "伯明翰等地",
+    "coordinates": [
+      -1.9,
+      52.49
+    ],
+    "chapter": 11,
+    "type": "工业化",
+    "explanation": "连杆和传动把往复运动用于工厂机械，水力仍长期重要。",
+    "visual": "活塞—曲柄—飞轮",
+    "sources": [
+      "https://collection.sciencemuseumgroup.org.uk/objects/co50948/rotative-steam-engine-by-boulton-and-watt-1788"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "engine"
+    ]
+  },
+  {
+    "id": "canals",
+    "name": "运河、原料与市场",
+    "startYear": 1760,
+    "endYear": 1830,
+    "region": "英国工业区",
+    "coordinates": [
+      -2.25,
+      53.38
+    ],
+    "chapter": 11,
+    "type": "贸易",
+    "explanation": "运河降低运输成本，原料供应又与殖民和强迫劳动相关。",
+    "visual": "运河船与供应网络",
+    "sources": [
+      "https://whc.unesco.org/en/list/1030/",
+      "https://blog.sciencemuseum.org.uk/steaming-through-the-centuries/",
+      "https://legacy.slavevoyages.org/blog/methodology-trans-atlantic"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "derwent",
+      "industrial",
+      "slavery"
+    ]
+  },
+  {
+    "id": "railway-1830",
+    "name": "利物浦—曼彻斯特铁路",
+    "startYear": 1830,
+    "endYear": 1830,
+    "region": "英国西北部",
+    "coordinates": [
+      -2.61,
+      53.45
+    ],
+    "chapter": 11,
+    "type": "工业化",
+    "explanation": "1830年线路开通，铁路促进货物与人员流动。",
+    "visual": "列车轮接地图线路",
+    "sources": [
+      "https://collection.sciencemuseumgroup.org.uk/people/ap48/liverpool-manchester-railway-co"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "rail"
+    ]
+  },
+  {
+    "id": "industrial-diffusion",
+    "name": "工业化向其他地区扩展",
+    "startYear": 1800,
+    "endYear": 1848,
+    "region": "欧洲大陆与北美部分地区",
+    "coordinates": [
+      4.35,
+      50.85
+    ],
+    "chapter": 11,
+    "type": "工业化",
+    "explanation": "各地的工业化节奏、行业与制度条件并不相同。",
+    "visual": "多区域渐次增长",
+    "sources": [
+      "https://blog.sciencemuseum.org.uk/steaming-through-the-centuries/"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "industrial"
+    ]
+  },
+  {
+    "id": "urban-labour",
+    "name": "工业城市与劳动关系",
+    "startYear": 1800,
+    "endYear": 1848,
+    "region": "曼彻斯特等地",
+    "coordinates": [
+      -2.24,
+      53.48
+    ],
+    "chapter": 11,
+    "type": "城市兴起",
+    "explanation": "工厂集中生产，城市扩大，劳动条件和社会保障成为争论焦点。",
+    "visual": "橙色工厂转冷灰城市",
+    "sources": [
+      "https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/19thcentury/overview/factoryact/",
+      "https://plato.stanford.edu/entries/engels/"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "factory",
+      "engels"
+    ]
+  },
+  {
+    "id": "factory-life",
+    "name": "工业社会中的工人生活",
+    "startYear": 1800,
+    "endYear": 1848,
+    "region": "英国与欧洲工业区",
+    "coordinates": [
+      -2.24,
+      53.48
+    ],
+    "chapter": 12,
+    "type": "工业化",
+    "explanation": "长工时、童工、住房和卫生问题引发抗争和改革。",
+    "visual": "工厂内景与生活剖面",
+    "sources": [
+      "https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/19thcentury/overview/factoryact/",
+      "https://plato.stanford.edu/entries/engels/"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "factory",
+      "engels"
+    ]
+  },
+  {
+    "id": "factory-act",
+    "name": "1833年工厂法",
+    "startYear": 1833,
+    "endYear": 1833,
+    "region": "英国",
+    "coordinates": [
+      -0.13,
+      51.51
+    ],
+    "chapter": 12,
+    "type": "社会运动",
+    "explanation": "法律限制部分纺织厂儿童劳动并引入检查，但执行与覆盖有限。",
+    "visual": "时间尺与检查文书",
+    "sources": [
+      "https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/19thcentury/overview/factoryact/"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "factory"
+    ]
+  },
+  {
+    "id": "chartism",
+    "name": "宪章运动",
+    "startYear": 1838,
+    "endYear": 1848,
+    "region": "英国",
+    "coordinates": [
+      -0.13,
+      51.51
+    ],
+    "chapter": 12,
+    "type": "社会运动",
+    "explanation": "工人等群体要求扩大政治权利，并在1839、1842、1848年请愿。",
+    "visual": "请愿签名汇入伦敦",
+    "sources": [
+      "https://www.nationalarchives.gov.uk/education/teaching-resources/what-was-chartism/"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "chartist"
+    ]
+  },
+  {
+    "id": "socialisms",
+    "name": "早期社会主义的多种主张",
+    "startYear": 1820,
+    "endYear": 1848,
+    "region": "英国、法国与德语地区",
+    "coordinates": [
+      2.35,
+      48.86
+    ],
+    "chapter": 12,
+    "type": "思想形成",
+    "explanation": "欧文、圣西门、傅立叶等提出不同改革与社会重组方案。",
+    "visual": "多种书页并行",
+    "sources": [
+      "https://plato.stanford.edu/entries/marx/",
+      "https://plato.stanford.edu/entries/engels/"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "marx",
+      "engels"
+    ]
+  },
+  {
+    "id": "marx-engels-1844",
+    "name": "马克思与恩格斯合作",
+    "startYear": 1844,
+    "endYear": 1844,
+    "region": "巴黎",
+    "coordinates": [
+      2.35,
+      48.86
+    ],
+    "chapter": 12,
+    "type": "思想形成",
+    "explanation": "1844年在巴黎深入交流后开始长期合作。",
+    "visual": "巴黎—曼彻斯特—布鲁塞尔",
+    "sources": [
+      "https://plato.stanford.edu/entries/marx/",
+      "https://plato.stanford.edu/entries/engels/"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "marx",
+      "engels"
+    ]
+  },
+  {
+    "id": "german-ideology",
+    "name": "1845—1846年思想探索",
+    "startYear": 1845,
+    "endYear": 1846,
+    "region": "布鲁塞尔",
+    "coordinates": [
+      4.35,
+      50.85
+    ],
+    "chapter": 12,
+    "type": "思想形成",
+    "explanation": "共同手稿研究历史与社会，其后来的编辑出版不能倒置为当时公开影响。",
+    "visual": "手稿与概念关系图",
+    "sources": [
+      "https://plato.stanford.edu/entries/marx/",
+      "https://plato.stanford.edu/entries/engels/"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "marx",
+      "engels"
+    ]
+  },
+  {
+    "id": "communist-league",
+    "name": "共产主义者同盟委托",
+    "startYear": 1847,
+    "endYear": 1847,
+    "region": "伦敦",
+    "coordinates": [
+      -0.13,
+      51.51
+    ],
+    "chapter": 12,
+    "type": "社会运动",
+    "explanation": "同盟于1847年委托马克思、恩格斯起草政治纲领。",
+    "visual": "欧洲联系汇入书稿",
+    "sources": [
+      "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "manifesto"
+    ]
+  },
+  {
+    "id": "manifesto-1848",
+    "name": "《共产党宣言》发表",
+    "startYear": 1848,
+    "endYear": 1848,
+    "region": "伦敦",
+    "coordinates": [
+      -0.13,
+      51.51
+    ],
+    "chapter": 12,
+    "type": "思想形成",
+    "explanation": "1848年2月德文小册子出版，提出资本主义、阶级关系的分析和政治主张。",
+    "visual": "书册展开再回世界",
+    "sources": [
+      "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/",
+      "https://www.unesco.org/en/memory-world/manifest-der-kommunistischen-partei-draft-manuscript-page-and-das-kapital-erster-band-karl-marxs"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "manifesto",
+      "iish"
+    ]
+  },
+  {
+    "id": "interpretation",
+    "name": "理论、历史事实与后续争论",
+    "startYear": 1848,
+    "endYear": 1848,
+    "region": "欧洲与全球后续影响",
+    "coordinates": [
+      -0.13,
+      51.51
+    ],
+    "chapter": 12,
+    "type": "思想形成",
+    "explanation": "该理论是历史性的分析与政治主张，后世理解和争论不能呈现为自然定律。",
+    "visual": "书页化成未封闭的全球网络",
+    "sources": [
+      "https://plato.stanford.edu/entries/marx/",
+      "https://plato.stanford.edu/entries/engels/"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性中心点；所有空间影响区域与连线均为概略示意，不是精确疆界、普遍宗教边界或完整真实行程。",
+    "sourceIds": [
+      "marx",
+      "engels"
+    ]
+  }
+]
