@@ -12,7 +12,7 @@ jobs:
         run: |
           cat .history-transfer/project.part-* > world-history-project.zip
           sha256sum -c .history-transfer/project.sha256
-          unzip -q world-history-project.zip
+          unzip -oq world-history-project.zip
       - name: Upload history assets and publish
         env:
           GH_TOKEN: ${{ github.token }}
