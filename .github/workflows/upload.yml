@@ -1,0 +1,16 @@
+name: Upload video release
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Upload and publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release upload suction-cup-v1 invisible-failure.mp4 storyboard.png transitions.png invisible-failure-source.zip keyframes.zip verification.json --clobber
+          gh release edit suction-cup-v1 --draft=false
