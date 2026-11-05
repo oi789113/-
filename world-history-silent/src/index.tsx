@@ -1,0 +1,8 @@
+import React,{useLayoutEffect,useRef,useState} from 'react';
+import {AbsoluteFill,Composition,registerRoot,useCurrentFrame,delayRender,continueRender,staticFile,Audio} from 'remotion';
+// @ts-ignore — shared browser/native Canvas implementation.
+import {WorldMapEngine} from './engine.mjs';
+const Film:React.FC=()=>{const frame=useCurrentFrame();const ref=useRef<HTMLCanvasElement>(null);const [engine,setEngine]=useState<any>(null);const [handle]=useState(()=>delayRender('Loading public-domain physical geography'));
+useLayoutEffect(()=>{Promise.all(['land','rivers_lake_centerlines','geography_regions_polys'].map(n=>fetch(staticFile(`assets/ne_110m_${n}.geojson`)).then(r=>r.json()))).then(async([land,rivers,regions])=>{const [events,shots,routes,narration,empires,ancientRivers]=await Promise.all(['data/events.json','data/shots.json','data/routes.json','data/subtitles.json','data/empire-regions.json','assets/ancient-rivers.geojson'].map(n=>fetch(staticFile(n)).then(r=>r.json())));setEngine(new WorldMapEngine({land,rivers,regions,events,shots,routes,narration,empires,ancientRivers,Path2D,createCanvas:(w:number,h:number)=>{const cv=document.createElement('canvas');cv.width=w;cv.height=h;return cv;}}));continueRender(handle);}).catch(e=>{console.error(e);continueRender(handle)});},[]);
+useLayoutEffect(()=>{if(engine&&ref.current)engine.render(ref.current.getContext('2d'),frame/60)},[frame,engine]);return <AbsoluteFill style={{background:'#071521'}}><canvas ref={ref} width={1920} height={1080} style={{width:'100%',height:'100%'}}/><Audio src={staticFile('audio/soundtrack.m4a')}/></AbsoluteFill>};
+registerRoot(()=> <Composition id="WorldHistoryNoVoice" component={Film} durationInFrames={36000} fps={60} width={1920} height={1080}/>);

@@ -1,0 +1,12 @@
+import fs from 'node:fs';import {spawnSync} from 'node:child_process';import crypto from 'node:crypto';
+const run=(name,args,opts={})=>{const r=spawnSync(name,args,{stdio:'inherit',...opts});if(r.status!==0)throw Error(`${name} failed`);return r};
+const master='output/world-history-no-voice-1080p60.mp4';
+run('ffmpeg',['-hide_banner','-loglevel','warning','-xerror','-y','-i',master,'-map','0:v:0','-map','0:a:0','-vf','scale=640:360:flags=lanczos,fps=30','-c:v','libx264','-preset','veryfast','-crf','24','-threads','2','-c:a','copy','-t','600','-movflags','+faststart','output/history-preview.mp4']);
+run('ffmpeg',['-hide_banner','-loglevel','warning','-y','-ss','169','-i',master,'-t','16','-vf','scale=640:360:flags=lanczos,fps=30','-c:v','libx264','-preset','veryfast','-crf','24','-threads','2','-c:a','aac','-b:a','160k','-movflags','+faststart','output/map-preview.mp4']);
+const decodedHash=file=>run('ffmpeg',['-hide_banner','-v','warning','-xerror','-i',file,'-map','0:a:0','-vn','-c:a','pcm_s16le','-f','hash','-hash','sha256','-'],{stdio:'pipe',encoding:'utf8',maxBuffer:1e6}).stdout.trim();
+const actual=decodedHash(master),expected=decodedHash('output/soundtrack.m4a');
+fs.writeFileSync('output/decode-validation.json',JSON.stringify({fullVideoDecodedDuringPreviewExport:true,audioDecodedSeparately:true,noVoiceSource:'soundtrack.m4a; synthesized music and SFX only',actualPcmHash:actual,expectedPcmHash:expected,matchesMusicOnlySource:actual===expected},null,2));
+if(actual!==expected)throw Error('Final audio differs from music-only source');
+run(process.execPath,['scripts/audio-provenance.mjs']);if(!fs.existsSync('output/storyboard.png'))run(process.execPath,['scripts/frames.mjs']);run(process.execPath,['scripts/sync-public.mjs']);run(process.execPath,['scripts/validate.mjs']);
+const d=JSON.parse(fs.readFileSync('output/decode-validation.json'));if(!d.matchesMusicOnlySource)throw Error('No-voice validation failed');
+console.log('Full video decode and exact music-only audio validation passed');

@@ -1,0 +1,650 @@
+[
+  {
+    "id": "c01-s01",
+    "chapter": 1,
+    "start": 0.0,
+    "end": 4.85,
+    "text": "五千多年的历史，压缩成600秒。\n人类如何一步步连接世界？",
+    "readingCharactersPerSecond": 5.15,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c01-s02",
+    "chapter": 1,
+    "start": 4.85,
+    "end": 9.016667,
+    "text": "让城市灯光熄灭，时间向后奔跑。\n旅程从两河流域开始。",
+    "readingCharactersPerSecond": 5.28,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c01-s03",
+    "chapter": 1,
+    "start": 9.016667,
+    "end": 12.966667,
+    "text": "越过机器、航船和帝国，\n回到早期城市正在生长的时代。",
+    "readingCharactersPerSecond": 5.57,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c01-s04",
+    "chapter": 1,
+    "start": 12.966667,
+    "end": 17.583333,
+    "text": "约公元前3500年，两河之间，\n乌鲁克等城市逐渐扩大。",
+    "readingCharactersPerSecond": 4.98,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c01-s05",
+    "chapter": 1,
+    "start": 17.583333,
+    "end": 21.983333,
+    "text": "粮食、劳动与交换聚集起来，\n陌生人开始共同生活。",
+    "readingCharactersPerSecond": 4.55,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c01-s06",
+    "chapter": 1,
+    "start": 21.983333,
+    "end": 25.0,
+    "text": "两河流域，城市点亮地图。\n旅程由此开始。",
+    "readingCharactersPerSecond": 5.3,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c02-s01",
+    "chapter": 2,
+    "start": 25.0,
+    "end": 33.683333,
+    "text": "河水被引入农田，粮食得以储存。\n更多人聚居，也更需要组织与协作。",
+    "readingCharactersPerSecond": 3.11,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c02-s02",
+    "chapter": 2,
+    "start": 33.683333,
+    "end": 41.916667,
+    "text": "有人耕种，有人制作器物，\n还有人组织劳作、祭祀和交换。",
+    "readingCharactersPerSecond": 2.67,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c02-s03",
+    "chapter": 2,
+    "start": 41.916667,
+    "end": 50.383333,
+    "text": "物资越来越多，记忆不够用了。\n泥板上的符号，把交易变成记录。",
+    "readingCharactersPerSecond": 2.95,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c02-s04",
+    "chapter": 2,
+    "start": 50.383333,
+    "end": 59.283333,
+    "text": "埃及约前3100年形成统一王国。\n尼罗河农业与国家组织，支撑大型工程。",
+    "readingCharactersPerSecond": 3.48,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c02-s05",
+    "chapter": 2,
+    "start": 59.283333,
+    "end": 69.983333,
+    "text": "印度河城市发展规划与排水设施。\n黄河流域也逐步形成早期国家与青铜文明。",
+    "readingCharactersPerSecond": 2.99,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c02-s06",
+    "chapter": 2,
+    "start": 69.983333,
+    "end": 80.0,
+    "text": "安第斯地区同样发展出复杂社会。\n文明拥有多个起点，各地道路并不相同。",
+    "readingCharactersPerSecond": 3.0,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c03-s01",
+    "chapter": 3,
+    "start": 80.0,
+    "end": 88.2,
+    "text": "铜、锡、木材和粮食穿行远方。\n青铜时代晚期，东地中海已密切相连。",
+    "readingCharactersPerSecond": 3.17,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c03-s02",
+    "chapter": 3,
+    "start": 88.2,
+    "end": 96.2,
+    "text": "战乱、迁徙与环境压力交织，\n旧网络断裂；铁器随后逐渐推广。",
+    "readingCharactersPerSecond": 3.0,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c03-s03",
+    "chapter": 3,
+    "start": 96.2,
+    "end": 103.6,
+    "text": "腓尼基航海者连接地中海港口。\n货物在流动，书写方式与技术也在传播。",
+    "readingCharactersPerSecond": 3.92,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c03-s04",
+    "chapter": 3,
+    "start": 103.6,
+    "end": 112.2,
+    "text": "亚述扩张，衰落后新巴比伦兴起。\n征服扩大统治，也造成破坏与被迫迁移。",
+    "readingCharactersPerSecond": 3.37,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c03-s05",
+    "chapter": 3,
+    "start": 112.2,
+    "end": 120.8,
+    "text": "前6世纪，波斯阿契美尼德帝国崛起。\n道路、行省与行政，帮助治理辽阔地区。",
+    "readingCharactersPerSecond": 3.49,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c03-s06",
+    "chapter": 3,
+    "start": 120.8,
+    "end": 130.0,
+    "text": "中国经历商周更替与政治分化。\n美洲奥尔梅克社会也在发展。",
+    "readingCharactersPerSecond": 2.72,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c04-s01",
+    "chapter": 4,
+    "start": 130.0,
+    "end": 139.233333,
+    "text": "希腊城邦交流，也相互竞争。\n战争改变格局，哲学与戏剧留下长久影响。",
+    "readingCharactersPerSecond": 3.03,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c04-s02",
+    "chapter": 4,
+    "start": 139.233333,
+    "end": 148.9,
+    "text": "亚历山大东征后，希腊化世界展开。\n文化交融伴随着征服与统治。",
+    "readingCharactersPerSecond": 2.69,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c04-s03",
+    "chapter": 4,
+    "start": 148.9,
+    "end": 157.933333,
+    "text": "罗马从共和国走向帝国。\n道路连接城市，统治也依赖征税与奴隶劳动。",
+    "readingCharactersPerSecond": 3.1,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c04-s04",
+    "chapter": 4,
+    "start": 157.933333,
+    "end": 166.516667,
+    "text": "南亚的孔雀王朝统治大片地区。\n阿育王支持佛教，信仰后来沿陆海网络传播。",
+    "readingCharactersPerSecond": 3.61,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c04-s05",
+    "chapter": 4,
+    "start": 166.516667,
+    "end": 175.766667,
+    "text": "欧亚东端，秦统一中国，汉继续发展。\n中亚商人与多个政权接力连接远方。",
+    "readingCharactersPerSecond": 3.14,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c04-s06",
+    "chapter": 4,
+    "start": 175.766667,
+    "end": 185.0,
+    "text": "丝绸之路是一张网，不是一条大道。\n货物与知识经多次转手，才能抵达远方。",
+    "readingCharactersPerSecond": 3.25,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c05-s01",
+    "chapter": 5,
+    "start": 185.0,
+    "end": 193.916667,
+    "text": "罗马的政治中心与统治结构多次调整。\n东西两部分，逐渐走向不同命运。",
+    "readingCharactersPerSecond": 3.25,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c05-s02",
+    "chapter": 5,
+    "start": 193.916667,
+    "end": 203.9,
+    "text": "476年常被视作西罗马终结的标志。\n东罗马延续，城市与制度并未同时消失。",
+    "readingCharactersPerSecond": 3.21,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c05-s03",
+    "chapter": 5,
+    "start": 203.9,
+    "end": 212.816667,
+    "text": "基督教通过社群、传教与政治支持传播。\n信仰联系越过疆界，范围并不整齐。",
+    "readingCharactersPerSecond": 3.36,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c05-s04",
+    "chapter": 5,
+    "start": 212.816667,
+    "end": 221.533333,
+    "text": "笈多时代，南亚文学、数学与天文学发展。\n佛教也经中亚和海路，向更多地区传播。",
+    "readingCharactersPerSecond": 3.67,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c05-s05",
+    "chapter": 5,
+    "start": 221.533333,
+    "end": 230.65,
+    "text": "中国经历长期分合，走向隋唐。\n迁徙、贸易与宗教，持续连接不同地区。",
+    "readingCharactersPerSecond": 2.96,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c05-s06",
+    "chapter": 5,
+    "start": 230.65,
+    "end": 240.0,
+    "text": "7世纪，伊斯兰教在阿拉伯半岛兴起。\n阿拉伯政权扩张，重组政治与文化联系。",
+    "readingCharactersPerSecond": 3.32,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c06-s01",
+    "chapter": 6,
+    "start": 240.0,
+    "end": 248.933333,
+    "text": "中世纪并非整个世界的停顿。\n唐宋城市发展，印刷等技术不断积累。",
+    "readingCharactersPerSecond": 3.02,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c06-s02",
+    "chapter": 6,
+    "start": 248.933333,
+    "end": 257.85,
+    "text": "阿拔斯时期，翻译带来不同来源的知识。\n学者继续研究，推进数学与医学。",
+    "readingCharactersPerSecond": 3.25,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c06-s03",
+    "chapter": 6,
+    "start": 257.85,
+    "end": 267.183333,
+    "text": "季风推动印度洋航船，港口彼此相连。\n黄金与盐，也穿行于跨撒哈拉贸易网络。",
+    "readingCharactersPerSecond": 3.32,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c06-s04",
+    "chapter": 6,
+    "start": 267.183333,
+    "end": 276.316667,
+    "text": "马里参与贸易；玛雅发展文字、历法与城市。\n欧洲的城市、大学和商业也在成长。",
+    "readingCharactersPerSecond": 3.39,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c06-s05",
+    "chapter": 6,
+    "start": 276.316667,
+    "end": 285.45,
+    "text": "蒙古扩张历经数代，战争造成巨大损失。\n帝国统治下的通道，也促进欧亚往来。",
+    "readingCharactersPerSecond": 3.39,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c06-s06",
+    "chapter": 6,
+    "start": 285.45,
+    "end": 295.0,
+    "text": "14世纪，黑死病跨区域蔓延。\n相连的世界，分享机会，也承受灾难。",
+    "readingCharactersPerSecond": 2.72,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c07-s01",
+    "chapter": 7,
+    "start": 295.0,
+    "end": 303.516667,
+    "text": "14世纪起，欧洲一些城市兴起文艺复兴。\n重新研究古典文献，带来新的艺术与思想。",
+    "readingCharactersPerSecond": 3.99,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c07-s02",
+    "chapter": 7,
+    "start": 303.516667,
+    "end": 311.85,
+    "text": "欧洲金属活字印刷扩大文字传播。\n中国更早已有雕版与活字，发展背景不同。",
+    "readingCharactersPerSecond": 3.72,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c07-s03",
+    "chapter": 7,
+    "start": 311.85,
+    "end": 319.816667,
+    "text": "1405—1433年，郑和船队多次远航。\n印度洋原有的成熟网络，建立了新的联系。",
+    "readingCharactersPerSecond": 4.27,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c07-s04",
+    "chapter": 7,
+    "start": 319.816667,
+    "end": 328.333333,
+    "text": "葡萄牙航海者沿非洲海岸南下。\n1498年，达·伽马抵达印度。",
+    "readingCharactersPerSecond": 2.94,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c07-s05",
+    "chapter": 7,
+    "start": 328.333333,
+    "end": 336.666667,
+    "text": "1492年，哥伦布航抵加勒比地区。\n美洲早已有众多人群与复杂社会。",
+    "readingCharactersPerSecond": 3.48,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c07-s06",
+    "chapter": 7,
+    "start": 336.666667,
+    "end": 345.0,
+    "text": "新的远洋航线，把更多地区连接起来。\n殖民扩张，也沿这些通道展开。",
+    "readingCharactersPerSecond": 3.24,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c08-s01",
+    "chapter": 8,
+    "start": 345.0,
+    "end": 353.25,
+    "text": "西班牙征服阿兹特克与印加政治中心。\n武力、当地盟友与社会矛盾共同影响战局。",
+    "readingCharactersPerSecond": 4.0,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c08-s02",
+    "chapter": 8,
+    "start": 353.25,
+    "end": 361.666667,
+    "text": "疾病、战争与强迫劳动交织，\n美洲原住民遭遇严重的人口灾难。",
+    "readingCharactersPerSecond": 2.97,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c08-s03",
+    "chapter": 8,
+    "start": 361.666667,
+    "end": 369.733333,
+    "text": "玉米、马铃薯走向其他大陆，马进入美洲。\n跨洋交换，改变了生态与日常生活。",
+    "readingCharactersPerSecond": 3.72,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c08-s04",
+    "chapter": 8,
+    "start": 369.733333,
+    "end": 377.783333,
+    "text": "奴隶贸易强迫数百万人离开非洲。\n被奴役者的劳动与抵抗，深刻改变大西洋世界。",
+    "readingCharactersPerSecond": 4.1,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c08-s05",
+    "chapter": 8,
+    "start": 377.783333,
+    "end": 386.216667,
+    "text": "美洲白银跨越大西洋与太平洋。\n欧洲与亚洲市场，越来越受远方变化影响。",
+    "readingCharactersPerSecond": 3.56,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c08-s06",
+    "chapter": 8,
+    "start": 386.216667,
+    "end": 395.0,
+    "text": "欧洲宗教改革重组信仰与政治关系。\n新的联系与机会，也伴随着冲突和不平等。",
+    "readingCharactersPerSecond": 3.64,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c09-s01",
+    "chapter": 9,
+    "start": 395.0,
+    "end": 401.233333,
+    "text": "观察、数学、实验与出版相互推动。\n研究自然，逐渐形成新的知识网络。",
+    "readingCharactersPerSecond": 4.33,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c09-s02",
+    "chapter": 9,
+    "start": 401.233333,
+    "end": 409.233333,
+    "text": "1543年，哥白尼的著作出版。\n日心体系提出新框架，也留下待解的问题。",
+    "readingCharactersPerSecond": 3.75,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c09-s03",
+    "chapter": 9,
+    "start": 409.233333,
+    "end": 416.7,
+    "text": "伽利略借望远镜观察天空。\n开普勒分析资料，以椭圆描述行星轨道。",
+    "readingCharactersPerSecond": 3.62,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c09-s04",
+    "chapter": 9,
+    "start": 416.7,
+    "end": 424.35,
+    "text": "1687年，牛顿出版《数学原理》。\n运动与引力，将地上和天上的现象联系起来。",
+    "readingCharactersPerSecond": 4.05,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c09-s05",
+    "chapter": 9,
+    "start": 424.35,
+    "end": 432.0,
+    "text": "仪器、通信与学术机构让知识共享。\n结论可以被讨论、检验和修正。",
+    "readingCharactersPerSecond": 3.4,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c09-s06",
+    "chapter": 9,
+    "start": 432.0,
+    "end": 440.0,
+    "text": "科学拓宽了理解自然的方式。\n工业化还需要能源、劳动、资本与生产组织。",
+    "readingCharactersPerSecond": 3.62,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c10-s01",
+    "chapter": 10,
+    "start": 440.0,
+    "end": 448.966667,
+    "text": "启蒙思想家争论理性、权利与主权。\n印刷和公共讨论，让旧秩序受到更多质疑。",
+    "readingCharactersPerSecond": 3.46,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c10-s02",
+    "chapter": 10,
+    "start": 448.966667,
+    "end": 457.533333,
+    "text": "1776年，北美《独立宣言》提出平等与权利。\n独立战争持续，奴隶制却仍然存在。",
+    "readingCharactersPerSecond": 3.74,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c10-s03",
+    "chapter": 10,
+    "start": 457.533333,
+    "end": 466.483333,
+    "text": "1789年，法国大革命冲击旧制度。\n公民、财产与政治参与，成为激烈争论。",
+    "readingCharactersPerSecond": 3.35,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c10-s04",
+    "chapter": 10,
+    "start": 466.483333,
+    "end": 476.066667,
+    "text": "海地革命将自由的诉求推向被奴役者。\n1804年独立，成为反奴隶制的重要节点。",
+    "readingCharactersPerSecond": 3.55,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c10-s05",
+    "chapter": 10,
+    "start": 476.066667,
+    "end": 485.433333,
+    "text": "拿破仑战争重塑欧洲，最终走向失败。\n制度变动的背后，是沉重伤亡与社会代价。",
+    "readingCharactersPerSecond": 3.42,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c10-s06",
+    "chapter": 10,
+    "start": 485.433333,
+    "end": 495.0,
+    "text": "革命留下的问题，并未一次解决。\n谁享有权利？工厂时代又将怎样回答？",
+    "readingCharactersPerSecond": 2.93,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c11-s01",
+    "chapter": 11,
+    "start": 495.0,
+    "end": 504.466667,
+    "text": "回到18世纪后半叶的英国。\n煤、纺织业、市场与资本，共同推动生产变化。",
+    "readingCharactersPerSecond": 3.06,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c11-s02",
+    "chapter": 11,
+    "start": 504.466667,
+    "end": 514.583333,
+    "text": "纺纱与织布逐渐机械化。\n水力先推动许多工厂，蒸汽随后扩大应用。",
+    "readingCharactersPerSecond": 2.67,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c11-s03",
+    "chapter": 11,
+    "start": 514.583333,
+    "end": 524.683333,
+    "text": "活塞、连杆与飞轮，把动力传给机器。\n工人、设备与工时，也被集中组织起来。",
+    "readingCharactersPerSecond": 2.87,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c11-s04",
+    "chapter": 11,
+    "start": 524.683333,
+    "end": 534.783333,
+    "text": "煤矿、运河和铁路相互连接，运输成本下降。\n工业化逐渐扩展到欧洲大陆与北美部分地区。",
+    "readingCharactersPerSecond": 3.56,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c11-s05",
+    "chapter": 11,
+    "start": 534.783333,
+    "end": 545.1,
+    "text": "原料与海外市场，把工业和殖民体系相连。\n增长的财富，并没有被平均分配。",
+    "readingCharactersPerSecond": 2.91,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c11-s06",
+    "chapter": 11,
+    "start": 545.1,
+    "end": 555.0,
+    "text": "人口涌向工业城市，工厂不断扩张。\n拥挤、污染与危险劳动，也改变人的生活。",
+    "readingCharactersPerSecond": 3.03,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c12-s01",
+    "chapter": 12,
+    "start": 555.0,
+    "end": 561.983333,
+    "text": "工人通过结社、罢工和改革诉求争取权利。\n宪章运动等回应工业社会的矛盾。",
+    "readingCharactersPerSecond": 4.44,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c12-s02",
+    "chapter": 12,
+    "start": 561.983333,
+    "end": 569.483333,
+    "text": "社会主义出现不同方案。\n1840年代，马克思与恩格斯合作研究社会。",
+    "readingCharactersPerSecond": 3.87,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c12-s03",
+    "chapter": 12,
+    "start": 569.483333,
+    "end": 576.8,
+    "text": "1848年，《共产党宣言》在伦敦出版。\n马克思、恩格斯受共产主义者同盟委托起草。",
+    "readingCharactersPerSecond": 4.51,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c12-s04",
+    "chapter": 12,
+    "start": 576.8,
+    "end": 584.833333,
+    "text": "他们从生产关系与阶级冲突分析资本主义。\n这些理论和政治主张，后来产生不同解释与争论。",
+    "readingCharactersPerSecond": 4.73,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c12-s05",
+    "chapter": 12,
+    "start": 584.833333,
+    "end": 592.85,
+    "text": "从河流边的城市，到机器轰鸣的时代，\n联系不断扩大，冲突与苦难也始终存在。",
+    "readingCharactersPerSecond": 3.87,
+    "timingBasis": "editorial shot duration; no speech"
+  },
+  {
+    "id": "c12-s06",
+    "chapter": 12,
+    "start": 592.85,
+    "end": 600.0,
+    "text": "历史没有在1848年结束。\n人、技术、思想与选择，仍将改变世界。",
+    "readingCharactersPerSecond": 3.64,
+    "timingBasis": "editorial shot duration; no speech"
+  }
+]

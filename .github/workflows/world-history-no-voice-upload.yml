@@ -1,0 +1,23 @@
+name: Publish history without voice
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Assemble and verify no-voice edition
+        run: |
+          cat .silent-transfer/project.part-* > world-history-no-voice-project.zip
+          sha256sum -c .silent-transfer/project.sha256
+          unzip -oq world-history-no-voice-project.zip
+          cd world-history-silent/output
+          sha256sum world-history-no-voice-1080p60.mp4
+      - name: Upload and publish no-voice release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release upload world-history-no-voice-v2 world-history-no-voice-project.zip .silent-transfer/world-history-no-voice-source.zip world-history-silent/output/world-history-no-voice-1080p60.mp4 world-history-silent/output/history-preview.mp4 world-history-silent/output/map-preview.mp4 world-history-silent/output/storyboard.png world-history-silent/output/timeline.png world-history-silent/subtitles.srt world-history-silent/captions.md world-history-silent/output/validation.json world-history-silent/output/decode-validation.json world-history-silent/output/audio-provenance.json .silent-transfer/SHA256SUMS.txt --clobber
+          gh release edit world-history-no-voice-v2 --draft=false --latest=false

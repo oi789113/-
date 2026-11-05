@@ -1,0 +1,27 @@
+{
+  "name": "world-history-no-voice-v2",
+  "seconds": 600,
+  "fps": 60,
+  "voice": false,
+  "audio": "original procedural music and SFX only",
+  "revisedShots": [
+    "c02-s01",
+    "c04-s06",
+    "c06-s01",
+    "c06-s02",
+    "c07-s02",
+    "c07-s04",
+    "c07-s05",
+    "c08-s03",
+    "c09-s02",
+    "c09-s03",
+    "c10-s01",
+    "c11-s02",
+    "c11-s05",
+    "c11-s06",
+    "c12-s02",
+    "c12-s04"
+  ],
+  "captionCount": 72,
+  "maxReadingCharactersPerSecond": 5.57
+}

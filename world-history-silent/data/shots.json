@@ -1,0 +1,1864 @@
+[
+  {
+    "id": "c01-s01",
+    "chapter": 1,
+    "start": 0.0,
+    "end": 4.85,
+    "startFrame": 0,
+    "endFrame": 291,
+    "title": "灯光熄灭，时间苏醒",
+    "kicker": "世界从未停止变化",
+    "kind": "globe",
+    "sceneKind": null,
+    "focus": [
+      30,
+      18
+    ],
+    "zoom": 1,
+    "yearStart": 2026,
+    "yearEnd": 1900,
+    "transition": "Time Rewind",
+    "layers": [
+      "cities"
+    ],
+    "climax": false,
+    "cameraMotion": "push"
+  },
+  {
+    "id": "c01-s02",
+    "chapter": 1,
+    "start": 4.85,
+    "end": 9.016667,
+    "startFrame": 291,
+    "endFrame": 541,
+    "title": "把五千年压缩进十分钟",
+    "kicker": "时间倒行，连接显现",
+    "kind": "globe",
+    "sceneKind": null,
+    "focus": [
+      50,
+      30
+    ],
+    "zoom": 1,
+    "yearStart": 1900,
+    "yearEnd": 1000,
+    "transition": "Time Rewind",
+    "layers": [
+      "knowledge"
+    ],
+    "climax": false,
+    "cameraMotion": "orbit"
+  },
+  {
+    "id": "c01-s03",
+    "chapter": 1,
+    "start": 9.016667,
+    "end": 12.966667,
+    "startFrame": 541,
+    "endFrame": 778,
+    "title": "文明以前的世界",
+    "kicker": "回到城市开始生长的时代",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      30,
+      20
+    ],
+    "zoom": 1,
+    "yearStart": 1000,
+    "yearEnd": -3500,
+    "transition": "Time Rewind",
+    "layers": [],
+    "climax": false,
+    "cameraMotion": "lateral"
+  },
+  {
+    "id": "c01-s04",
+    "chapter": 1,
+    "start": 12.966667,
+    "end": 17.583333,
+    "startFrame": 778,
+    "endFrame": 1055,
+    "title": "飞入两河之间",
+    "kicker": "地理为人类提供舞台",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      45,
+      32
+    ],
+    "zoom": 5.4,
+    "yearStart": -3500,
+    "yearEnd": -3500,
+    "transition": "Map Dive",
+    "layers": [
+      "cities"
+    ],
+    "climax": false,
+    "cameraMotion": "pull"
+  },
+  {
+    "id": "c01-s05",
+    "chapter": 1,
+    "start": 17.583333,
+    "end": 21.983333,
+    "startFrame": 1055,
+    "endFrame": 1319,
+    "title": "第一座城市的微光",
+    "kicker": "从村落到城市，生活重新组织",
+    "kind": "scene",
+    "sceneKind": "city",
+    "focus": [
+      45.6,
+      31.3
+    ],
+    "zoom": 5.6,
+    "yearStart": -3500,
+    "yearEnd": -3500,
+    "transition": "Architecture Reveal",
+    "layers": [
+      "cities"
+    ],
+    "climax": false,
+    "cameraMotion": "dive"
+  },
+  {
+    "id": "c01-s06",
+    "chapter": 1,
+    "start": 21.983333,
+    "end": 25.0,
+    "startFrame": 1319,
+    "endFrame": 1500,
+    "title": "一枚光点，一段旅程",
+    "kicker": "从第一批城市，到改变世界的思想",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      45.6,
+      31.3
+    ],
+    "zoom": 4,
+    "yearStart": -3500,
+    "yearEnd": -3500,
+    "transition": "Civilization Bloom",
+    "layers": [
+      "cities"
+    ],
+    "climax": true,
+    "cameraMotion": "pull"
+  },
+  {
+    "id": "c02-s01",
+    "chapter": 2,
+    "start": 25.0,
+    "end": 33.683333,
+    "startFrame": 1500,
+    "endFrame": 2021,
+    "title": "两条河，许多选择",
+    "kicker": "幼发拉底河与底格里斯河孕育定居",
+    "kind": "scene",
+    "sceneKind": "irrigation",
+    "focus": [
+      44,
+      33
+    ],
+    "zoom": 5,
+    "yearStart": -3500,
+    "yearEnd": -3300,
+    "transition": "Map Dive",
+    "layers": [
+      "cities"
+    ],
+    "climax": true,
+    "cameraMotion": "push"
+  },
+  {
+    "id": "c02-s02",
+    "chapter": 2,
+    "start": 33.683333,
+    "end": 41.916667,
+    "startFrame": 2021,
+    "endFrame": 2515,
+    "title": "灌溉让城市生长",
+    "kicker": "沟渠、农田与分工共同改变生活",
+    "kind": "scene",
+    "sceneKind": "city",
+    "focus": [
+      45.6,
+      31.3
+    ],
+    "zoom": 5,
+    "yearStart": -3400,
+    "yearEnd": -3200,
+    "transition": "Architecture Reveal",
+    "layers": [
+      "cities"
+    ],
+    "climax": false,
+    "cameraMotion": "orbit"
+  },
+  {
+    "id": "c02-s03",
+    "chapter": 2,
+    "start": 41.916667,
+    "end": 50.383333,
+    "startFrame": 2515,
+    "endFrame": 3023,
+    "title": "把物资记在泥板上",
+    "kicker": "文字首先解决了具体的管理问题",
+    "kind": "scene",
+    "sceneKind": "tablet",
+    "focus": [
+      45.6,
+      31.3
+    ],
+    "zoom": 5,
+    "yearStart": -3300,
+    "yearEnd": -3000,
+    "transition": "Knowledge Morph",
+    "layers": [
+      "knowledge"
+    ],
+    "climax": false,
+    "cameraMotion": "lateral"
+  },
+  {
+    "id": "c02-s04",
+    "chapter": 2,
+    "start": 50.383333,
+    "end": 59.283333,
+    "startFrame": 3023,
+    "endFrame": 3557,
+    "title": "尼罗河畔的国家",
+    "kicker": "约前3100年统一；此后兴建金字塔",
+    "kind": "scene",
+    "sceneKind": "pyramid",
+    "focus": [
+      31.13,
+      29.98
+    ],
+    "zoom": 5,
+    "yearStart": -2600,
+    "yearEnd": -2500,
+    "transition": "Architecture Reveal",
+    "layers": [
+      "cities",
+      "knowledge"
+    ],
+    "climax": false,
+    "cameraMotion": "pull"
+  },
+  {
+    "id": "c02-s05",
+    "chapter": 2,
+    "start": 59.283333,
+    "end": 69.983333,
+    "startFrame": 3557,
+    "endFrame": 4199,
+    "title": "不同的河流，不同的道路",
+    "kicker": "印度河城市与黄河流域早期国家相继发展",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      87,
+      31
+    ],
+    "zoom": 2.3,
+    "yearStart": -2600,
+    "yearEnd": -1600,
+    "transition": "Civilization Bloom",
+    "layers": [
+      "cities"
+    ],
+    "climax": false,
+    "cameraMotion": "dive"
+  },
+  {
+    "id": "c02-s06",
+    "chapter": 2,
+    "start": 69.983333,
+    "end": 80.0,
+    "startFrame": 4199,
+    "endFrame": 4800,
+    "title": "文明不是单一的起点",
+    "kicker": "安第斯等地区也独立发展复杂社会",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      -25,
+      12
+    ],
+    "zoom": 1,
+    "yearStart": -3000,
+    "yearEnd": -1500,
+    "transition": "Civilization Bloom",
+    "layers": [
+      "cities"
+    ],
+    "climax": true,
+    "cameraMotion": "pull"
+  },
+  {
+    "id": "c03-s01",
+    "chapter": 3,
+    "start": 80.0,
+    "end": 88.2,
+    "startFrame": 4800,
+    "endFrame": 5292,
+    "title": "青铜时代的交换圈",
+    "kicker": "金属、木材与奢侈品越过海陆",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      30,
+      34
+    ],
+    "zoom": 3.3,
+    "yearStart": -1500,
+    "yearEnd": -1200,
+    "transition": "Trade Route Follow",
+    "layers": [
+      "trade",
+      "cities"
+    ],
+    "climax": false,
+    "cameraMotion": "push"
+  },
+  {
+    "id": "c03-s02",
+    "chapter": 3,
+    "start": 88.2,
+    "end": 96.2,
+    "startFrame": 5292,
+    "endFrame": 5772,
+    "title": "旧网络断裂，铁器渐推广",
+    "kicker": "战乱、迁徙与环境压力交织",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      30,
+      35
+    ],
+    "zoom": 3,
+    "yearStart": -1200,
+    "yearEnd": -800,
+    "transition": "Trade Route Follow",
+    "layers": [
+      "cities",
+      "trade",
+      "war"
+    ],
+    "climax": false,
+    "cameraMotion": "orbit"
+  },
+  {
+    "id": "c03-s03",
+    "chapter": 3,
+    "start": 96.2,
+    "end": 103.6,
+    "startFrame": 5772,
+    "endFrame": 6216,
+    "title": "腓尼基人的海洋",
+    "kicker": "港口连接商品与书写方式",
+    "kind": "scene",
+    "sceneKind": "ship",
+    "focus": [
+      20,
+      35
+    ],
+    "zoom": 3,
+    "yearStart": -1100,
+    "yearEnd": -800,
+    "transition": "Empire Ink Spread",
+    "layers": [
+      "cities",
+      "trade"
+    ],
+    "climax": false,
+    "cameraMotion": "lateral"
+  },
+  {
+    "id": "c03-s04",
+    "chapter": 3,
+    "start": 103.6,
+    "end": 112.2,
+    "startFrame": 6216,
+    "endFrame": 6732,
+    "title": "从亚述到新巴比伦",
+    "kicker": "扩张、统治与被迫迁移",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      42,
+      34
+    ],
+    "zoom": 3.6,
+    "yearStart": -900,
+    "yearEnd": -539,
+    "transition": "Empire Ink Spread",
+    "layers": [
+      "cities",
+      "empires",
+      "war"
+    ],
+    "climax": false,
+    "cameraMotion": "pull"
+  },
+  {
+    "id": "c03-s05",
+    "chapter": 3,
+    "start": 112.2,
+    "end": 120.8,
+    "startFrame": 6732,
+    "endFrame": 7248,
+    "title": "波斯：道路、行省与治理",
+    "kicker": "多种语言与文化进入庞大体系",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      48,
+      32
+    ],
+    "zoom": 3,
+    "yearStart": -550,
+    "yearEnd": -500,
+    "transition": "Knowledge Morph",
+    "layers": [
+      "cities",
+      "empires",
+      "trade"
+    ],
+    "climax": false,
+    "cameraMotion": "dive"
+  },
+  {
+    "id": "c03-s06",
+    "chapter": 3,
+    "start": 120.8,
+    "end": 130.0,
+    "startFrame": 7248,
+    "endFrame": 7800,
+    "title": "商周与奥尔梅克的时代",
+    "kicker": "中国与美洲，同样拥有各自中心",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      15,
+      20
+    ],
+    "zoom": 1,
+    "yearStart": -1300,
+    "yearEnd": -500,
+    "transition": "Map Dive",
+    "layers": [
+      "cities",
+      "empires"
+    ],
+    "climax": true,
+    "cameraMotion": "pull"
+  },
+  {
+    "id": "c04-s01",
+    "chapter": 4,
+    "start": 130.0,
+    "end": 139.233333,
+    "startFrame": 7800,
+    "endFrame": 8354,
+    "title": "地中海：思想与战争",
+    "kicker": "希波战争与城邦冲突发生在具体的地理空间",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      24,
+      38
+    ],
+    "zoom": 4.8,
+    "yearStart": -500,
+    "yearEnd": -404,
+    "transition": "Battle Field Transition",
+    "layers": [
+      "cities",
+      "war"
+    ],
+    "climax": false,
+    "cameraMotion": "push"
+  },
+  {
+    "id": "c04-s02",
+    "chapter": 4,
+    "start": 139.233333,
+    "end": 148.9,
+    "startFrame": 8354,
+    "endFrame": 8934,
+    "title": "亚历山大向东",
+    "kicker": "前334—323年征服改变西亚政治与文化联系",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      44,
+      33
+    ],
+    "zoom": 2.8,
+    "yearStart": -334,
+    "yearEnd": -323,
+    "transition": "Trade Route Follow",
+    "layers": [
+      "empires",
+      "war"
+    ],
+    "climax": false,
+    "cameraMotion": "orbit"
+  },
+  {
+    "id": "c04-s03",
+    "chapter": 4,
+    "start": 148.9,
+    "end": 157.933333,
+    "startFrame": 8934,
+    "endFrame": 9476,
+    "title": "罗马的道路与城市",
+    "kicker": "共和国转为帝国；道路组织人与物资",
+    "kind": "scene",
+    "sceneKind": "city",
+    "focus": [
+      12.5,
+      41.9
+    ],
+    "zoom": 4,
+    "yearStart": -200,
+    "yearEnd": 117,
+    "transition": "Architecture Reveal",
+    "layers": [
+      "empires",
+      "cities"
+    ],
+    "climax": false,
+    "cameraMotion": "lateral"
+  },
+  {
+    "id": "c04-s04",
+    "chapter": 4,
+    "start": 157.933333,
+    "end": 166.516667,
+    "startFrame": 9476,
+    "endFrame": 9991,
+    "title": "印度：王朝与佛教",
+    "kicker": "孔雀王朝之后，思想沿多种网络流动",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      80,
+      25
+    ],
+    "zoom": 4,
+    "yearStart": -322,
+    "yearEnd": -185,
+    "transition": "Civilization Bloom",
+    "layers": [
+      "religion",
+      "cities"
+    ],
+    "climax": false,
+    "cameraMotion": "pull"
+  },
+  {
+    "id": "c04-s05",
+    "chapter": 4,
+    "start": 166.516667,
+    "end": 175.766667,
+    "startFrame": 9991,
+    "endFrame": 10546,
+    "title": "与此同时，欧亚东端",
+    "kicker": "秦统一与汉代发展同样依靠道路与治理",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      108.9,
+      34.3
+    ],
+    "zoom": 3.6,
+    "yearStart": -221,
+    "yearEnd": 220,
+    "transition": "Map Dive",
+    "layers": [
+      "empires",
+      "cities"
+    ],
+    "climax": false,
+    "cameraMotion": "dive"
+  },
+  {
+    "id": "c04-s06",
+    "chapter": 4,
+    "start": 175.766667,
+    "end": 185.0,
+    "startFrame": 10546,
+    "endFrame": 11100,
+    "title": "丝绸之路是一张网",
+    "kicker": "事件地点为本章回顾 · 不表示各政权同时存在",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      65,
+      32
+    ],
+    "zoom": 1.8,
+    "yearStart": -130,
+    "yearEnd": 220,
+    "transition": "Trade Route Follow",
+    "layers": [
+      "trade",
+      "cities"
+    ],
+    "climax": true,
+    "cameraMotion": "pull",
+    "richRoutes": true
+  },
+  {
+    "id": "c05-s01",
+    "chapter": 5,
+    "start": 185.0,
+    "end": 193.916667,
+    "startFrame": 11100,
+    "endFrame": 11635,
+    "title": "一个帝国，多重变化",
+    "kicker": "东西分治之后，东罗马继续存在",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      24,
+      39
+    ],
+    "zoom": 3.2,
+    "yearStart": 220,
+    "yearEnd": 476,
+    "transition": "Empire Ink Spread",
+    "layers": [
+      "empires",
+      "cities"
+    ],
+    "climax": false,
+    "cameraMotion": "push"
+  },
+  {
+    "id": "c05-s02",
+    "chapter": 5,
+    "start": 193.916667,
+    "end": 203.9,
+    "startFrame": 11635,
+    "endFrame": 12234,
+    "title": "476：西部统治结构的终结",
+    "kicker": "东罗马延续，城市与制度仍在变化",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      24,
+      39
+    ],
+    "zoom": 3.2,
+    "yearStart": 476,
+    "yearEnd": 476,
+    "transition": "Civilization Bloom",
+    "layers": [
+      "cities",
+      "empires"
+    ],
+    "climax": false,
+    "cameraMotion": "orbit"
+  },
+  {
+    "id": "c05-s03",
+    "chapter": 5,
+    "start": 203.9,
+    "end": 212.816667,
+    "startFrame": 12234,
+    "endFrame": 12769,
+    "title": "信仰越过政治边界",
+    "kicker": "社群、传教与政治支持",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      25,
+      37
+    ],
+    "zoom": 3,
+    "yearStart": 250,
+    "yearEnd": 600,
+    "transition": "Knowledge Morph",
+    "layers": [
+      "cities",
+      "religion"
+    ],
+    "climax": false,
+    "cameraMotion": "lateral"
+  },
+  {
+    "id": "c05-s04",
+    "chapter": 5,
+    "start": 212.816667,
+    "end": 221.533333,
+    "startFrame": 12769,
+    "endFrame": 13292,
+    "title": "南亚的知识与佛教的陆海旅程",
+    "kicker": "文化交流不能等同于国家疆界",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      80,
+      29
+    ],
+    "zoom": 2.4,
+    "yearStart": 320,
+    "yearEnd": 650,
+    "transition": "Trade Route Follow",
+    "layers": [
+      "religion",
+      "trade"
+    ],
+    "climax": false,
+    "cameraMotion": "pull"
+  },
+  {
+    "id": "c05-s05",
+    "chapter": 5,
+    "start": 221.533333,
+    "end": 230.65,
+    "startFrame": 13292,
+    "endFrame": 13839,
+    "title": "中国：分裂、重组与交流",
+    "kicker": "魏晋南北朝至隋唐，并非单一线性的更替",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      109,
+      34
+    ],
+    "zoom": 3.7,
+    "yearStart": 220,
+    "yearEnd": 618,
+    "transition": "Empire Ink Spread",
+    "layers": [
+      "cities",
+      "empires",
+      "religion"
+    ],
+    "climax": false,
+    "cameraMotion": "dive"
+  },
+  {
+    "id": "c05-s06",
+    "chapter": 5,
+    "start": 230.65,
+    "end": 240.0,
+    "startFrame": 13839,
+    "endFrame": 14400,
+    "title": "阿拉伯半岛的新变化",
+    "kicker": "7世纪伊斯兰教兴起，早期政权向外发展",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      40,
+      26
+    ],
+    "zoom": 3.3,
+    "yearStart": 610,
+    "yearEnd": 650,
+    "transition": "Civilization Bloom",
+    "layers": [
+      "religion",
+      "empires"
+    ],
+    "climax": true,
+    "cameraMotion": "pull"
+  },
+  {
+    "id": "c06-s01",
+    "chapter": 6,
+    "start": 240.0,
+    "end": 248.933333,
+    "startFrame": 14400,
+    "endFrame": 14936,
+    "title": "技术在城市间生长",
+    "kicker": "雕版印刷工序示意 · 非特定作坊复原",
+    "kind": "scene",
+    "sceneKind": "woodprint",
+    "focus": [
+      113,
+      31
+    ],
+    "zoom": 3.7,
+    "yearStart": 650,
+    "yearEnd": 1200,
+    "transition": "Civilization Bloom",
+    "layers": [
+      "cities",
+      "knowledge"
+    ],
+    "climax": true,
+    "cameraMotion": "push"
+  },
+  {
+    "id": "c06-s02",
+    "chapter": 6,
+    "start": 248.933333,
+    "end": 257.85,
+    "startFrame": 14936,
+    "endFrame": 15471,
+    "title": "翻译，计算，重新提问",
+    "kicker": "阿拔斯时代的学者继承并拓展跨文化知识",
+    "kind": "scene",
+    "sceneKind": "translation",
+    "focus": [
+      44.37,
+      33.32
+    ],
+    "zoom": 4,
+    "yearStart": 750,
+    "yearEnd": 1000,
+    "transition": "Knowledge Morph",
+    "layers": [
+      "knowledge",
+      "trade"
+    ],
+    "climax": true,
+    "cameraMotion": "orbit"
+  },
+  {
+    "id": "c06-s03",
+    "chapter": 6,
+    "start": 257.85,
+    "end": 267.183333,
+    "startFrame": 15471,
+    "endFrame": 16031,
+    "title": "印度洋是一片联系之海",
+    "kicker": "季风支持东非、阿拉伯、南亚与东南亚交换",
+    "kind": "scene",
+    "sceneKind": "ship",
+    "focus": [
+      65,
+      7
+    ],
+    "zoom": 2,
+    "yearStart": 800,
+    "yearEnd": 1300,
+    "transition": "Ocean Crossing",
+    "layers": [
+      "trade",
+      "cities"
+    ],
+    "climax": false,
+    "cameraMotion": "lateral"
+  },
+  {
+    "id": "c06-s04",
+    "chapter": 6,
+    "start": 267.183333,
+    "end": 276.316667,
+    "startFrame": 16031,
+    "endFrame": 16579,
+    "title": "把地图再次拉远",
+    "kicker": "西非贸易、美洲城市与欧洲大学各有活力",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      -20,
+      18
+    ],
+    "zoom": 1,
+    "yearStart": 900,
+    "yearEnd": 1350,
+    "transition": "Civilization Bloom",
+    "layers": [
+      "cities",
+      "trade",
+      "knowledge"
+    ],
+    "climax": false,
+    "cameraMotion": "pull"
+  },
+  {
+    "id": "c06-s05",
+    "chapter": 6,
+    "start": 276.316667,
+    "end": 285.45,
+    "startFrame": 16579,
+    "endFrame": 17127,
+    "title": "蒙古帝国与欧亚网络",
+    "kicker": "多代征服扩大联系，也造成破坏",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      76,
+      40
+    ],
+    "zoom": 2,
+    "yearStart": 1206,
+    "yearEnd": 1279,
+    "transition": "Empire Ink Spread",
+    "layers": [
+      "empires",
+      "trade",
+      "war"
+    ],
+    "climax": false,
+    "cameraMotion": "dive"
+  },
+  {
+    "id": "c06-s06",
+    "chapter": 6,
+    "start": 285.45,
+    "end": 295.0,
+    "startFrame": 17127,
+    "endFrame": 17700,
+    "title": "连接也会传播灾难",
+    "kicker": "14世纪黑死病重创多个地区",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      35,
+      39
+    ],
+    "zoom": 2.5,
+    "yearStart": 1346,
+    "yearEnd": 1353,
+    "transition": "Network Spread",
+    "layers": [
+      "cities",
+      "trade"
+    ],
+    "climax": true,
+    "cameraMotion": "pull"
+  },
+  {
+    "id": "c07-s01",
+    "chapter": 7,
+    "start": 295.0,
+    "end": 303.516667,
+    "startFrame": 17700,
+    "endFrame": 18211,
+    "title": "重新阅读古典世界",
+    "kicker": "文艺复兴中的艺术、人文主义与城市社会",
+    "kind": "scene",
+    "sceneKind": "book",
+    "focus": [
+      11.25,
+      43.77
+    ],
+    "zoom": 5,
+    "yearStart": 1350,
+    "yearEnd": 1500,
+    "transition": "Knowledge Morph",
+    "layers": [
+      "knowledge"
+    ],
+    "climax": false,
+    "cameraMotion": "push"
+  },
+  {
+    "id": "c07-s02",
+    "chapter": 7,
+    "start": 303.516667,
+    "end": 311.85,
+    "startFrame": 18211,
+    "endFrame": 18711,
+    "title": "印刷让文字更快流动",
+    "kicker": "欧洲金属活字印刷 · 工序概念示意",
+    "kind": "scene",
+    "sceneKind": "press",
+    "focus": [
+      65,
+      38
+    ],
+    "zoom": 2,
+    "yearStart": 1450,
+    "yearEnd": 1500,
+    "transition": "Knowledge Morph",
+    "layers": [
+      "knowledge",
+      "cities"
+    ],
+    "climax": true,
+    "cameraMotion": "orbit"
+  },
+  {
+    "id": "c07-s03",
+    "chapter": 7,
+    "start": 311.85,
+    "end": 319.816667,
+    "startFrame": 18711,
+    "endFrame": 19189,
+    "title": "郑和的印度洋航行",
+    "kicker": "1405—1433年，多次航行连接既有港口网络",
+    "kind": "scene",
+    "sceneKind": "ship",
+    "focus": [
+      91,
+      9
+    ],
+    "zoom": 2.2,
+    "yearStart": 1405,
+    "yearEnd": 1433,
+    "transition": "Ocean Crossing",
+    "layers": [
+      "trade"
+    ],
+    "climax": false,
+    "cameraMotion": "lateral"
+  },
+  {
+    "id": "c07-s04",
+    "chapter": 7,
+    "start": 319.816667,
+    "end": 328.333333,
+    "startFrame": 19189,
+    "endFrame": 19700,
+    "title": "绕过非洲，抵达印度",
+    "kicker": "1498：进入既有的印度洋贸易世界",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      23,
+      -2
+    ],
+    "zoom": 1.6,
+    "yearStart": 1497,
+    "yearEnd": 1498,
+    "transition": "Trade Route Follow",
+    "layers": [
+      "cities",
+      "trade"
+    ],
+    "climax": false,
+    "cameraMotion": "pull",
+    "richRoutes": true
+  },
+  {
+    "id": "c07-s05",
+    "chapter": 7,
+    "start": 328.333333,
+    "end": 336.666667,
+    "startFrame": 19700,
+    "endFrame": 20200,
+    "title": "1492：抵达有人居住的美洲",
+    "kicker": "跨洋相遇改变双方命运",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      -42,
+      26
+    ],
+    "zoom": 2.6,
+    "yearStart": 1492,
+    "yearEnd": 1492,
+    "transition": "Ocean Crossing",
+    "layers": [
+      "trade",
+      "cities"
+    ],
+    "climax": false,
+    "cameraMotion": "dive",
+    "richRoutes": true
+  },
+  {
+    "id": "c07-s06",
+    "chapter": 7,
+    "start": 336.666667,
+    "end": 345.0,
+    "startFrame": 20200,
+    "endFrame": 20700,
+    "title": "海洋，成为新的道路",
+    "kicker": "连接更多地区，也打开殖民扩张之门",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      15,
+      10
+    ],
+    "zoom": 1,
+    "yearStart": 1492,
+    "yearEnd": 1500,
+    "transition": "Ocean Crossing",
+    "layers": [
+      "cities",
+      "trade"
+    ],
+    "climax": true,
+    "cameraMotion": "pull"
+  },
+  {
+    "id": "c08-s01",
+    "chapter": 8,
+    "start": 345.0,
+    "end": 353.25,
+    "startFrame": 20700,
+    "endFrame": 21195,
+    "title": "美洲原有复杂社会",
+    "kicker": "阿兹特克与印加遭遇征服、联盟战争与疾病",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      -90,
+      3
+    ],
+    "zoom": 2.4,
+    "yearStart": 1500,
+    "yearEnd": 1533,
+    "transition": "Map Dive",
+    "layers": [
+      "cities",
+      "war",
+      "empires"
+    ],
+    "climax": false,
+    "cameraMotion": "push"
+  },
+  {
+    "id": "c08-s02",
+    "chapter": 8,
+    "start": 353.25,
+    "end": 361.666667,
+    "startFrame": 21195,
+    "endFrame": 21700,
+    "title": "人口灾难的地图",
+    "kicker": "疾病与殖民暴力交织，影响因地区而异",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      -83,
+      10
+    ],
+    "zoom": 2.1,
+    "yearStart": 1500,
+    "yearEnd": 1650,
+    "transition": "Network Spread",
+    "layers": [
+      "cities"
+    ],
+    "climax": false,
+    "cameraMotion": "orbit"
+  },
+  {
+    "id": "c08-s03",
+    "chapter": 8,
+    "start": 361.666667,
+    "end": 369.733333,
+    "startFrame": 21700,
+    "endFrame": 22184,
+    "title": "农作物越过海洋",
+    "kicker": "哥伦布大交换重塑饮食、生态与生产",
+    "kind": "scene",
+    "sceneKind": "exchange",
+    "focus": [
+      -20,
+      10
+    ],
+    "zoom": 1,
+    "yearStart": 1500,
+    "yearEnd": 1700,
+    "transition": "Trade Route Follow",
+    "layers": [
+      "trade"
+    ],
+    "climax": true,
+    "cameraMotion": "lateral"
+  },
+  {
+    "id": "c08-s04",
+    "chapter": 8,
+    "start": 369.733333,
+    "end": 377.783333,
+    "startFrame": 22184,
+    "endFrame": 22667,
+    "title": "被强迫跨越大西洋",
+    "kicker": "奴隶贸易以人的苦难支撑殖民经济",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      -30,
+      8
+    ],
+    "zoom": 2,
+    "yearStart": 1500,
+    "yearEnd": 1700,
+    "transition": "Ocean Crossing",
+    "layers": [
+      "trade"
+    ],
+    "climax": false,
+    "cameraMotion": "pull"
+  },
+  {
+    "id": "c08-s05",
+    "chapter": 8,
+    "start": 377.783333,
+    "end": 386.216667,
+    "startFrame": 22667,
+    "endFrame": 23173,
+    "title": "白银进入全球交换",
+    "kicker": "美洲银矿、马尼拉与亚洲市场建立联系",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      -135,
+      12
+    ],
+    "zoom": 1.1,
+    "yearStart": 1545,
+    "yearEnd": 1700,
+    "transition": "Trade Route Follow",
+    "layers": [
+      "trade",
+      "cities"
+    ],
+    "climax": false,
+    "cameraMotion": "dive"
+  },
+  {
+    "id": "c08-s06",
+    "chapter": 8,
+    "start": 386.216667,
+    "end": 395.0,
+    "startFrame": 23173,
+    "endFrame": 23700,
+    "title": "欧洲的信仰与政治重组",
+    "kicker": "宗教改革引发长期的社会与政治变化",
+    "kind": "scene",
+    "sceneKind": "book",
+    "focus": [
+      10.5,
+      51.9
+    ],
+    "zoom": 4,
+    "yearStart": 1517,
+    "yearEnd": 1648,
+    "transition": "Knowledge Morph",
+    "layers": [
+      "religion",
+      "knowledge"
+    ],
+    "climax": true,
+    "cameraMotion": "pull"
+  },
+  {
+    "id": "c09-s01",
+    "chapter": 9,
+    "start": 395.0,
+    "end": 401.233333,
+    "startFrame": 23700,
+    "endFrame": 24074,
+    "title": "知识中心之间的联系",
+    "kicker": "科学革命与此前时代并行发生",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      13,
+      49
+    ],
+    "zoom": 4.2,
+    "yearStart": 1543,
+    "yearEnd": 1700,
+    "transition": "Map Dive",
+    "layers": [
+      "knowledge",
+      "cities"
+    ],
+    "climax": false,
+    "cameraMotion": "push"
+  },
+  {
+    "id": "c09-s02",
+    "chapter": 9,
+    "start": 401.233333,
+    "end": 409.233333,
+    "startFrame": 24074,
+    "endFrame": 24554,
+    "title": "1543：重新安排宇宙",
+    "kicker": "日心体系概念图 · 非比例模型",
+    "kind": "scene",
+    "sceneKind": "heliocentric",
+    "focus": [
+      19.68,
+      54.36
+    ],
+    "zoom": 5,
+    "yearStart": 1543,
+    "yearEnd": 1543,
+    "transition": "Knowledge Morph",
+    "layers": [
+      "knowledge"
+    ],
+    "climax": true,
+    "cameraMotion": "orbit"
+  },
+  {
+    "id": "c09-s03",
+    "chapter": 9,
+    "start": 409.233333,
+    "end": 416.7,
+    "startFrame": 24554,
+    "endFrame": 25002,
+    "title": "观察让旧图景松动",
+    "kicker": "观测、资料与数学模型相互推动",
+    "kind": "scene",
+    "sceneKind": "telescope",
+    "focus": [
+      12.5,
+      48
+    ],
+    "zoom": 4,
+    "yearStart": 1609,
+    "yearEnd": 1619,
+    "transition": "Knowledge Morph",
+    "layers": [
+      "knowledge"
+    ],
+    "climax": true,
+    "cameraMotion": "lateral"
+  },
+  {
+    "id": "c09-s04",
+    "chapter": 9,
+    "start": 416.7,
+    "end": 424.35,
+    "startFrame": 25002,
+    "endFrame": 25461,
+    "title": "1687：运动的数学语言",
+    "kicker": "牛顿综合既有成果，提出系统理论",
+    "kind": "scene",
+    "sceneKind": "orbits",
+    "focus": [
+      -0.12,
+      51.5
+    ],
+    "zoom": 5,
+    "yearStart": 1687,
+    "yearEnd": 1687,
+    "transition": "Knowledge Morph",
+    "layers": [
+      "knowledge"
+    ],
+    "climax": true,
+    "cameraMotion": "pull"
+  },
+  {
+    "id": "c09-s05",
+    "chapter": 9,
+    "start": 424.35,
+    "end": 432.0,
+    "startFrame": 25461,
+    "endFrame": 25920,
+    "title": "规律，实验与公开争论",
+    "kicker": "新方法由多人、多地与多种制度共同发展",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      8,
+      49
+    ],
+    "zoom": 3.6,
+    "yearStart": 1543,
+    "yearEnd": 1715,
+    "transition": "Civilization Bloom",
+    "layers": [
+      "knowledge",
+      "cities"
+    ],
+    "climax": false,
+    "cameraMotion": "dive"
+  },
+  {
+    "id": "c09-s06",
+    "chapter": 9,
+    "start": 432.0,
+    "end": 440.0,
+    "startFrame": 25920,
+    "endFrame": 26400,
+    "title": "从天体运动到机械运动",
+    "kicker": "科学与工业相互影响，成因远不止几项发现",
+    "kind": "scene",
+    "sceneKind": "gears",
+    "focus": [
+      -2,
+      53
+    ],
+    "zoom": 4,
+    "yearStart": 1687,
+    "yearEnd": 1750,
+    "transition": "Mechanical Transition",
+    "layers": [
+      "knowledge",
+      "industry"
+    ],
+    "climax": true,
+    "cameraMotion": "pull"
+  },
+  {
+    "id": "c10-s01",
+    "chapter": 10,
+    "start": 440.0,
+    "end": 448.966667,
+    "startFrame": 26400,
+    "endFrame": 26938,
+    "title": "权利、主权与法律",
+    "kicker": "启蒙思想在公共讨论与出版网络中展开",
+    "kind": "scene",
+    "sceneKind": "rights",
+    "focus": [
+      2.35,
+      48.86
+    ],
+    "zoom": 4,
+    "yearStart": 1700,
+    "yearEnd": 1770,
+    "transition": "Knowledge Morph",
+    "layers": [
+      "knowledge"
+    ],
+    "climax": true,
+    "cameraMotion": "push"
+  },
+  {
+    "id": "c10-s02",
+    "chapter": 10,
+    "start": 448.966667,
+    "end": 457.533333,
+    "startFrame": 26938,
+    "endFrame": 27452,
+    "title": "北美独立的战争与宣言",
+    "kicker": "1776年的权利语言与现实排斥并存",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      -75,
+      40
+    ],
+    "zoom": 4.2,
+    "yearStart": 1775,
+    "yearEnd": 1783,
+    "transition": "Battle Field Transition",
+    "layers": [
+      "war",
+      "cities"
+    ],
+    "climax": false,
+    "cameraMotion": "orbit"
+  },
+  {
+    "id": "c10-s03",
+    "chapter": 10,
+    "start": 457.533333,
+    "end": 466.483333,
+    "startFrame": 27452,
+    "endFrame": 27989,
+    "title": "1789：法国的政治断裂",
+    "kicker": "革命重写制度，也伴随冲突与暴力",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      2.35,
+      48.86
+    ],
+    "zoom": 5,
+    "yearStart": 1789,
+    "yearEnd": 1799,
+    "transition": "Civilization Bloom",
+    "layers": [
+      "war",
+      "cities",
+      "knowledge"
+    ],
+    "climax": false,
+    "cameraMotion": "lateral"
+  },
+  {
+    "id": "c10-s04",
+    "chapter": 10,
+    "start": 466.483333,
+    "end": 476.066667,
+    "startFrame": 27989,
+    "endFrame": 28564,
+    "title": "海地：被奴役者争取自由",
+    "kicker": "1791年革命兴起，1804年独立",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      -72.3,
+      19
+    ],
+    "zoom": 5.5,
+    "yearStart": 1791,
+    "yearEnd": 1804,
+    "transition": "Map Dive",
+    "layers": [
+      "war",
+      "cities"
+    ],
+    "climax": false,
+    "cameraMotion": "pull"
+  },
+  {
+    "id": "c10-s05",
+    "chapter": 10,
+    "start": 476.066667,
+    "end": 485.433333,
+    "startFrame": 28564,
+    "endFrame": 29126,
+    "title": "拿破仑战争改变欧洲",
+    "kicker": "战役位置与战争结果重塑政治秩序",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      14,
+      49
+    ],
+    "zoom": 3.8,
+    "yearStart": 1805,
+    "yearEnd": 1815,
+    "transition": "Battle Field Transition",
+    "layers": [
+      "war",
+      "empires"
+    ],
+    "climax": false,
+    "cameraMotion": "dive"
+  },
+  {
+    "id": "c10-s06",
+    "chapter": 10,
+    "start": 485.433333,
+    "end": 495.0,
+    "startFrame": 29126,
+    "endFrame": 29700,
+    "title": "革命的承诺与边界",
+    "kicker": "关于自由、平等与社会秩序的争论继续",
+    "kind": "scene",
+    "sceneKind": "gears",
+    "focus": [
+      8,
+      49
+    ],
+    "zoom": 3,
+    "yearStart": 1789,
+    "yearEnd": 1815,
+    "transition": "Mechanical Transition",
+    "layers": [
+      "knowledge",
+      "industry"
+    ],
+    "climax": true,
+    "cameraMotion": "pull"
+  },
+  {
+    "id": "c11-s01",
+    "chapter": 11,
+    "start": 495.0,
+    "end": 504.466667,
+    "startFrame": 29700,
+    "endFrame": 30268,
+    "title": "英国的能源与生产网络",
+    "kicker": "煤、运河、资本、棉花与劳动组织相互作用",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      -2.5,
+      53.3
+    ],
+    "zoom": 6,
+    "yearStart": 1760,
+    "yearEnd": 1800,
+    "transition": "Map Dive",
+    "layers": [
+      "industry",
+      "cities",
+      "trade"
+    ],
+    "climax": false,
+    "cameraMotion": "push"
+  },
+  {
+    "id": "c11-s02",
+    "chapter": 11,
+    "start": 504.466667,
+    "end": 514.583333,
+    "startFrame": 30268,
+    "endFrame": 30875,
+    "title": "走进纺织工厂",
+    "kicker": "手工生产逐渐与机械化生产并存",
+    "kind": "scene",
+    "sceneKind": "loom",
+    "focus": [
+      -2.25,
+      53.48
+    ],
+    "zoom": 6,
+    "yearStart": 1770,
+    "yearEnd": 1820,
+    "transition": "Architecture Reveal",
+    "layers": [
+      "industry"
+    ],
+    "climax": true,
+    "cameraMotion": "orbit"
+  },
+  {
+    "id": "c11-s03",
+    "chapter": 11,
+    "start": 514.583333,
+    "end": 524.683333,
+    "startFrame": 30875,
+    "endFrame": 31481,
+    "title": "水力与蒸汽动力",
+    "kicker": "活塞、连杆与飞轮把往复转为转动",
+    "kind": "scene",
+    "sceneKind": "steam",
+    "focus": [
+      -1.9,
+      52.5
+    ],
+    "zoom": 6,
+    "yearStart": 1769,
+    "yearEnd": 1830,
+    "transition": "Mechanical Transition",
+    "layers": [
+      "industry",
+      "knowledge"
+    ],
+    "climax": false,
+    "cameraMotion": "lateral"
+  },
+  {
+    "id": "c11-s04",
+    "chapter": 11,
+    "start": 524.683333,
+    "end": 534.783333,
+    "startFrame": 31481,
+    "endFrame": 32087,
+    "title": "从转轮进入火车车轮",
+    "kicker": "铁路让工厂、市场与城市更紧密连接",
+    "kind": "scene",
+    "sceneKind": "train",
+    "focus": [
+      -2.6,
+      53.4
+    ],
+    "zoom": 6,
+    "yearStart": 1825,
+    "yearEnd": 1830,
+    "transition": "Mechanical Transition",
+    "layers": [
+      "industry",
+      "trade"
+    ],
+    "climax": true,
+    "cameraMotion": "pull"
+  },
+  {
+    "id": "c11-s05",
+    "chapter": 11,
+    "start": 534.783333,
+    "end": 545.1,
+    "startFrame": 32087,
+    "endFrame": 32706,
+    "title": "铁路与工业城市增长",
+    "kicker": "利物浦—曼彻斯特铁路1830年开通",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      -2.6,
+      53.4
+    ],
+    "zoom": 6,
+    "yearStart": 1830,
+    "yearEnd": 1848,
+    "transition": "Industrial Expansion",
+    "layers": [
+      "industry",
+      "cities"
+    ],
+    "climax": false,
+    "cameraMotion": "dive",
+    "richRoutes": true
+  },
+  {
+    "id": "c11-s06",
+    "chapter": 11,
+    "start": 545.1,
+    "end": 555.0,
+    "startFrame": 32706,
+    "endFrame": 33300,
+    "title": "机器改变生产，也改变生活",
+    "kicker": "工业化向欧洲大陆和北美部分地区发展",
+    "kind": "scene",
+    "sceneKind": "urban",
+    "focus": [
+      -25,
+      44
+    ],
+    "zoom": 1.7,
+    "yearStart": 1800,
+    "yearEnd": 1848,
+    "transition": "Industrial Expansion",
+    "layers": [
+      "industry",
+      "cities",
+      "trade"
+    ],
+    "climax": true,
+    "cameraMotion": "pull"
+  },
+  {
+    "id": "c12-s01",
+    "chapter": 12,
+    "start": 555.0,
+    "end": 561.983333,
+    "startFrame": 33300,
+    "endFrame": 33719,
+    "title": "工厂里的新生活",
+    "kicker": "长工时、拥挤城市与劳动条件引发争论",
+    "kind": "scene",
+    "sceneKind": "workers",
+    "focus": [
+      -2.25,
+      53.48
+    ],
+    "zoom": 6,
+    "yearStart": 1800,
+    "yearEnd": 1840,
+    "transition": "Map Dive",
+    "layers": [
+      "industry",
+      "cities"
+    ],
+    "climax": false,
+    "cameraMotion": "push"
+  },
+  {
+    "id": "c12-s02",
+    "chapter": 12,
+    "start": 561.983333,
+    "end": 569.483333,
+    "startFrame": 33719,
+    "endFrame": 34169,
+    "title": "组织、改革与新的思想",
+    "kicker": "社会主义出现不同方案",
+    "kind": "scene",
+    "sceneKind": "ideas",
+    "focus": [
+      3,
+      50
+    ],
+    "zoom": 5.5,
+    "yearStart": 1820,
+    "yearEnd": 1844,
+    "transition": "Civilization Bloom",
+    "layers": [
+      "cities",
+      "knowledge"
+    ],
+    "climax": true,
+    "cameraMotion": "orbit"
+  },
+  {
+    "id": "c12-s03",
+    "chapter": 12,
+    "start": 569.483333,
+    "end": 576.8,
+    "startFrame": 34169,
+    "endFrame": 34608,
+    "title": "1848，伦敦",
+    "kicker": "一份政治纲领进入历史",
+    "kind": "scene",
+    "sceneKind": "manifesto",
+    "focus": [
+      -0.12,
+      51.5
+    ],
+    "zoom": 6,
+    "yearStart": 1848,
+    "yearEnd": 1848,
+    "transition": "Knowledge Morph",
+    "layers": [
+      "knowledge"
+    ],
+    "climax": false,
+    "cameraMotion": "lateral"
+  },
+  {
+    "id": "c12-s04",
+    "chapter": 12,
+    "start": 576.8,
+    "end": 584.833333,
+    "startFrame": 34608,
+    "endFrame": 35090,
+    "title": "分析、主张与争论",
+    "kicker": "历史事实、理论解释与政治主张需要区分",
+    "kind": "scene",
+    "sceneKind": "analysis",
+    "focus": [
+      5,
+      50.5
+    ],
+    "zoom": 4,
+    "yearStart": 1848,
+    "yearEnd": 1848,
+    "transition": "Knowledge Morph",
+    "layers": [
+      "knowledge",
+      "cities"
+    ],
+    "climax": true,
+    "cameraMotion": "pull"
+  },
+  {
+    "id": "c12-s05",
+    "chapter": 12,
+    "start": 584.833333,
+    "end": 592.85,
+    "startFrame": 35090,
+    "endFrame": 35571,
+    "title": "从城市的微光，到机器的轰鸣",
+    "kicker": "冲突与联系，始终并存",
+    "kind": "map",
+    "sceneKind": null,
+    "focus": [
+      35,
+      30
+    ],
+    "zoom": 1,
+    "yearStart": -3500,
+    "yearEnd": 1848,
+    "transition": "Book-to-World",
+    "layers": [
+      "cities",
+      "knowledge"
+    ],
+    "climax": false,
+    "cameraMotion": "dive"
+  },
+  {
+    "id": "c12-s06",
+    "chapter": 12,
+    "start": 592.85,
+    "end": 600.0,
+    "startFrame": 35571,
+    "endFrame": 36000,
+    "title": "问题，延续到后来的世界",
+    "kicker": "历史由无数人、技术、思想与选择交织而成",
+    "kind": "globe",
+    "sceneKind": null,
+    "focus": [
+      35,
+      22
+    ],
+    "zoom": 1,
+    "yearStart": -3500,
+    "yearEnd": 1848,
+    "transition": "Book-to-World",
+    "layers": [
+      "cities",
+      "knowledge"
+    ],
+    "climax": true,
+    "cameraMotion": "pull"
+  }
+]

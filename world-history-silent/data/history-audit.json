@@ -1,0 +1,24 @@
+{
+  "eventCount": 93,
+  "sourceCount": 67,
+  "chapterCounts": {
+    "1": 6,
+    "2": 7,
+    "3": 8,
+    "4": 9,
+    "5": 8,
+    "6": 11,
+    "7": 7,
+    "8": 7,
+    "9": 6,
+    "10": 7,
+    "11": 8,
+    "12": 9
+  },
+  "empireCoreNetworkCount": 9,
+  "yearZeroAbsent": true,
+  "allEventsSourced": true,
+  "geometry": "All 9 core network datasets are MultiPoint, not closed polygons.",
+  "failures": [],
+  "scope": "Data consistency checks plus manual historical source review; not independent professional historian sign-off."
+}
