@@ -1,0 +1,337 @@
+[
+  {
+    "id": "derwent",
+    "title": "UNESCO — Derwent Valley Mills",
+    "url": "https://whc.unesco.org/en/list/1030/"
+  },
+  {
+    "id": "earlyEgypt",
+    "title": "Egyptian Ministry of Tourism and Antiquities — Early Dynastic Period",
+    "url": "https://egymonuments.gov.eg/en/historical-periods/early-dynastic-period"
+  },
+  {
+    "id": "uluburun",
+    "title": "Institute of Nautical Archaeology — Uluburun Shipwreck",
+    "url": "https://nauticalarch.org/projects/uluburun-late-bronze-age-shipwreck-excavation/"
+  },
+  {
+    "id": "bologna",
+    "title": "University of Bologna — Our History",
+    "url": "https://www.unibo.it/en/university/who-we-are/our-history"
+  },
+  {
+    "id": "sixdynasties",
+    "title": "The Met — China 1–500 CE",
+    "url": "https://www.metmuseum.org/toah/ht/05/eac/"
+  },
+  {
+    "id": "suitang",
+    "title": "The Met — China 500–1000 CE",
+    "url": "https://www.metmuseum.org/toah/ht/06/eac.html"
+  },
+  {
+    "id": "americanWar",
+    "title": "Library of Congress — American Revolution",
+    "url": "https://www.loc.gov/classroom-materials/american-revolution/"
+  },
+  {
+    "id": "uruk",
+    "title": "The Met — Uruk: The First City",
+    "url": "https://www.metmuseum.org/essays/uruk-the-first-city"
+  },
+  {
+    "id": "writing",
+    "title": "The Met — The Origins of Writing",
+    "url": "https://www.metmuseum.org/essays/the-origins-of-writing"
+  },
+  {
+    "id": "egypt",
+    "title": "UNESCO — Memphis and its Necropolis",
+    "url": "https://whc.unesco.org/en/list/86/"
+  },
+  {
+    "id": "indus",
+    "title": "The Met — South Asia, 8000–2000 BCE",
+    "url": "https://www.metmuseum.org/toah/ht/02/ssa.html"
+  },
+  {
+    "id": "shang",
+    "title": "The Met — Shang and Zhou Dynasties",
+    "url": "https://www.metmuseum.org/essays/shang-and-zhou-dynasties-the-bronze-age-of-china"
+  },
+  {
+    "id": "caral",
+    "title": "UNESCO — Sacred City of Caral-Supe",
+    "url": "https://whc.unesco.org/en/list/1269/"
+  },
+  {
+    "id": "bronze",
+    "title": "The Met — Art of the First Cities",
+    "url": "https://www.metmuseum.org/essays/art-of-the-first-cities-in-the-third-millennium-b-c"
+  },
+  {
+    "id": "phoenicia",
+    "title": "The Met — Eastern Mediterranean and Syria 1000 BCE–1 CE",
+    "url": "https://www.metmuseum.org/toah/ht/04/wae.html"
+  },
+  {
+    "id": "assyria",
+    "title": "Encyclopaedia Iranica — Assyria",
+    "url": "https://www.iranicaonline.org/articles/assyria-i/"
+  },
+  {
+    "id": "babylon",
+    "title": "The Met — Mesopotamia 1000 BCE–1 CE",
+    "url": "https://www.metmuseum.org/toah/ht/04/wam.html"
+  },
+  {
+    "id": "persia",
+    "title": "The Met — The Achaemenid Persian Empire",
+    "url": "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c"
+  },
+  {
+    "id": "olmec",
+    "title": "The Met — Olmec Art",
+    "url": "https://www.metmuseum.org/essays/olmec-art"
+  },
+  {
+    "id": "greece",
+    "title": "The Met — Art of Classical Greece",
+    "url": "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c"
+  },
+  {
+    "id": "rome",
+    "title": "The Met — Roman Art: A Resource for Educators",
+    "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Roman_Art_A_Resource_for_Educators.pdf"
+  },
+  {
+    "id": "maurya",
+    "title": "The Met — Mauryan Empire",
+    "url": "https://www.metmuseum.org/essays/mauryan-empire-ca-323-185-b-c"
+  },
+  {
+    "id": "han",
+    "title": "University of Washington — Han Empire",
+    "url": "https://depts.washington.edu/silkroad/exhibit/han/essay.html"
+  },
+  {
+    "id": "silk",
+    "title": "UNESCO — About the Silk Roads",
+    "url": "https://www.unesco.org/en/silk-roads/about-silk-roads"
+  },
+  {
+    "id": "buddhism",
+    "title": "The Met — Buddhism and Buddhist Art",
+    "url": "https://www.metmuseum.org/essays/buddhism-and-buddhist-art"
+  },
+  {
+    "id": "byzantium",
+    "title": "The Met — Byzantium ca.330–1453",
+    "url": "https://www.metmuseum.org/essays/byzantium-ca-330-1453"
+  },
+  {
+    "id": "gupta",
+    "title": "Columbia University — South Asia 300–600 CE",
+    "url": "https://afe.easia.columbia.edu/tps/300ce_sa.htm"
+  },
+  {
+    "id": "islam",
+    "title": "The Met — Byzantium and Islam: Age of Transition",
+    "url": "https://www.metmuseum.org/exhibitions/listings/2012/byzantium-and-islam"
+  },
+  {
+    "id": "china",
+    "title": "Columbia University — China 1000 CE",
+    "url": "https://afe.easia.columbia.edu/songdynasty-module/index.html"
+  },
+  {
+    "id": "abbasid",
+    "title": "The Met — Art of the Abbasid Period",
+    "url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258"
+  },
+  {
+    "id": "translation",
+    "title": "Isis — Mobilities of Science: Era of Translation into Arabic",
+    "url": "https://doi.org/10.1086/698236"
+  },
+  {
+    "id": "print",
+    "title": "British Library IDP — Diamond Sutra",
+    "url": "https://idp.bl.uk/discover/learning/buddhism-on-the-silk-roads/articles/buddhism-on-the-ground/buddhist-texts-the-diamond-sutra/"
+  },
+  {
+    "id": "mali",
+    "title": "The Met — Trans-Saharan Gold Trade",
+    "url": "https://www.metmuseum.org/essays/the-trans-saharan-gold-trade-7th-14th-century"
+  },
+  {
+    "id": "kilwa",
+    "title": "UNESCO — Kilwa Kisiwani and Songo Mnara",
+    "url": "https://whc.unesco.org/en/list/144/"
+  },
+  {
+    "id": "maya",
+    "title": "University of California Santa Barbara — Classic Period Maya",
+    "url": "https://www.marc.ucsb.edu/research/maya/ancient-maya-civilization/classic-period"
+  },
+  {
+    "id": "mongol",
+    "title": "The Met — Art of the Ilkhanid Period",
+    "url": "https://www.metmuseum.org/essays/the-art-of-the-ilkhanid-period-1256-1353"
+  },
+  {
+    "id": "plague",
+    "title": "OpenStax / Rice University — Black Death from East to West",
+    "url": "https://openstax.org/books/world-history-volume-1/pages/16-3-the-black-death-from-east-to-west"
+  },
+  {
+    "id": "plagueDebate",
+    "title": "Medical History — Plague history and Mongol history",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11949646/"
+  },
+  {
+    "id": "renaissance",
+    "title": "University of Toronto — Renaissance in Print",
+    "url": "https://crrs.library.utoronto.ca/exhibits/show/vic449/vic449exhibit"
+  },
+  {
+    "id": "zheng",
+    "title": "Columbia University — Ming Voyages",
+    "url": "https://afe.easia.columbia.edu/special/china_1000ce_mingvoyages.htm"
+  },
+  {
+    "id": "columbus",
+    "title": "Library of Congress — 1492: An Ongoing Voyage",
+    "url": "https://www.loc.gov/exhibits/1492/"
+  },
+  {
+    "id": "gama",
+    "title": "Portuguese Parliament — Vasco da Gama",
+    "url": "https://www.parlamento.pt/VisitaParlamento/Paginas/BiogVascodaGama.aspx"
+  },
+  {
+    "id": "conquest",
+    "title": "Library of Congress — Europe Claims America",
+    "url": "https://www.loc.gov/exhibits/1492/eurocla.html"
+  },
+  {
+    "id": "america",
+    "title": "Library of Congress — What Came to Be Called America",
+    "url": "https://www.loc.gov/exhibits/1492/america.html"
+  },
+  {
+    "id": "exchange",
+    "title": "Nunn and Qian — The Columbian Exchange",
+    "url": "https://www.aeaweb.org/articles?id=10.1257/jep.24.2.163"
+  },
+  {
+    "id": "slavery",
+    "title": "SlaveVoyages — Methodology",
+    "url": "https://legacy.slavevoyages.org/blog/methodology-trans-atlantic"
+  },
+  {
+    "id": "silver",
+    "title": "The Met — Manila Galleon Trade",
+    "url": "https://www.metmuseum.org/essays/the-manila-galleon-trade-1565-1815"
+  },
+  {
+    "id": "reform",
+    "title": "The Met — Central Europe 1400–1600",
+    "url": "https://www.metmuseum.org/toah/ht/08/euwc.html"
+  },
+  {
+    "id": "science",
+    "title": "NASA — Planetary Motion",
+    "url": "https://science.nasa.gov/earth/earth-observatory/planetary-motion/"
+  },
+  {
+    "id": "newton",
+    "title": "Oxford University — Newton Project Texts",
+    "url": "https://newtonproject.ox.ac.uk/texts/introduction"
+  },
+  {
+    "id": "enlighten",
+    "title": "Stanford Encyclopedia of Philosophy — Enlightenment",
+    "url": "https://plato.stanford.edu/entries/enlightenment/"
+  },
+  {
+    "id": "declaration",
+    "title": "US National Archives — Declaration of Independence",
+    "url": "https://www.archives.gov/milestone-documents/declaration-of-independence"
+  },
+  {
+    "id": "france",
+    "title": "Larousse — Révolution française",
+    "url": "https://www.larousse.fr/encyclopedie/divers/R%C3%A9volution_fran%C3%A7aise/184321"
+  },
+  {
+    "id": "haiti",
+    "title": "US Office of the Historian — Haitian Revolution",
+    "url": "https://history.state.gov/milestones/1784-1800/haitian-rev"
+  },
+  {
+    "id": "napoleon",
+    "title": "Fondation Napoléon — Timeline",
+    "url": "https://www.napoleon.org/en/young-historians/napodoc/timeline-consulate1st-french-empire/"
+  },
+  {
+    "id": "waterloo",
+    "title": "National Army Museum — Battle of Waterloo",
+    "url": "https://www.nam.ac.uk/explore/battle-waterloo"
+  },
+  {
+    "id": "steam",
+    "title": "National Museums Scotland — Newcomen Engine",
+    "url": "https://www.nms.ac.uk/discover-catalogue/the-newcomen-engine-and-its-role-in-britains-industrial-revolution"
+  },
+  {
+    "id": "watt",
+    "title": "Historic Environment Scotland — James Watt",
+    "url": "https://www.historicenvironment.scot/about-us/our-work/commemorative-plaques/explore/james-watt/"
+  },
+  {
+    "id": "engine",
+    "title": "Science Museum Group — Rotative Steam Engine 1788",
+    "url": "https://collection.sciencemuseumgroup.org.uk/objects/co50948/rotative-steam-engine-by-boulton-and-watt-1788"
+  },
+  {
+    "id": "rail",
+    "title": "Science Museum Group — Liverpool and Manchester Railway",
+    "url": "https://collection.sciencemuseumgroup.org.uk/people/ap48/liverpool-manchester-railway-co"
+  },
+  {
+    "id": "industrial",
+    "title": "Science Museum — Steaming through the Centuries",
+    "url": "https://blog.sciencemuseum.org.uk/steaming-through-the-centuries/"
+  },
+  {
+    "id": "factory",
+    "title": "UK Parliament — 1833 Factory Act",
+    "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/19thcentury/overview/factoryact/"
+  },
+  {
+    "id": "chartist",
+    "title": "UK National Archives — What Was Chartism?",
+    "url": "https://www.nationalarchives.gov.uk/education/teaching-resources/what-was-chartism/"
+  },
+  {
+    "id": "marx",
+    "title": "Stanford Encyclopedia of Philosophy — Karl Marx",
+    "url": "https://plato.stanford.edu/entries/marx/"
+  },
+  {
+    "id": "engels",
+    "title": "Stanford Encyclopedia of Philosophy — Friedrich Engels",
+    "url": "https://plato.stanford.edu/entries/engels/"
+  },
+  {
+    "id": "manifesto",
+    "title": "Marx/Engels — Manifesto of the Communist Party, 1848",
+    "url": "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/"
+  },
+  {
+    "id": "iish",
+    "title": "UNESCO — Marx-Engels documents, Memory of the World",
+    "url": "https://www.unesco.org/en/memory-world/manifest-der-kommunistischen-partei-draft-manuscript-page-and-das-kapital-erster-band-karl-marxs"
+  }
+]

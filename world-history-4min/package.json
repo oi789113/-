@@ -1,0 +1,27 @@
+{
+  "name": "world-history-four-minutes",
+  "version": "3.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "studio": "remotion studio src/index.tsx",
+    "prepare": "python scripts/story.py && node scripts/sync-public.mjs",
+    "render": "node scripts/render-all.mjs",
+    "frames": "node scripts/frames.mjs",
+    "validate": "node scripts/validate.mjs",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.80",
+    "@remotion/cli": "4.0.379",
+    "@remotion/renderer": "4.0.379",
+    "d3-geo": "^3.1.1",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "remotion": "4.0.379"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "typescript": "^5.8.0"
+  }
+}

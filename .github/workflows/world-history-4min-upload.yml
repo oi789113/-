@@ -1,0 +1,21 @@
+name: Publish four-minute world history
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Reassemble and verify compact edition
+        run: |
+          cat .four-minute-transfer/project.part-* > world-history-4min-project.zip
+          sha256sum -c .four-minute-transfer/project.sha256
+          unzip -oq world-history-4min-project.zip
+      - name: Upload verified downloads
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release upload world-history-4min-v3 world-history-4min-project.zip .four-minute-transfer/world-history-4min-source.zip world-history-4min/output/world-history-4min-1080p60.mp4 world-history-4min/output/history-preview.mp4 world-history-4min/output/map-preview.mp4 world-history-4min/output/storyboard.png world-history-4min/output/timeline.png world-history-4min/subtitles.srt world-history-4min/captions.md world-history-4min/output/validation.json world-history-4min/output/decode-validation.json world-history-4min/output/render-report.json .four-minute-transfer/SHA256SUMS.txt --clobber
+          gh release edit world-history-4min-v3 --draft=false --latest=false

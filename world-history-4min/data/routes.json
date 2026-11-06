@@ -1,0 +1,1424 @@
+[
+  {
+    "id": "bronze-copper",
+    "name": "塞浦路斯与东地中海铜贸易",
+    "chapter": 3,
+    "type": "trade",
+    "startYear": -1500,
+    "endYear": -1200,
+    "points": [
+      [
+        34,
+        35
+      ],
+      [
+        32,
+        34.7
+      ],
+      [
+        30,
+        35.3
+      ],
+      [
+        29.6,
+        36.2
+      ]
+    ],
+    "source": "https://www.metmuseum.org/art/collection/search/248493",
+    "approximate": true,
+    "detail": "以塞浦路斯铜锭及乌鲁布伦沉船为依据的贸易联系示意；不是沉船最后航程复原。"
+  },
+  {
+    "id": "phoenician-east",
+    "name": "腓尼基—塞浦路斯—爱琴海",
+    "chapter": 3,
+    "type": "trade",
+    "startYear": -1000,
+    "endYear": -500,
+    "points": [
+      [
+        35.2,
+        33.3
+      ],
+      [
+        34,
+        34.3
+      ],
+      [
+        32.5,
+        35.2
+      ],
+      [
+        28,
+        36
+      ],
+      [
+        24,
+        37
+      ]
+    ],
+    "source": "https://www.metmuseum.org/essays/the-phoenicians-1500-300-b-c",
+    "approximate": true,
+    "detail": "港口联系节点示意；不同航次并不相同。"
+  },
+  {
+    "id": "phoenician-west",
+    "name": "地中海向西的港口网络",
+    "chapter": 3,
+    "type": "trade",
+    "startYear": -800,
+    "endYear": -500,
+    "points": [
+      [
+        35.2,
+        33.3
+      ],
+      [
+        31,
+        32.7
+      ],
+      [
+        23,
+        34
+      ],
+      [
+        16,
+        35.5
+      ],
+      [
+        10.3,
+        36.85
+      ],
+      [
+        4,
+        37
+      ],
+      [
+        -3,
+        36
+      ],
+      [
+        -6.3,
+        36.5
+      ]
+    ],
+    "source": "https://www.metmuseum.org/essays/the-phoenicians-1500-300-b-c",
+    "approximate": true,
+    "detail": "连接黎凡特、迦太基与伊比利亚的网络示意；不是单次直航。"
+  },
+  {
+    "id": "alex-west-asia",
+    "name": "亚历山大征服：小亚细亚至埃及",
+    "chapter": 4,
+    "type": "war",
+    "startYear": -334,
+    "endYear": -332,
+    "points": [
+      [
+        26.4,
+        40.2
+      ],
+      [
+        26.5,
+        39.1
+      ],
+      [
+        27.3,
+        37.9
+      ],
+      [
+        34.9,
+        36.9
+      ],
+      [
+        36.2,
+        36.6
+      ],
+      [
+        35.2,
+        33.3
+      ],
+      [
+        34.5,
+        31.5
+      ],
+      [
+        31.25,
+        29.85
+      ]
+    ],
+    "source": "https://www.iranicaonline.org/articles/alexander-the-great-356-23-bc/",
+    "approximate": true,
+    "detail": "史料支持的主要经过地区和节点；连线仅概略方向，非逐日行军轨迹。"
+  },
+  {
+    "id": "alex-east",
+    "name": "亚历山大征服：美索不达米亚至印度河",
+    "chapter": 4,
+    "type": "war",
+    "startYear": -331,
+    "endYear": -326,
+    "points": [
+      [
+        31.25,
+        29.85
+      ],
+      [
+        35.2,
+        33.3
+      ],
+      [
+        36.8,
+        36.9
+      ],
+      [
+        43.4,
+        36.4
+      ],
+      [
+        44.4,
+        32.5
+      ],
+      [
+        48.3,
+        32.2
+      ],
+      [
+        52.9,
+        29.94
+      ],
+      [
+        48.5,
+        34.8
+      ],
+      [
+        62.2,
+        34.3
+      ],
+      [
+        66.9,
+        36.8
+      ],
+      [
+        69.2,
+        34.5
+      ],
+      [
+        72.8,
+        33.7
+      ],
+      [
+        73.5,
+        32.8
+      ]
+    ],
+    "source": "https://www.iranicaonline.org/articles/alexander-the-great-356-23-bc/",
+    "approximate": true,
+    "detail": "依据伊朗百科条目及主要战役节点绘制分段方向；未给出未经核实的兵力、边界或精确路径。"
+  },
+  {
+    "id": "silk-east",
+    "name": "长安—河西走廊—敦煌",
+    "chapter": 4,
+    "type": "trade",
+    "startYear": -130,
+    "endYear": 220,
+    "points": [
+      [
+        108.94,
+        34.34
+      ],
+      [
+        106.3,
+        35.6
+      ],
+      [
+        103.8,
+        36.1
+      ],
+      [
+        100.45,
+        38.93
+      ],
+      [
+        98.5,
+        39.75
+      ],
+      [
+        94.66,
+        40.14
+      ]
+    ],
+    "source": "https://whc.unesco.org/en/list/1442/",
+    "approximate": true,
+    "detail": "汉代逐渐发展的长距离交流网络；线路为节点连线。"
+  },
+  {
+    "id": "silk-north",
+    "name": "塔里木盆地北缘分支",
+    "chapter": 4,
+    "type": "trade",
+    "startYear": -100,
+    "endYear": 220,
+    "points": [
+      [
+        94.66,
+        40.14
+      ],
+      [
+        89.2,
+        42.95
+      ],
+      [
+        82.96,
+        41.72
+      ],
+      [
+        75.99,
+        39.47
+      ]
+    ],
+    "source": "https://whc.unesco.org/en/list/1442/",
+    "approximate": true,
+    "detail": "北缘绿洲节点示意，不能理解为单一固定大道。"
+  },
+  {
+    "id": "silk-south",
+    "name": "塔里木盆地南缘分支",
+    "chapter": 4,
+    "type": "trade",
+    "startYear": -100,
+    "endYear": 220,
+    "points": [
+      [
+        94.66,
+        40.14
+      ],
+      [
+        88.2,
+        39
+      ],
+      [
+        82,
+        37.5
+      ],
+      [
+        79.93,
+        37.12
+      ],
+      [
+        75.99,
+        39.47
+      ]
+    ],
+    "source": "https://www.unesco.org/en/silk-roads/about-silk-roads",
+    "approximate": true,
+    "detail": "以绿洲链表示南缘多分支网络；未复原具体商队轨迹。"
+  },
+  {
+    "id": "silk-central",
+    "name": "中亚中介网络",
+    "chapter": 4,
+    "type": "trade",
+    "startYear": -100,
+    "endYear": 220,
+    "points": [
+      [
+        75.99,
+        39.47
+      ],
+      [
+        73,
+        40.5
+      ],
+      [
+        69.2,
+        41.3
+      ],
+      [
+        66.98,
+        39.65
+      ],
+      [
+        64.42,
+        39.77
+      ],
+      [
+        62.18,
+        37.6
+      ]
+    ],
+    "source": "https://www.unesco.org/en/silk-roads/about-silk-roads",
+    "approximate": true,
+    "detail": "中亚城市承担转运与跨文化交流，商品通常经多次交易。"
+  },
+  {
+    "id": "silk-west",
+    "name": "西亚与地中海连接",
+    "chapter": 4,
+    "type": "trade",
+    "startYear": -100,
+    "endYear": 220,
+    "points": [
+      [
+        62.18,
+        37.6
+      ],
+      [
+        54,
+        36.2
+      ],
+      [
+        48.5,
+        34.8
+      ],
+      [
+        44.6,
+        33.1
+      ],
+      [
+        38.3,
+        34.55
+      ],
+      [
+        36.2,
+        36.2
+      ]
+    ],
+    "source": "https://www.unesco.org/en/silk-roads/about-silk-roads",
+    "approximate": true,
+    "detail": "示意西亚中介市场的多段交换；不是中国至罗马一条直路。"
+  },
+  {
+    "id": "silk-india",
+    "name": "南亚—中亚分支",
+    "chapter": 4,
+    "type": "trade",
+    "startYear": -100,
+    "endYear": 220,
+    "points": [
+      [
+        83,
+        25.6
+      ],
+      [
+        77.2,
+        28.6
+      ],
+      [
+        72.8,
+        33.7
+      ],
+      [
+        69.2,
+        34.5
+      ],
+      [
+        66.9,
+        36.8
+      ],
+      [
+        66.98,
+        39.65
+      ]
+    ],
+    "source": "https://www.unesco.org/en/silk-roads/about-silk-roads",
+    "approximate": true,
+    "detail": "南亚与中亚交流的概略节点链；随时期不断变化。"
+  },
+  {
+    "id": "christian-mediterranean",
+    "name": "早期基督教地中海联系",
+    "chapter": 5,
+    "type": "religion",
+    "startYear": 220,
+    "endYear": 600,
+    "points": [
+      [
+        35.2,
+        31.78
+      ],
+      [
+        36.2,
+        36.2
+      ],
+      [
+        27.3,
+        37.9
+      ],
+      [
+        23.73,
+        37.98
+      ],
+      [
+        12.5,
+        41.9
+      ]
+    ],
+    "source": "https://smarthistory.org/period-culture-style/medieval/early-christian/",
+    "approximate": true,
+    "detail": "地区联系示意，既非单一传教者行程，也非宗教人口边界。"
+  },
+  {
+    "id": "buddhist-land",
+    "name": "佛教陆路传播网络",
+    "chapter": 5,
+    "type": "religion",
+    "startYear": 220,
+    "endYear": 650,
+    "points": [
+      [
+        83,
+        25.6
+      ],
+      [
+        72.8,
+        33.7
+      ],
+      [
+        69.2,
+        34.5
+      ],
+      [
+        75.99,
+        39.47
+      ],
+      [
+        82.96,
+        41.72
+      ],
+      [
+        94.66,
+        40.14
+      ],
+      [
+        108.94,
+        34.34
+      ]
+    ],
+    "source": "https://festival.si.edu/2002/the-silk-road/visual-arts-of-the-historical-silk-road/smithsonian",
+    "approximate": true,
+    "detail": "宗教艺术、经卷与人员沿网络迁移；不表示沿线社会同时皈依。"
+  },
+  {
+    "id": "buddhist-sea",
+    "name": "佛教海路联系",
+    "chapter": 5,
+    "type": "religion",
+    "startYear": 220,
+    "endYear": 650,
+    "points": [
+      [
+        85,
+        20
+      ],
+      [
+        81,
+        8
+      ],
+      [
+        80,
+        6
+      ],
+      [
+        92,
+        6
+      ],
+      [
+        99,
+        5
+      ],
+      [
+        103,
+        1
+      ],
+      [
+        106,
+        -6
+      ]
+    ],
+    "source": "https://festival.si.edu/2002/the-silk-road/visual-arts-of-the-historical-silk-road/smithsonian",
+    "approximate": true,
+    "detail": "南亚与东南亚之间的海上宗教交流概略示意，不是一次航行。"
+  },
+  {
+    "id": "indian-west",
+    "name": "东非—阿拉伯—印度联系",
+    "chapter": 6,
+    "type": "trade",
+    "startYear": 800,
+    "endYear": 1400,
+    "points": [
+      [
+        39.5,
+        -8.95
+      ],
+      [
+        42,
+        -4
+      ],
+      [
+        48,
+        0
+      ],
+      [
+        54,
+        8
+      ],
+      [
+        62,
+        12
+      ],
+      [
+        70,
+        13
+      ],
+      [
+        75.8,
+        11.25
+      ]
+    ],
+    "source": "https://whc.unesco.org/en/list/144/",
+    "approximate": true,
+    "detail": "印度洋港口网络；示意线不等于固定海航轨迹。"
+  },
+  {
+    "id": "indian-arabia",
+    "name": "亚丁—印度西岸",
+    "chapter": 6,
+    "type": "trade",
+    "startYear": 800,
+    "endYear": 1400,
+    "points": [
+      [
+        45,
+        12.8
+      ],
+      [
+        51,
+        12
+      ],
+      [
+        59,
+        12
+      ],
+      [
+        67,
+        12.5
+      ],
+      [
+        75.8,
+        11.25
+      ]
+    ],
+    "source": "https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit2/Indian-Ocean-Trade-Routes",
+    "approximate": true,
+    "detail": "季风影响往返时节与路线，移动标记象征交换而非精确流量。"
+  },
+  {
+    "id": "indian-east",
+    "name": "印度—东南亚—中国港口",
+    "chapter": 6,
+    "type": "trade",
+    "startYear": 800,
+    "endYear": 1400,
+    "points": [
+      [
+        75.8,
+        11.25
+      ],
+      [
+        78,
+        7
+      ],
+      [
+        83,
+        5
+      ],
+      [
+        92,
+        5
+      ],
+      [
+        98,
+        4
+      ],
+      [
+        102,
+        2.3
+      ],
+      [
+        106,
+        4
+      ],
+      [
+        111,
+        12
+      ],
+      [
+        117,
+        22
+      ],
+      [
+        118.6,
+        24.9
+      ]
+    ],
+    "source": "https://www.oerproject.com/OER-Materials/OER-Media/HTML-Articles/AP-World-History/Unit2/Indian-Ocean-Trade-Routes",
+    "approximate": true,
+    "detail": "以马六甲海峡附近航道与港口链表现区域联系；并非全部时期均有同一港口名称。"
+  },
+  {
+    "id": "sahara-west",
+    "name": "西非—撒哈拉—北非",
+    "chapter": 6,
+    "type": "trade",
+    "startYear": 900,
+    "endYear": 1400,
+    "points": [
+      [
+        -5,
+        16.5
+      ],
+      [
+        -4,
+        22.7
+      ],
+      [
+        -4.3,
+        28
+      ],
+      [
+        -4.3,
+        31.3
+      ],
+      [
+        -5,
+        34
+      ]
+    ],
+    "source": "https://www.metmuseum.org/essays/the-trans-saharan-gold-trade-7th-14th-century",
+    "approximate": true,
+    "detail": "西非黄金与撒哈拉盐等交换的节点示意；商路随水源、政治和市场变化。"
+  },
+  {
+    "id": "sahara-central",
+    "name": "加奥与跨撒哈拉分支",
+    "chapter": 6,
+    "type": "trade",
+    "startYear": 1000,
+    "endYear": 1400,
+    "points": [
+      [
+        -0.05,
+        16.27
+      ],
+      [
+        2,
+        21
+      ],
+      [
+        5,
+        27
+      ],
+      [
+        13,
+        32.9
+      ]
+    ],
+    "source": "https://openstax.org/books/world-history-volume-1/pages/9-4-north-africas-mediterranean-and-trans-saharan-connections",
+    "approximate": true,
+    "detail": "主要城市与绿洲方向的示意连接，不宣称完整商路复原。"
+  },
+  {
+    "id": "silk-medieval",
+    "name": "中古欧亚城市网络",
+    "chapter": 6,
+    "type": "trade",
+    "startYear": 650,
+    "endYear": 1400,
+    "points": [
+      [
+        108.94,
+        34.34
+      ],
+      [
+        94.66,
+        40.14
+      ],
+      [
+        82.96,
+        41.72
+      ],
+      [
+        75.99,
+        39.47
+      ],
+      [
+        66.98,
+        39.65
+      ],
+      [
+        62.18,
+        37.6
+      ],
+      [
+        54,
+        36.2
+      ],
+      [
+        44.37,
+        33.32
+      ],
+      [
+        36.2,
+        36.2
+      ]
+    ],
+    "source": "https://www.unesco.org/en/silk-roads/about-silk-roads",
+    "approximate": true,
+    "detail": "把多时期交流网络叠合用于说明联系；不表示所有路段始终畅通。"
+  },
+  {
+    "id": "plague-blacksea",
+    "name": "黑死病的黑海—地中海传播联系",
+    "chapter": 6,
+    "type": "disease",
+    "startYear": 1346,
+    "endYear": 1348,
+    "points": [
+      [
+        35.39,
+        45.03
+      ],
+      [
+        29,
+        41
+      ],
+      [
+        26,
+        39
+      ],
+      [
+        23,
+        36
+      ],
+      [
+        15.55,
+        38.19
+      ],
+      [
+        8.94,
+        44.4
+      ]
+    ],
+    "source": "https://openstax.org/books/world-history-volume-1/pages/16-3-the-black-death-from-east-to-west",
+    "approximate": true,
+    "detail": "仅示意有文献关联的跨区域传播联系；病原具体携带机制及早期路径仍有讨论。禁止娱乐化粒子与战役箭头。"
+  },
+  {
+    "id": "zheng-main",
+    "name": "郑和多次航行的港口网络",
+    "chapter": 7,
+    "type": "voyage",
+    "startYear": 1405,
+    "endYear": 1433,
+    "points": [
+      [
+        121.1,
+        31.4
+      ],
+      [
+        122,
+        26
+      ],
+      [
+        116,
+        20
+      ],
+      [
+        110,
+        12
+      ],
+      [
+        107,
+        7
+      ],
+      [
+        103,
+        3
+      ],
+      [
+        102.2,
+        2.2
+      ],
+      [
+        96,
+        4
+      ],
+      [
+        90,
+        5
+      ],
+      [
+        81,
+        6
+      ],
+      [
+        76,
+        9
+      ],
+      [
+        75.8,
+        11.25
+      ]
+    ],
+    "source": "https://afe.easia.columbia.edu/special/china_1000ce_mingvoyages.htm",
+    "approximate": true,
+    "detail": "叠合多次航行的部分港口与海上方向，非一次航程；船舶造型为通用示意。"
+  },
+  {
+    "id": "zheng-arabia",
+    "name": "郑和船队与西亚、东非联系",
+    "chapter": 7,
+    "type": "voyage",
+    "startYear": 1413,
+    "endYear": 1433,
+    "points": [
+      [
+        75.8,
+        11.25
+      ],
+      [
+        65,
+        13
+      ],
+      [
+        56.5,
+        26.5
+      ],
+      [
+        58,
+        19
+      ],
+      [
+        51,
+        13
+      ],
+      [
+        45,
+        12.8
+      ],
+      [
+        48,
+        6
+      ],
+      [
+        43,
+        0
+      ],
+      [
+        40.1,
+        -3.2
+      ]
+    ],
+    "source": "https://afe.easia.columbia.edu/special/china_1000ce_mingvoyages.htm",
+    "approximate": true,
+    "detail": "不同航次与分队所至港口叠合示意；不把所有节点归为郑和本人亲至。"
+  },
+  {
+    "id": "portuguese-africa",
+    "name": "葡萄牙沿非洲海岸的渐次航行",
+    "chapter": 7,
+    "type": "voyage",
+    "startYear": 1415,
+    "endYear": 1488,
+    "points": [
+      [
+        -9.14,
+        38.7
+      ],
+      [
+        -12,
+        33
+      ],
+      [
+        -17,
+        25
+      ],
+      [
+        -18,
+        16
+      ],
+      [
+        -17,
+        8
+      ],
+      [
+        -8,
+        3
+      ],
+      [
+        3,
+        1
+      ],
+      [
+        10,
+        -5
+      ],
+      [
+        12,
+        -15
+      ],
+      [
+        14,
+        -27
+      ],
+      [
+        18,
+        -35.5
+      ]
+    ],
+    "source": "https://www.dhm.de/archiv/ausstellungen/neue-welten/en/entdeckungsreisen.html",
+    "approximate": true,
+    "detail": "跨数十年的阶段叠合，突出探索不是一次完成；1488年迪亚士绕过非洲南端。"
+  },
+  {
+    "id": "columbus-1492",
+    "name": "1492年首次跨大西洋航行",
+    "chapter": 7,
+    "type": "voyage",
+    "startYear": 1492,
+    "endYear": 1492,
+    "points": [
+      [
+        -6.99,
+        37.23
+      ],
+      [
+        -12,
+        32
+      ],
+      [
+        -16.3,
+        28.4
+      ],
+      [
+        -27,
+        27
+      ],
+      [
+        -42,
+        25
+      ],
+      [
+        -59,
+        24.5
+      ],
+      [
+        -74.5,
+        24.1
+      ]
+    ],
+    "source": "https://www.loc.gov/exhibits/exploring-the-early-americas/columbus-and-the-taino",
+    "approximate": true,
+    "detail": "西班牙—加那利群岛—巴哈马群岛的大方向；首次登陆岛具体识别有争论，终点取概略地区中心。",
+    "dateDisputed": true
+  },
+  {
+    "id": "dagama-1498",
+    "name": "1497—1498年达·伽马抵达印度",
+    "chapter": 7,
+    "type": "voyage",
+    "startYear": 1497,
+    "endYear": 1498,
+    "points": [
+      [
+        -9.14,
+        38.7
+      ],
+      [
+        -19,
+        20
+      ],
+      [
+        -27,
+        0
+      ],
+      [
+        -20,
+        -20
+      ],
+      [
+        -2,
+        -34
+      ],
+      [
+        18,
+        -35.5
+      ],
+      [
+        30,
+        -31
+      ],
+      [
+        40,
+        -20
+      ],
+      [
+        41,
+        -10
+      ],
+      [
+        40,
+        -3
+      ],
+      [
+        48,
+        3
+      ],
+      [
+        60,
+        9
+      ],
+      [
+        75.8,
+        11.25
+      ]
+    ],
+    "source": "https://www.dhm.de/archiv/ausstellungen/neue-welten/en/entdeckungsreisen.html",
+    "approximate": true,
+    "detail": "按绕非洲南端、东非和印度的主要方向绘制；大西洋远洋迂回仅概略示意，不是航海日志复原。"
+  },
+  {
+    "id": "exchange-crops",
+    "name": "美洲作物进入大西洋交换",
+    "chapter": 8,
+    "type": "trade",
+    "startYear": 1500,
+    "endYear": 1700,
+    "points": [
+      [
+        -94,
+        19
+      ],
+      [
+        -78,
+        24
+      ],
+      [
+        -55,
+        30
+      ],
+      [
+        -30,
+        36
+      ],
+      [
+        -9,
+        38
+      ]
+    ],
+    "source": "https://www.dp.la/primary-source-sets/the-columbian-exchange",
+    "approximate": true,
+    "detail": "农作物传播的区域联系示意，未声称同一时间、同一航次或固定源港。"
+  },
+  {
+    "id": "exchange-livestock",
+    "name": "欧亚非物种进入美洲",
+    "chapter": 8,
+    "type": "trade",
+    "startYear": 1500,
+    "endYear": 1700,
+    "points": [
+      [
+        -9,
+        38
+      ],
+      [
+        -23,
+        26
+      ],
+      [
+        -47,
+        20
+      ],
+      [
+        -65,
+        18
+      ],
+      [
+        -76,
+        18
+      ]
+    ],
+    "source": "https://www.dp.la/primary-source-sets/the-columbian-exchange",
+    "approximate": true,
+    "detail": "家畜与农作物等生态交换概略方向；疾病另用严肃传播层显示。"
+  },
+  {
+    "id": "forced-angola-brazil",
+    "name": "安哥拉—巴西：强迫迁移",
+    "chapter": 8,
+    "type": "forced",
+    "startYear": 1570,
+    "endYear": 1700,
+    "points": [
+      [
+        13.23,
+        -8.84
+      ],
+      [
+        4,
+        -10
+      ],
+      [
+        -12,
+        -12
+      ],
+      [
+        -28,
+        -13
+      ],
+      [
+        -38.5,
+        -12.97
+      ]
+    ],
+    "source": "https://www.slavevoyages.org/voyage/trans-atlantic",
+    "approximate": true,
+    "detail": "按主要启运和抵达区域示意。没有轻松商品图标；无虚构人数；此过程延续至19世纪。"
+  },
+  {
+    "id": "forced-guinea-caribbean",
+    "name": "西非—加勒比海：强迫迁移",
+    "chapter": 8,
+    "type": "forced",
+    "startYear": 1600,
+    "endYear": 1700,
+    "points": [
+      [
+        -1.25,
+        5.1
+      ],
+      [
+        -16,
+        8
+      ],
+      [
+        -34,
+        12
+      ],
+      [
+        -50,
+        15
+      ],
+      [
+        -61.5,
+        15
+      ],
+      [
+        -72,
+        18
+      ]
+    ],
+    "source": "https://www.slavevoyages.org/voyage/trans-atlantic",
+    "approximate": true,
+    "detail": "以SlaveVoyages记录所显示的地区联系为依据的概略路线；不代表某一具体船次。"
+  },
+  {
+    "id": "silver-pacific",
+    "name": "美洲白银—马尼拉",
+    "chapter": 8,
+    "type": "trade",
+    "startYear": 1565,
+    "endYear": 1700,
+    "points": [
+      [
+        -99.9,
+        16.85
+      ],
+      [
+        -122,
+        14
+      ],
+      [
+        -150,
+        13
+      ],
+      [
+        -175,
+        13
+      ],
+      [
+        175,
+        13
+      ],
+      [
+        150,
+        13
+      ],
+      [
+        130,
+        13
+      ],
+      [
+        120.98,
+        14.6
+      ]
+    ],
+    "source": "https://www.metmuseum.org/essays/the-manila-galleon-trade-1565-1815",
+    "approximate": true,
+    "detail": "西行跨太平洋贸易概略线；跨日期变更线必须按短距接续，不横扫欧洲；白银包含殖民开采与强迫劳动代价。",
+    "wrapLongitude": true
+  },
+  {
+    "id": "silver-asia",
+    "name": "马尼拉与中国商贸联系",
+    "chapter": 8,
+    "type": "trade",
+    "startYear": 1571,
+    "endYear": 1700,
+    "points": [
+      [
+        120.98,
+        14.6
+      ],
+      [
+        119,
+        18
+      ],
+      [
+        117,
+        22
+      ],
+      [
+        118.6,
+        24.9
+      ]
+    ],
+    "source": "https://www.metmuseum.org/essays/the-manila-galleon-trade-1565-1815",
+    "approximate": true,
+    "detail": "白银与丝绸、瓷器等在区域网络中交换，节点仅概略。"
+  },
+  {
+    "id": "atlantic-silver",
+    "name": "美洲白银与欧洲市场",
+    "chapter": 8,
+    "type": "trade",
+    "startYear": 1545,
+    "endYear": 1700,
+    "points": [
+      [
+        -96.13,
+        19.17
+      ],
+      [
+        -87,
+        23
+      ],
+      [
+        -76,
+        25
+      ],
+      [
+        -62,
+        31
+      ],
+      [
+        -43,
+        37
+      ],
+      [
+        -24,
+        38
+      ],
+      [
+        -6.3,
+        36.5
+      ]
+    ],
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3107326/",
+    "approximate": true,
+    "detail": "示意殖民地港口链与欧洲市场联系，非所有白银均经相同路线。"
+  },
+  {
+    "id": "stockton-darlington",
+    "name": "斯托克顿—达灵顿铁路",
+    "chapter": 11,
+    "type": "rail",
+    "startYear": 1825,
+    "endYear": 1848,
+    "points": [
+      [
+        -1.64,
+        54.63
+      ],
+      [
+        -1.56,
+        54.54
+      ],
+      [
+        -1.31,
+        54.56
+      ]
+    ],
+    "source": "https://historicengland.org.uk/whats-new/research/a-brief-overview-of-the-stockton-and-darlington-railway/",
+    "approximate": true,
+    "detail": "1825年开通，希尔登—达灵顿—斯托克顿区域连线；不是精确轨道测绘。"
+  },
+  {
+    "id": "liverpool-manchester",
+    "name": "利物浦—曼彻斯特铁路",
+    "chapter": 11,
+    "type": "rail",
+    "startYear": 1830,
+    "endYear": 1848,
+    "points": [
+      [
+        -2.98,
+        53.4
+      ],
+      [
+        -2.74,
+        53.45
+      ],
+      [
+        -2.25,
+        53.48
+      ]
+    ],
+    "source": "https://archives.sciencemuseumgroup.ac.uk/Details/archive/110016690",
+    "approximate": true,
+    "detail": "1830年9月15日开通；两端城市与中途方向为概略示意。"
+  },
+  {
+    "id": "london-birmingham",
+    "name": "伦敦—伯明翰铁路",
+    "chapter": 11,
+    "type": "rail",
+    "startYear": 1838,
+    "endYear": 1848,
+    "points": [
+      [
+        -0.13,
+        51.53
+      ],
+      [
+        -0.76,
+        52.04
+      ],
+      [
+        -1.26,
+        52.24
+      ],
+      [
+        -1.89,
+        52.49
+      ]
+    ],
+    "source": "https://collection.sciencemuseumgroup.org.uk/people/ap108/london-birmingham-railway-co",
+    "approximate": true,
+    "detail": "1838年全线开通；城市节点概略连线，不代表现代或历史轨道精确线位。"
+  }
+]

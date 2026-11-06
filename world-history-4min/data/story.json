@@ -1,0 +1,1420 @@
+[
+  {
+    "id": "s01",
+    "key": "uruk",
+    "chapter": 1,
+    "startFrame": 0,
+    "endFrame": 300,
+    "start": 0.0,
+    "end": 5.0,
+    "duration": 5,
+    "mode": "map",
+    "title": "河流之间，城市亮起",
+    "date": "约前3500年",
+    "caption": [
+      "两河之间，乌鲁克逐渐成长。",
+      "我们的旅程，从早期城市出发。"
+    ],
+    "focus": [
+      44.7,
+      32.5
+    ],
+    "zoom": 7,
+    "events": [
+      "uruk"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.metmuseum.org/essays/uruk-the-first-city"
+    ],
+    "transition": "travel",
+    "readingRate": 4.6,
+    "approximateMap": true
+  },
+  {
+    "id": "s02",
+    "key": "irrigation",
+    "chapter": 2,
+    "startFrame": 300,
+    "endFrame": 660,
+    "start": 5.0,
+    "end": 11.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "水，变成粮食",
+    "date": "约前3500年",
+    "caption": [
+      "引水、储粮与协作相互促进。",
+      "人们聚居，劳动开始更加分化。"
+    ],
+    "focus": [
+      44,
+      32
+    ],
+    "zoom": 6,
+    "events": [
+      "uruk"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.metmuseum.org/essays/uruk-the-first-city"
+    ],
+    "transition": "iris",
+    "readingRate": 3.83,
+    "approximateMap": true
+  },
+  {
+    "id": "s03",
+    "key": "tablet",
+    "chapter": 2,
+    "startFrame": 660,
+    "endFrame": 960,
+    "start": 11.0,
+    "end": 16.0,
+    "duration": 5,
+    "mode": "scene",
+    "title": "粮食，变成账目",
+    "date": "约前3300年",
+    "caption": [
+      "物资越来越多，记忆不够用了。",
+      "泥板上的符号，把交换留下记录。"
+    ],
+    "focus": [
+      45.64,
+      31.32
+    ],
+    "zoom": 6,
+    "events": [
+      "writing"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.metmuseum.org/essays/the-origins-of-writing"
+    ],
+    "transition": "match",
+    "readingRate": 5.0,
+    "approximateMap": true
+  },
+  {
+    "id": "s04",
+    "key": "pyramid",
+    "chapter": 2,
+    "startFrame": 960,
+    "endFrame": 1320,
+    "start": 16.0,
+    "end": 22.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "河谷，组织起国家",
+    "date": "前3100—前2500年",
+    "caption": [
+      "尼罗河农业与国家组织，",
+      "支撑埃及城市和大型建筑工程。"
+    ],
+    "focus": [
+      31,
+      27
+    ],
+    "zoom": 4,
+    "events": [
+      "egypt-state",
+      "pyramids"
+    ],
+    "routes": [],
+    "sources": [
+      "https://egymonuments.gov.eg/en/historical-periods/early-dynastic-period",
+      "https://whc.unesco.org/en/list/86/"
+    ],
+    "transition": "rise",
+    "readingRate": 3.83,
+    "approximateMap": true
+  },
+  {
+    "id": "s05",
+    "key": "origins",
+    "chapter": 2,
+    "startFrame": 1320,
+    "endFrame": 1740,
+    "start": 22.0,
+    "end": 29.0,
+    "duration": 7,
+    "mode": "map",
+    "title": "文明拥有多个起点",
+    "date": "前3千纪—前2千纪",
+    "caption": [
+      "印度河、黄河与安第斯地区，",
+      "也在不同年代形成复杂社会。"
+    ],
+    "focus": [
+      30,
+      15
+    ],
+    "zoom": 1,
+    "events": [
+      "harappa",
+      "early-china",
+      "caral"
+    ],
+    "routes": [],
+    "sources": [
+      "https://whc.unesco.org/en/list/1269/",
+      "https://www.metmuseum.org/essays/shang-and-zhou-dynasties-the-bronze-age-of-china",
+      "https://www.metmuseum.org/toah/ht/02/ssa.html"
+    ],
+    "transition": "travel",
+    "readingRate": 3.29,
+    "approximateMap": true
+  },
+  {
+    "id": "s06",
+    "key": "mediterranean",
+    "chapter": 3,
+    "startFrame": 1740,
+    "endFrame": 2100,
+    "start": 29.0,
+    "end": 35.0,
+    "duration": 6,
+    "mode": "map",
+    "title": "海港像珠子，被航线串起",
+    "date": "约前1500—前500年",
+    "caption": [
+      "铜、锡与货物连接地中海港口。",
+      "腓尼基商人也传播书写和技术。"
+    ],
+    "focus": [
+      22,
+      35
+    ],
+    "zoom": 3.4,
+    "events": [
+      "late-bronze",
+      "phoenician"
+    ],
+    "routes": [
+      "bronze-copper",
+      "phoenician-east",
+      "phoenician-west"
+    ],
+    "sources": [
+      "https://nauticalarch.org/projects/uluburun-late-bronze-age-shipwreck-excavation/",
+      "https://www.metmuseum.org/toah/ht/04/wae.html"
+    ],
+    "transition": "iris",
+    "readingRate": 4.17,
+    "approximateMap": true
+  },
+  {
+    "id": "s07",
+    "key": "persia",
+    "chapter": 3,
+    "startFrame": 2100,
+    "endFrame": 2460,
+    "start": 35.0,
+    "end": 41.0,
+    "duration": 6,
+    "mode": "map",
+    "title": "更大的国家，怎样运转？",
+    "date": "约前6世纪",
+    "caption": [
+      "亚述、新巴比伦之后，波斯兴起。",
+      "道路与行政，连接多种语言和文化。"
+    ],
+    "focus": [
+      43,
+      32
+    ],
+    "zoom": 3,
+    "events": [
+      "assyria",
+      "babylon",
+      "persia"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.iranicaonline.org/articles/assyria-i/",
+      "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c",
+      "https://www.metmuseum.org/toah/ht/04/wam.html"
+    ],
+    "transition": "match",
+    "readingRate": 4.33,
+    "approximateMap": true
+  },
+  {
+    "id": "s08",
+    "key": "bronze_stone",
+    "chapter": 3,
+    "startFrame": 2460,
+    "endFrame": 2820,
+    "start": 41.0,
+    "end": 47.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "不同大陆，不同的创造",
+    "date": "约前1200—前500年",
+    "caption": [
+      "中国商周发展青铜器与礼制。",
+      "美洲奥尔梅克社会也在成长。"
+    ],
+    "focus": [
+      10,
+      20
+    ],
+    "zoom": 1,
+    "events": [
+      "zhou",
+      "olmec"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.metmuseum.org/essays/olmec-art",
+      "https://www.metmuseum.org/essays/shang-and-zhou-dynasties-the-bronze-age-of-china"
+    ],
+    "transition": "rise",
+    "readingRate": 4.0,
+    "approximateMap": true
+  },
+  {
+    "id": "s09",
+    "key": "theatre",
+    "chapter": 4,
+    "startFrame": 2820,
+    "endFrame": 3180,
+    "start": 47.0,
+    "end": 53.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "城邦之间，思想与冲突",
+    "date": "约前5世纪",
+    "caption": [
+      "希腊城邦交流，也彼此竞争。",
+      "哲学、戏剧与战争共同留下影响。"
+    ],
+    "focus": [
+      24,
+      38
+    ],
+    "zoom": 5,
+    "events": [
+      "greek-poleis",
+      "persian-wars",
+      "peloponnesian"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c",
+      "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c"
+    ],
+    "transition": "travel",
+    "readingRate": 4.0,
+    "approximateMap": true
+  },
+  {
+    "id": "s10",
+    "key": "alexander",
+    "chapter": 4,
+    "startFrame": 3180,
+    "endFrame": 3480,
+    "start": 53.0,
+    "end": 58.0,
+    "duration": 5,
+    "mode": "map",
+    "title": "征服，让文化相遇",
+    "date": "前334—前323年",
+    "caption": [
+      "亚历山大向东征服。",
+      "希腊化世界在交融与统治中展开。"
+    ],
+    "focus": [
+      45,
+      32
+    ],
+    "zoom": 2.7,
+    "events": [
+      "alexander"
+    ],
+    "routes": [
+      "alex-west-asia",
+      "alex-east"
+    ],
+    "sources": [
+      "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c",
+      "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c"
+    ],
+    "transition": "iris",
+    "readingRate": 4.4,
+    "approximateMap": true
+  },
+  {
+    "id": "s11",
+    "key": "rome",
+    "chapter": 4,
+    "startFrame": 3480,
+    "endFrame": 3840,
+    "start": 58.0,
+    "end": 64.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "路，穿过城市",
+    "date": "前1世纪—公元2世纪",
+    "caption": [
+      "罗马从共和国走向帝国。",
+      "道路维系统治，也依赖征税和奴隶劳动。"
+    ],
+    "focus": [
+      12,
+      42
+    ],
+    "zoom": 4,
+    "events": [
+      "roman-change",
+      "roman-roads"
+    ],
+    "routes": [],
+    "sources": [
+      "https://resources.metmuseum.org/resources/metpublications/pdf/Roman_Art_A_Resource_for_Educators.pdf"
+    ],
+    "transition": "match",
+    "readingRate": 4.33,
+    "approximateMap": true
+  },
+  {
+    "id": "s12",
+    "key": "asia_states",
+    "chapter": 4,
+    "startFrame": 3840,
+    "endFrame": 4200,
+    "start": 64.0,
+    "end": 70.0,
+    "duration": 6,
+    "mode": "map",
+    "title": "把镜头转向东方",
+    "date": "前3世纪—公元2世纪",
+    "caption": [
+      "南亚孔雀王朝与中国秦汉，",
+      "在不同阶段组织庞大的国家。"
+    ],
+    "focus": [
+      89,
+      31
+    ],
+    "zoom": 2.1,
+    "events": [
+      "maurya",
+      "qin",
+      "han-networks"
+    ],
+    "routes": [],
+    "sources": [
+      "https://depts.washington.edu/silkroad/exhibit/han/essay.html",
+      "https://www.metmuseum.org/essays/mauryan-empire-ca-323-185-b-c",
+      "https://www.unesco.org/en/silk-roads/about-silk-roads"
+    ],
+    "transition": "rise",
+    "readingRate": 3.83,
+    "approximateMap": true
+  },
+  {
+    "id": "s13",
+    "key": "silk",
+    "chapter": 4,
+    "startFrame": 4200,
+    "endFrame": 4620,
+    "start": 70.0,
+    "end": 77.0,
+    "duration": 7,
+    "mode": "map",
+    "title": "丝绸之路，是接力网",
+    "date": "约前2世纪—公元2世纪",
+    "caption": [
+      "货物与知识经过多次转手。",
+      "中亚和西亚，是连接远方的重要中介。"
+    ],
+    "focus": [
+      68,
+      34
+    ],
+    "zoom": 1.9,
+    "events": [
+      "han-networks"
+    ],
+    "routes": [
+      "silk-east",
+      "silk-north",
+      "silk-south",
+      "silk-central",
+      "silk-west",
+      "silk-india"
+    ],
+    "sources": [
+      "https://depts.washington.edu/silkroad/exhibit/han/essay.html",
+      "https://www.unesco.org/en/silk-roads/about-silk-roads"
+    ],
+    "transition": "travel",
+    "readingRate": 3.71,
+    "approximateMap": true
+  },
+  {
+    "id": "s14",
+    "key": "rome_split",
+    "chapter": 5,
+    "startFrame": 4620,
+    "endFrame": 4980,
+    "start": 77.0,
+    "end": 83.0,
+    "duration": 6,
+    "mode": "map",
+    "title": "帝国更替，城市延续",
+    "date": "395—476年及以后",
+    "caption": [
+      "西罗马的统治结构走向终结。",
+      "东罗马延续，制度并未同时消失。"
+    ],
+    "focus": [
+      20,
+      39
+    ],
+    "zoom": 3.4,
+    "events": [
+      "rome-division",
+      "west-rome",
+      "east-rome"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.metmuseum.org/essays/byzantium-ca-330-1453"
+    ],
+    "transition": "iris",
+    "readingRate": 4.17,
+    "approximateMap": true
+  },
+  {
+    "id": "s15",
+    "key": "faith",
+    "chapter": 5,
+    "startFrame": 4980,
+    "endFrame": 5400,
+    "start": 83.0,
+    "end": 90.0,
+    "duration": 7,
+    "mode": "map",
+    "title": "信仰，越过政权的边界",
+    "date": "约3—7世纪",
+    "caption": [
+      "佛教、基督教与伊斯兰教，",
+      "在不同阶段建立跨地区的联系。"
+    ],
+    "focus": [
+      57,
+      29
+    ],
+    "zoom": 1.8,
+    "events": [
+      "buddhist-networks",
+      "christianity",
+      "early-islam",
+      "sui-tang"
+    ],
+    "routes": [
+      "christian-mediterranean",
+      "buddhist-land",
+      "buddhist-sea"
+    ],
+    "sources": [
+      "https://www.metmuseum.org/essays/buddhism-and-buddhist-art",
+      "https://www.metmuseum.org/essays/byzantium-ca-330-1453",
+      "https://www.metmuseum.org/exhibitions/listings/2012/byzantium-and-islam",
+      "https://www.metmuseum.org/toah/ht/05/eac/",
+      "https://www.metmuseum.org/toah/ht/06/eac.html",
+      "https://www.unesco.org/en/silk-roads/about-silk-roads"
+    ],
+    "transition": "match",
+    "readingRate": 3.29,
+    "approximateMap": true
+  },
+  {
+    "id": "s16",
+    "key": "woodblock",
+    "chapter": 6,
+    "startFrame": 5400,
+    "endFrame": 5760,
+    "start": 90.0,
+    "end": 96.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "一张纸，留下更多知识",
+    "date": "唐宋时期",
+    "caption": [
+      "造纸、印刷与火药技术不断积累。",
+      "城市和市场，让经验更快流动。"
+    ],
+    "focus": [
+      112,
+      33
+    ],
+    "zoom": 2.8,
+    "events": [
+      "tang-song",
+      "diamond-sutra"
+    ],
+    "routes": [],
+    "sources": [
+      "https://afe.easia.columbia.edu/songdynasty-module/index.html",
+      "https://idp.bl.uk/discover/learning/buddhism-on-the-silk-roads/articles/buddhism-on-the-ground/buddhist-texts-the-diamond-sutra/"
+    ],
+    "transition": "rise",
+    "readingRate": 4.17,
+    "approximateMap": true
+  },
+  {
+    "id": "s17",
+    "key": "astrolabe",
+    "chapter": 6,
+    "startFrame": 5760,
+    "endFrame": 6120,
+    "start": 96.0,
+    "end": 102.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "翻译之后，继续追问",
+    "date": "约8—13世纪",
+    "caption": [
+      "阿拔斯时期，学者翻译并研究知识。",
+      "数学与医学在交流中发展。"
+    ],
+    "focus": [
+      44.36,
+      33.31
+    ],
+    "zoom": 3,
+    "events": [
+      "abbasid"
+    ],
+    "routes": [],
+    "sources": [
+      "https://doi.org/10.1086/698236",
+      "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258"
+    ],
+    "transition": "travel",
+    "readingRate": 4.17,
+    "approximateMap": true
+  },
+  {
+    "id": "s18",
+    "key": "monsoon",
+    "chapter": 6,
+    "startFrame": 6120,
+    "endFrame": 6480,
+    "start": 102.0,
+    "end": 108.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "风，推动海上网络",
+    "date": "约7—14世纪",
+    "caption": [
+      "印度洋季风推动航船。",
+      "东非、南亚与东南亚港口彼此相连。"
+    ],
+    "focus": [
+      65,
+      8
+    ],
+    "zoom": 1.9,
+    "events": [
+      "indian-ocean",
+      "kilwa",
+      "southeast-asia"
+    ],
+    "routes": [
+      "indian-west",
+      "indian-arabia",
+      "indian-east"
+    ],
+    "sources": [
+      "https://whc.unesco.org/en/list/144/",
+      "https://www.unesco.org/en/silk-roads/about-silk-roads"
+    ],
+    "transition": "iris",
+    "readingRate": 3.83,
+    "approximateMap": true
+  },
+  {
+    "id": "s19",
+    "key": "three_worlds",
+    "chapter": 6,
+    "startFrame": 6480,
+    "endFrame": 6900,
+    "start": 108.0,
+    "end": 115.0,
+    "duration": 7,
+    "mode": "scene",
+    "title": "同时代的世界，不止一个中心",
+    "date": "约10—14世纪",
+    "caption": [
+      "马里参与贸易，玛雅发展城市与历法。",
+      "欧洲的城市、大学和商业也在成长。"
+    ],
+    "focus": [
+      -20,
+      20
+    ],
+    "zoom": 1,
+    "events": [
+      "mali",
+      "maya",
+      "europe-towns"
+    ],
+    "routes": [
+      "sahara-west"
+    ],
+    "sources": [
+      "https://crrs.library.utoronto.ca/exhibits/show/vic449/vic449exhibit",
+      "https://www.marc.ucsb.edu/research/maya/ancient-maya-civilization/classic-period",
+      "https://www.metmuseum.org/essays/the-trans-saharan-gold-trade-7th-14th-century",
+      "https://www.unibo.it/en/university/who-we-are/our-history"
+    ],
+    "transition": "match",
+    "readingRate": 4.14,
+    "approximateMap": true
+  },
+  {
+    "id": "s20",
+    "key": "mongols",
+    "chapter": 6,
+    "startFrame": 6900,
+    "endFrame": 7200,
+    "start": 115.0,
+    "end": 120.0,
+    "duration": 5,
+    "mode": "map",
+    "title": "征服重组欧亚联系",
+    "date": "13世纪",
+    "caption": [
+      "蒙古扩张历经数代，带来巨大破坏。",
+      "统治下的通道，也促进了往来。"
+    ],
+    "focus": [
+      75,
+      38
+    ],
+    "zoom": 1.8,
+    "events": [
+      "mongol"
+    ],
+    "routes": [
+      "silk-medieval"
+    ],
+    "sources": [
+      "https://www.metmuseum.org/essays/the-art-of-the-ilkhanid-period-1256-1353",
+      "https://www.unesco.org/en/silk-roads/about-silk-roads"
+    ],
+    "transition": "rise",
+    "readingRate": 5.2,
+    "approximateMap": true
+  },
+  {
+    "id": "s21",
+    "key": "plague",
+    "chapter": 6,
+    "startFrame": 7200,
+    "endFrame": 7500,
+    "start": 120.0,
+    "end": 125.0,
+    "duration": 5,
+    "mode": "map",
+    "title": "联系，也传播灾难",
+    "date": "14世纪",
+    "caption": [
+      "黑死病沿跨区域联系蔓延。",
+      "无数人的生命与生活被改变。"
+    ],
+    "focus": [
+      22,
+      41
+    ],
+    "zoom": 2.6,
+    "events": [
+      "black-death"
+    ],
+    "routes": [
+      "plague-blacksea"
+    ],
+    "sources": [
+      "https://openstax.org/books/world-history-volume-1/pages/16-3-the-black-death-from-east-to-west",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC11949646/"
+    ],
+    "transition": "travel",
+    "readingRate": 4.6,
+    "approximateMap": true
+  },
+  {
+    "id": "s22",
+    "key": "perspective",
+    "chapter": 7,
+    "startFrame": 7500,
+    "endFrame": 7800,
+    "start": 125.0,
+    "end": 130.0,
+    "duration": 5,
+    "mode": "scene",
+    "title": "重新观看人与世界",
+    "date": "14—16世纪",
+    "caption": [
+      "文艺复兴重新研究古典知识。",
+      "艺术与人文主义带来新的表达。"
+    ],
+    "focus": [
+      12,
+      43
+    ],
+    "zoom": 3,
+    "events": [
+      "renaissance"
+    ],
+    "routes": [],
+    "sources": [
+      "https://crrs.library.utoronto.ca/exhibits/show/vic449/vic449exhibit"
+    ],
+    "transition": "iris",
+    "readingRate": 5.0,
+    "approximateMap": true
+  },
+  {
+    "id": "s23",
+    "key": "press",
+    "chapter": 7,
+    "startFrame": 7800,
+    "endFrame": 8160,
+    "start": 130.0,
+    "end": 136.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "文字，获得新的速度",
+    "date": "15—16世纪",
+    "caption": [
+      "欧洲金属活字扩大文字传播。",
+      "知识与宗教争论走向更多读者。"
+    ],
+    "focus": [
+      8,
+      50
+    ],
+    "zoom": 3,
+    "events": [
+      "gutenberg",
+      "reformation",
+      "china-print-context"
+    ],
+    "routes": [],
+    "sources": [
+      "https://afe.easia.columbia.edu/songdynasty-module/index.html",
+      "https://crrs.library.utoronto.ca/exhibits/show/vic449/vic449exhibit",
+      "https://idp.bl.uk/discover/learning/buddhism-on-the-silk-roads/articles/buddhism-on-the-ground/buddhist-texts-the-diamond-sutra/",
+      "https://www.metmuseum.org/toah/ht/08/euwc.html"
+    ],
+    "transition": "match",
+    "readingRate": 4.17,
+    "approximateMap": true
+  },
+  {
+    "id": "s24",
+    "key": "voyages",
+    "chapter": 7,
+    "startFrame": 8160,
+    "endFrame": 8580,
+    "start": 136.0,
+    "end": 143.0,
+    "duration": 7,
+    "mode": "map",
+    "title": "海洋成为新的通道",
+    "date": "1405—1498年",
+    "caption": [
+      "郑和远航；欧洲船队跨越大洋。",
+      "美洲早已有众多人群与复杂社会。"
+    ],
+    "focus": [
+      10,
+      10
+    ],
+    "zoom": 1,
+    "events": [
+      "zheng-he",
+      "columbus-1492",
+      "gama-1498"
+    ],
+    "routes": [
+      "zheng-main",
+      "dagama-1498",
+      "columbus-1492"
+    ],
+    "sources": [
+      "https://afe.easia.columbia.edu/special/china_1000ce_mingvoyages.htm",
+      "https://www.loc.gov/exhibits/1492/",
+      "https://www.loc.gov/exhibits/1492/america.html",
+      "https://www.parlamento.pt/VisitaParlamento/Paginas/BiogVascodaGama.aspx"
+    ],
+    "transition": "rise",
+    "readingRate": 3.71,
+    "approximateMap": true
+  },
+  {
+    "id": "s25",
+    "key": "conquest",
+    "chapter": 8,
+    "startFrame": 8580,
+    "endFrame": 8940,
+    "start": 143.0,
+    "end": 149.0,
+    "duration": 6,
+    "mode": "map",
+    "title": "相遇，也成为征服",
+    "date": "16世纪",
+    "caption": [
+      "阿兹特克与印加的政治中心遭征服。",
+      "疾病、战争和强迫劳动酿成人口灾难。"
+    ],
+    "focus": [
+      -88,
+      3
+    ],
+    "zoom": 2,
+    "events": [
+      "aztec-conquest",
+      "inca-conquest",
+      "disease-americas"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.aeaweb.org/articles?id=10.1257/jep.24.2.163",
+      "https://www.loc.gov/exhibits/1492/america.html",
+      "https://www.loc.gov/exhibits/1492/eurocla.html"
+    ],
+    "transition": "travel",
+    "readingRate": 5.0,
+    "approximateMap": true
+  },
+  {
+    "id": "s26",
+    "key": "exchange",
+    "chapter": 8,
+    "startFrame": 8940,
+    "endFrame": 9240,
+    "start": 149.0,
+    "end": 154.0,
+    "duration": 5,
+    "mode": "scene",
+    "title": "跨洋交换，改变日常生活",
+    "date": "16世纪起",
+    "caption": [
+      "玉米、马铃薯走向其他大陆。",
+      "物种与白银，让全球联系更加紧密。"
+    ],
+    "focus": [
+      -28,
+      14
+    ],
+    "zoom": 1.1,
+    "events": [
+      "crops",
+      "global-silver"
+    ],
+    "routes": [
+      "exchange-crops",
+      "exchange-livestock",
+      "silver-pacific",
+      "silver-asia"
+    ],
+    "sources": [
+      "https://www.aeaweb.org/articles?id=10.1257/jep.24.2.163",
+      "https://www.metmuseum.org/essays/the-manila-galleon-trade-1565-1815"
+    ],
+    "transition": "iris",
+    "readingRate": 5.0,
+    "approximateMap": true
+  },
+  {
+    "id": "s27",
+    "key": "slavery",
+    "chapter": 8,
+    "startFrame": 9240,
+    "endFrame": 9600,
+    "start": 154.0,
+    "end": 160.0,
+    "duration": 6,
+    "mode": "map",
+    "title": "这些航线，意味着强迫迁移",
+    "date": "16世纪起，延续更久",
+    "caption": [
+      "奴隶贸易强迫数百万人离开非洲。",
+      "被奴役者的劳动与抵抗改变大西洋世界。"
+    ],
+    "focus": [
+      -35,
+      0
+    ],
+    "zoom": 1.7,
+    "events": [
+      "atlantic-slavery"
+    ],
+    "routes": [
+      "forced-angola-brazil",
+      "forced-guinea-caribbean"
+    ],
+    "sources": [
+      "https://legacy.slavevoyages.org/blog/methodology-trans-atlantic"
+    ],
+    "transition": "match",
+    "readingRate": 5.17,
+    "approximateMap": true
+  },
+  {
+    "id": "s28",
+    "key": "astronomy",
+    "chapter": 9,
+    "startFrame": 9600,
+    "endFrame": 10020,
+    "start": 160.0,
+    "end": 167.0,
+    "duration": 7,
+    "mode": "scene",
+    "title": "观测，改变宇宙图景",
+    "date": "1543—1619年",
+    "caption": [
+      "哥白尼提出新体系；伽利略观测天空。",
+      "开普勒以椭圆轨道描述行星运动。"
+    ],
+    "focus": [
+      15,
+      48
+    ],
+    "zoom": 2,
+    "events": [
+      "copernicus",
+      "galileo",
+      "kepler"
+    ],
+    "routes": [],
+    "sources": [
+      "https://science.nasa.gov/earth/earth-observatory/planetary-motion/"
+    ],
+    "transition": "rise",
+    "readingRate": 4.14,
+    "approximateMap": true
+  },
+  {
+    "id": "s29",
+    "key": "newton",
+    "chapter": 9,
+    "startFrame": 10020,
+    "endFrame": 10380,
+    "start": 167.0,
+    "end": 173.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "地上与天上，共用数学语言",
+    "date": "1687年",
+    "caption": [
+      "牛顿以运动和引力连接不同现象。",
+      "证据、仪器与交流，让知识持续修正。"
+    ],
+    "focus": [
+      -0.12,
+      51.5
+    ],
+    "zoom": 3,
+    "events": [
+      "newton-1687",
+      "science-networks"
+    ],
+    "routes": [],
+    "sources": [
+      "https://crrs.library.utoronto.ca/exhibits/show/vic449/vic449exhibit",
+      "https://newtonproject.ox.ac.uk/texts/introduction",
+      "https://science.nasa.gov/earth/earth-observatory/planetary-motion/"
+    ],
+    "transition": "travel",
+    "readingRate": 4.67,
+    "approximateMap": true
+  },
+  {
+    "id": "s30",
+    "key": "enlightenment",
+    "chapter": 10,
+    "startFrame": 10380,
+    "endFrame": 10680,
+    "start": 173.0,
+    "end": 178.0,
+    "duration": 5,
+    "mode": "scene",
+    "title": "旧秩序，受到新的质问",
+    "date": "18世纪",
+    "caption": [
+      "启蒙思想家争论权利、主权和法律。",
+      "谁能决定共同生活的规则？"
+    ],
+    "focus": [
+      2.35,
+      48.86
+    ],
+    "zoom": 3,
+    "events": [
+      "enlightenment"
+    ],
+    "routes": [],
+    "sources": [
+      "https://plato.stanford.edu/entries/enlightenment/"
+    ],
+    "transition": "iris",
+    "readingRate": 5.0,
+    "approximateMap": true
+  },
+  {
+    "id": "s31",
+    "key": "revolutions",
+    "chapter": 10,
+    "startFrame": 10680,
+    "endFrame": 11100,
+    "start": 178.0,
+    "end": 185.0,
+    "duration": 7,
+    "mode": "scene",
+    "title": "宣言，走进政治现实",
+    "date": "1776 / 1789年",
+    "caption": [
+      "北美独立与法国革命冲击旧制度。",
+      "平等的承诺，并未立即属于所有人。"
+    ],
+    "focus": [
+      -32,
+      42
+    ],
+    "zoom": 1.8,
+    "events": [
+      "declaration-1776",
+      "american-war",
+      "france-1789"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.archives.gov/milestone-documents/declaration-of-independence",
+      "https://www.larousse.fr/encyclopedie/divers/R%C3%A9volution_fran%C3%A7aise/184321",
+      "https://www.loc.gov/classroom-materials/american-revolution/"
+    ],
+    "transition": "match",
+    "readingRate": 4.0,
+    "approximateMap": true
+  },
+  {
+    "id": "s32",
+    "key": "haiti",
+    "chapter": 10,
+    "startFrame": 11100,
+    "endFrame": 11460,
+    "start": 185.0,
+    "end": 191.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "被奴役者，为自由而斗争",
+    "date": "1791—1804年",
+    "caption": [
+      "海地革命将自由诉求推向被奴役者。",
+      "1804年独立，留下反奴隶制的重要节点。"
+    ],
+    "focus": [
+      -72.3,
+      18.55
+    ],
+    "zoom": 7,
+    "events": [
+      "haitian"
+    ],
+    "routes": [],
+    "sources": [
+      "https://history.state.gov/milestones/1784-1800/haitian-rev"
+    ],
+    "transition": "rise",
+    "readingRate": 5.5,
+    "approximateMap": true
+  },
+  {
+    "id": "s33",
+    "key": "napoleon",
+    "chapter": 10,
+    "startFrame": 11460,
+    "endFrame": 11760,
+    "start": 191.0,
+    "end": 196.0,
+    "duration": 5,
+    "mode": "map",
+    "title": "战争，改变欧洲格局",
+    "date": "1805—1815年",
+    "caption": [
+      "拿破仑的扩张最终失败。",
+      "制度变化的背后，是沉重伤亡。"
+    ],
+    "focus": [
+      18,
+      50
+    ],
+    "zoom": 2.6,
+    "events": [
+      "napoleon-wars",
+      "waterloo"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.nam.ac.uk/explore/battle-waterloo",
+      "https://www.napoleon.org/en/young-historians/napodoc/timeline-consulate1st-french-empire/"
+    ],
+    "transition": "travel",
+    "readingRate": 4.4,
+    "approximateMap": true
+  },
+  {
+    "id": "s34",
+    "key": "textile",
+    "chapter": 11,
+    "startFrame": 11760,
+    "endFrame": 12180,
+    "start": 196.0,
+    "end": 203.0,
+    "duration": 7,
+    "mode": "scene",
+    "title": "从手工，走进机械化生产",
+    "date": "18世纪后半叶起",
+    "caption": [
+      "水力推动纺织机器，蒸汽随后扩展。",
+      "能源、资本与生产组织共同推动工业化。"
+    ],
+    "focus": [
+      -2.24,
+      53.48
+    ],
+    "zoom": 5,
+    "events": [
+      "textiles",
+      "coal"
+    ],
+    "routes": [],
+    "sources": [
+      "https://blog.sciencemuseum.org.uk/steaming-through-the-centuries/",
+      "https://whc.unesco.org/en/list/1030/",
+      "https://www.nms.ac.uk/discover-catalogue/the-newcomen-engine-and-its-role-in-britains-industrial-revolution"
+    ],
+    "transition": "iris",
+    "readingRate": 4.29,
+    "approximateMap": true
+  },
+  {
+    "id": "s35",
+    "key": "steam",
+    "chapter": 11,
+    "startFrame": 12180,
+    "endFrame": 12540,
+    "start": 203.0,
+    "end": 209.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "让往复运动，变成持续转动",
+    "date": "18世纪后半叶—19世纪",
+    "caption": [
+      "活塞、连杆与飞轮传递动力。",
+      "工人、设备与工时也被集中组织起来。"
+    ],
+    "focus": [
+      -2,
+      53
+    ],
+    "zoom": 4,
+    "events": [
+      "watt-patent",
+      "rotary-engine"
+    ],
+    "routes": [],
+    "sources": [
+      "https://collection.sciencemuseumgroup.org.uk/objects/co50948/rotative-steam-engine-by-boulton-and-watt-1788",
+      "https://www.historicenvironment.scot/about-us/our-work/commemorative-plaques/explore/james-watt/",
+      "https://www.nms.ac.uk/discover-catalogue/the-newcomen-engine-and-its-role-in-britains-industrial-revolution"
+    ],
+    "transition": "match",
+    "readingRate": 4.33,
+    "approximateMap": true
+  },
+  {
+    "id": "s36",
+    "key": "rail",
+    "chapter": 11,
+    "startFrame": 12540,
+    "endFrame": 12900,
+    "start": 209.0,
+    "end": 215.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "车轮，把工业网络拉长",
+    "date": "1830年及以后",
+    "caption": [
+      "铁路连接工厂、港口与市场。",
+      "工业化向欧洲大陆和北美部分地区扩展。"
+    ],
+    "focus": [
+      -2.6,
+      53.45
+    ],
+    "zoom": 14,
+    "events": [
+      "railway-1830",
+      "industrial-diffusion"
+    ],
+    "routes": [
+      "liverpool-manchester"
+    ],
+    "sources": [
+      "https://blog.sciencemuseum.org.uk/steaming-through-the-centuries/",
+      "https://collection.sciencemuseumgroup.org.uk/people/ap48/liverpool-manchester-railway-co"
+    ],
+    "transition": "rise",
+    "readingRate": 4.67,
+    "approximateMap": true
+  },
+  {
+    "id": "s37",
+    "key": "city",
+    "chapter": 11,
+    "startFrame": 12900,
+    "endFrame": 13260,
+    "start": 215.0,
+    "end": 221.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "机器改变生产，也改变生活",
+    "date": "19世纪前半叶",
+    "caption": [
+      "城市扩张，财富增长。",
+      "拥挤、污染与危险劳动，也随之加剧。"
+    ],
+    "focus": [
+      -2.24,
+      53.48
+    ],
+    "zoom": 4,
+    "events": [
+      "urban-labour",
+      "factory-life"
+    ],
+    "routes": [],
+    "sources": [
+      "https://plato.stanford.edu/entries/engels/",
+      "https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/19thcentury/overview/factoryact/"
+    ],
+    "transition": "travel",
+    "readingRate": 3.67,
+    "approximateMap": true
+  },
+  {
+    "id": "s38",
+    "key": "workers",
+    "chapter": 12,
+    "startFrame": 13260,
+    "endFrame": 13620,
+    "start": 221.0,
+    "end": 227.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "工人，开始组织自己的诉求",
+    "date": "1830—1840年代",
+    "caption": [
+      "结社、罢工、宪章运动与改革，",
+      "回应工资、工时和政治权利问题。"
+    ],
+    "focus": [
+      -1,
+      53
+    ],
+    "zoom": 4,
+    "events": [
+      "chartism",
+      "factory-act",
+      "socialisms"
+    ],
+    "routes": [],
+    "sources": [
+      "https://plato.stanford.edu/entries/engels/",
+      "https://plato.stanford.edu/entries/marx/",
+      "https://www.nationalarchives.gov.uk/education/teaching-resources/what-was-chartism/",
+      "https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/19thcentury/overview/factoryact/"
+    ],
+    "transition": "iris",
+    "readingRate": 4.0,
+    "approximateMap": true
+  },
+  {
+    "id": "s39",
+    "key": "marx",
+    "chapter": 12,
+    "startFrame": 13620,
+    "endFrame": 14040,
+    "start": 227.0,
+    "end": 234.0,
+    "duration": 7,
+    "mode": "scene",
+    "title": "从工业社会，走向新的理论",
+    "date": "1840年代",
+    "caption": [
+      "马克思与恩格斯合作，研究资本主义。",
+      "他们从生产关系与阶级矛盾提出分析。"
+    ],
+    "focus": [
+      6,
+      50
+    ],
+    "zoom": 3,
+    "events": [
+      "marx-engels-1844",
+      "german-ideology"
+    ],
+    "routes": [],
+    "sources": [
+      "https://plato.stanford.edu/entries/engels/",
+      "https://plato.stanford.edu/entries/marx/"
+    ],
+    "transition": "match",
+    "readingRate": 4.43,
+    "approximateMap": true
+  },
+  {
+    "id": "s40",
+    "key": "manifesto",
+    "chapter": 12,
+    "startFrame": 14040,
+    "endFrame": 14400,
+    "start": 234.0,
+    "end": 240.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "1848：新的思想，新的争论",
+    "date": "1848年 · 伦敦",
+    "caption": [
+      "《共产党宣言》发表，提出政治主张。",
+      "历史仍在继续，这些思想也持续受到讨论。"
+    ],
+    "focus": [
+      -0.12,
+      51.5
+    ],
+    "zoom": 1,
+    "events": [
+      "manifesto-1848",
+      "communist-league",
+      "interpretation"
+    ],
+    "routes": [],
+    "sources": [
+      "https://plato.stanford.edu/entries/engels/",
+      "https://plato.stanford.edu/entries/marx/",
+      "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/",
+      "https://www.unesco.org/en/memory-world/manifest-der-kommunistischen-partei-draft-manuscript-page-and-das-kapital-erster-band-karl-marxs"
+    ],
+    "transition": "rise",
+    "readingRate": 5.0,
+    "approximateMap": true
+  }
+]

@@ -15,3 +15,9 @@
 [新版完整视频下载](https://github.com/oi789113/-/releases/download/world-history-no-voice-v2/world-history-no-voice-1080p60.mp4) · [全部下载资源](https://github.com/oi789113/-/releases/tag/world-history-no-voice-v2) · [源码与运行说明](world-history-silent/README.md)
 
 从约前3500年两河流域到1848年，完整10分钟、1080p、60FPS。没有任何人声；通过72段叙事字幕、动态地图与历史场景讲述历史，保留原创配乐和音效，新增12类解释动画。
+
+## 四分钟世界历史 · 无音轨精剪版
+
+[下载完整视频](https://github.com/oi789113/-/releases/download/world-history-4min-v3/world-history-4min-1080p60.mp4) · [预览与全部工程](https://github.com/oi789113/-/releases/tag/world-history-4min-v3) · [新版源码说明](world-history-4min/README.md)
+
+240秒、1080p、60FPS，从两河流域到1848年。重排为40个5—7秒镜头，删除重复段落，重绘25种场景与15个地理构图；没有背景音乐、配音或任何音轨。旧版和吸盘作品保留。
