@@ -1,3 +1,13 @@
+# 最新：世界历史 · 教材脉络版
+
+按照片中的课本第1—21课，梳理至1871年。4分54秒，1080p60，无音乐、无配音、无音轨。补齐年代、法典与革命的历史意义，统一字幕；删除丝绸之路等贸易专题。
+
+- [下载完整视频](https://github.com/oi789113/-/releases/download/world-history-textbook-v4/world-history-textbook-1080p60.mp4)
+- [预览、分镜与完整工程](https://github.com/oi789113/-/releases/tag/world-history-textbook-v4)
+- [本版源码](world-history-textbook/README.md)
+
+此前版本与吸盘项目均保留。
+
 # 动画作品与工程
 
 ## 为什么吸盘挂钩总在半夜掉下来？

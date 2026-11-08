@@ -1,0 +1,1500 @@
+[
+  {
+    "id": "uruk",
+    "name": "乌鲁克",
+    "mapLabel": "乌鲁克",
+    "startYear": -3500,
+    "endYear": -3200,
+    "region": "从原始社会到奴隶社会",
+    "coordinates": [
+      45.64,
+      31.32
+    ],
+    "chapter": 1,
+    "lesson": 1,
+    "type": "文明诞生",
+    "explanation": "乌鲁克逐渐成长为早期城市。农业剩余，让分工与城市生活成为可能。",
+    "visual": "uruk：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.metmuseum.org/essays/uruk-the-first-city"
+    ],
+    "sourceIds": [
+      "uruk"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "irrigation",
+    "name": "从协作，到社会分化",
+    "mapLabel": "从协作，到社会分化",
+    "startYear": -3500,
+    "endYear": -3000,
+    "region": "从原始社会到奴隶社会",
+    "coordinates": [
+      44,
+      32
+    ],
+    "chapter": 1,
+    "lesson": 1,
+    "type": "社会变化",
+    "explanation": "财富和权力分化，早期国家形成。奴隶制逐渐发展，各地经历并不相同。",
+    "visual": "irrigation：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "https://www.metmuseum.org/essays/art-of-the-first-cities-in-the-third-millennium-b-c"
+    ],
+    "sourceIds": [
+      "uruk",
+      "bronze"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "tablet",
+    "name": "把数量，刻进泥板",
+    "mapLabel": "把数量，刻进泥板",
+    "startYear": -3300,
+    "endYear": -3000,
+    "region": "古代两河流域",
+    "coordinates": [
+      45.64,
+      31.32
+    ],
+    "chapter": 1,
+    "lesson": 2,
+    "type": "文化成就",
+    "explanation": "两河流域出现早期楔形文字。记录物资，让管理超越个人记忆。",
+    "visual": "tablet：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.metmuseum.org/essays/the-origins-of-writing"
+    ],
+    "sourceIds": [
+      "writing"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "hammurabi",
+    "name": "法律，被公开刻在石上",
+    "mapLabel": "法律，被公开刻在石上",
+    "startYear": -1750,
+    "endYear": -1750,
+    "region": "古代两河流域",
+    "coordinates": [
+      44.42,
+      32.54
+    ],
+    "chapter": 1,
+    "lesson": 2,
+    "type": "法典",
+    "explanation": "《汉谟拉比法典》汇集法律判例。作为早期法律遗存，它体现王权与等级。",
+    "visual": "hammurabi：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.louvre.fr/en/the-code-of-hammurabi"
+    ],
+    "sourceIds": [
+      "hammurabi"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "pyramid",
+    "name": "尼罗河畔，国家与工程",
+    "mapLabel": "尼罗河畔，国家与工程",
+    "startYear": -3100,
+    "endYear": -2500,
+    "region": "古代埃及",
+    "coordinates": [
+      31,
+      27
+    ],
+    "chapter": 1,
+    "lesson": 3,
+    "type": "国家形成",
+    "explanation": "埃及走向统一，后来建起金字塔。大型工程体现王权和国家组织能力。",
+    "visual": "pyramid：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://egymonuments.gov.eg/en/historical-periods/early-dynastic-period",
+      "https://whc.unesco.org/en/list/86/"
+    ],
+    "sourceIds": [
+      "earlyEgypt",
+      "egypt"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "egypt_calendar",
+    "name": "观察天象，记录时间",
+    "mapLabel": "观察天象，记录时间",
+    "startYear": -3000,
+    "endYear": -2000,
+    "region": "古代埃及",
+    "coordinates": [
+      31.2,
+      29.9
+    ],
+    "chapter": 1,
+    "lesson": 3,
+    "type": "文化成就",
+    "explanation": "埃及人发展文字、历法与测量。知识帮助安排农事，也服务国家管理。",
+    "visual": "egypt_calendar：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.britannica.com/science/Egyptian-calendar",
+      "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_Ancient_Egypt_A_Resource_for_Educators.pdf"
+    ],
+    "sourceIds": [
+      "egyptCalendar",
+      "egyptWriting"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "harappa",
+    "name": "城市之下，还有排水系统",
+    "mapLabel": "城市之下，还有排水系统",
+    "startYear": -2600,
+    "endYear": -1900,
+    "region": "古代印度",
+    "coordinates": [
+      69,
+      28
+    ],
+    "chapter": 1,
+    "lesson": 4,
+    "type": "城市兴起",
+    "explanation": "印度河城市有街区和排水设施。规划与公共工程，反映复杂社会组织。",
+    "visual": "harappa：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.metmuseum.org/toah/ht/02/ssa.html"
+    ],
+    "sourceIds": [
+      "indus"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "caste",
+    "name": "等级，被写进社会秩序",
+    "mapLabel": "等级，被写进社会秩序",
+    "startYear": -1000,
+    "endYear": -500,
+    "region": "古代印度",
+    "coordinates": [
+      80.5,
+      26.8
+    ],
+    "chapter": 1,
+    "lesson": 4,
+    "type": "社会制度",
+    "explanation": "古印度逐渐形成种姓等级秩序。出身限制身份与交往，并非社会平等。",
+    "visual": "caste：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.britannica.com/topic/varna-Hinduism"
+    ],
+    "sourceIds": [
+      "varna"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "buddhism",
+    "name": "苦难，能否得到解脱？",
+    "mapLabel": "苦难，能否得到解脱？",
+    "startYear": -600,
+    "endYear": -400,
+    "region": "古代印度",
+    "coordinates": [
+      85,
+      25
+    ],
+    "chapter": 1,
+    "lesson": 4,
+    "type": "宗教思想",
+    "explanation": "佛教兴起，强调修行与解脱。它挑战祭祀特权，影响亚洲思想文化。",
+    "visual": "buddhism：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.metmuseum.org/essays/buddhism-and-buddhist-art"
+    ],
+    "sourceIds": [
+      "buddhism"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "agora",
+    "name": "谁能在城邦中发言？",
+    "mapLabel": "谁能在城邦中发言？",
+    "startYear": -500,
+    "endYear": -400,
+    "region": "古代希腊",
+    "coordinates": [
+      23.73,
+      37.98
+    ],
+    "chapter": 2,
+    "lesson": 5,
+    "type": "政治制度",
+    "explanation": "雅典成年男性公民参与政治。民主具有开创性，也排除妇女与奴隶。",
+    "visual": "agora：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c",
+      "https://www.britannica.com/place/ancient-Greece/The-reforms-of-Cleisthenes"
+    ],
+    "sourceIds": [
+      "greece",
+      "athens"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "alexander",
+    "name": "征服，打开希腊化时代",
+    "mapLabel": "征服，打开希腊化时代",
+    "startYear": -334,
+    "endYear": -323,
+    "region": "古代希腊",
+    "coordinates": [
+      45,
+      32
+    ],
+    "chapter": 2,
+    "lesson": 5,
+    "type": "战争",
+    "explanation": "亚历山大东征，建立庞大帝国。战争带来破坏，也推动跨地区文化交融。",
+    "visual": "alexander：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c",
+      "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c"
+    ],
+    "sourceIds": [
+      "greece",
+      "persia"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "roman_republic",
+    "name": "从君王，到共和国",
+    "mapLabel": "从君王，到共和国",
+    "startYear": -509,
+    "endYear": -509,
+    "region": "古代罗马",
+    "coordinates": [
+      12.48,
+      41.89
+    ],
+    "chapter": 2,
+    "lesson": 6,
+    "type": "政治制度",
+    "explanation": "传统记载中，罗马从王政转向共和国。贵族与平民斗争，推动公民政治发展。",
+    "visual": "roman_republic：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.britannica.com/place/ancient-Rome/The-early-Republic-509-280-bce",
+      "https://resources.metmuseum.org/resources/metpublications/pdf/Roman_Art_A_Resource_for_Educators.pdf"
+    ],
+    "sourceIds": [
+      "romanRepublic",
+      "rome"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "twelve_tables",
+    "name": "让规则，不再只被少数人掌握",
+    "mapLabel": "古代罗马",
+    "startYear": -451,
+    "endYear": -450,
+    "region": "古代罗马",
+    "coordinates": [
+      12.48,
+      41.89
+    ],
+    "chapter": 2,
+    "lesson": 6,
+    "type": "法典",
+    "explanation": "《十二铜表法》把法律公开成文。它限制任意解释，仍保留身份不平等。",
+    "visual": "twelve_tables：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://avalon.law.yale.edu/ancient/twelve_tables.asp"
+    ],
+    "sourceIds": [
+      "twelveTables"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "rome",
+    "name": "共和国，走向帝国",
+    "mapLabel": "共和国，走向帝国",
+    "startYear": -27,
+    "endYear": 200,
+    "region": "古代罗马",
+    "coordinates": [
+      12,
+      42
+    ],
+    "chapter": 2,
+    "lesson": 6,
+    "type": "国家更替",
+    "explanation": "罗马进入帝国时期，兴建道路与水渠。法律和工程影响后世，扩张依赖征服。",
+    "visual": "rome：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://resources.metmuseum.org/resources/metpublications/pdf/Roman_Art_A_Resource_for_Educators.pdf"
+    ],
+    "sourceIds": [
+      "rome"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "rome-division",
+    "name": "罗马东西分治",
+    "mapLabel": "罗马东西分治",
+    "startYear": 395,
+    "endYear": 395,
+    "region": "古代罗马",
+    "coordinates": [
+      12.48,
+      41.89
+    ],
+    "chapter": 2,
+    "lesson": 6,
+    "type": "国家更替",
+    "explanation": "罗马东西分治；476年西部帝位终结。东罗马延续，古代制度并未同时消失。",
+    "visual": "rome_split：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.metmuseum.org/essays/byzantium-ca-330-1453"
+    ],
+    "sourceIds": [
+      "byzantium"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "west-rome",
+    "name": "西罗马帝位终结",
+    "mapLabel": "西罗马帝位终结",
+    "startYear": 476,
+    "endYear": 476,
+    "region": "古代罗马",
+    "coordinates": [
+      12.48,
+      41.89
+    ],
+    "chapter": 2,
+    "lesson": 6,
+    "type": "国家更替",
+    "explanation": "罗马东西分治；476年西部帝位终结。东罗马延续，古代制度并未同时消失。",
+    "visual": "rome_split：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.metmuseum.org/essays/byzantium-ca-330-1453"
+    ],
+    "sourceIds": [
+      "byzantium"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "east-rome",
+    "name": "君士坦丁堡",
+    "mapLabel": "君士坦丁堡",
+    "startYear": 330,
+    "endYear": 1453,
+    "region": "古代罗马",
+    "coordinates": [
+      28.98,
+      41.01
+    ],
+    "chapter": 2,
+    "lesson": 6,
+    "type": "国家更替",
+    "explanation": "罗马东西分治；476年西部帝位终结。东罗马延续，古代制度并未同时消失。",
+    "visual": "rome_split：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.metmuseum.org/essays/byzantium-ca-330-1453"
+    ],
+    "sourceIds": [
+      "byzantium"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "frankish",
+    "name": "西欧，形成新的王国",
+    "mapLabel": "西欧，形成新的王国",
+    "startYear": 481,
+    "endYear": 800,
+    "region": "法兰克王国和西欧封建制度",
+    "coordinates": [
+      5,
+      48
+    ],
+    "chapter": 3,
+    "lesson": 7,
+    "type": "国家形成",
+    "explanation": "法兰克王国扩展，查理曼加冕称帝。王权与教会合作，重塑西欧政治秩序。",
+    "visual": "frankish：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.britannica.com/biography/Clovis-I",
+      "https://www.britannica.com/biography/Charlemagne"
+    ],
+    "sourceIds": [
+      "franks",
+      "charlemagne"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "feudal",
+    "name": "土地与义务，层层相连",
+    "mapLabel": "土地与义务，层层相连",
+    "startYear": 700,
+    "endYear": 1100,
+    "region": "法兰克王国和西欧封建制度",
+    "coordinates": [
+      3,
+      48
+    ],
+    "chapter": 3,
+    "lesson": 7,
+    "type": "社会制度",
+    "explanation": "封君封臣以土地和义务建立联系。庄园劳动支撑领主，农民承担沉重负担。",
+    "visual": "feudal：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.britannica.com/topic/feudalism"
+    ],
+    "sourceIds": [
+      "feudal"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "town_charter",
+    "name": "城市，争取自己的规则",
+    "mapLabel": "城市，争取自己的规则",
+    "startYear": 900,
+    "endYear": 1300,
+    "region": "西欧的城市和大学",
+    "coordinates": [
+      2.5,
+      49
+    ],
+    "chapter": 3,
+    "lesson": 8,
+    "type": "社会变化",
+    "explanation": "西欧城市复兴，部分取得自治权。市民和商业成长，改变庄园之外的生活。",
+    "visual": "town_charter：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://dur.ac.uk/research/institutes-and-centres/medieval-early-modern-studies/research/cities-in-history-archives-and-traces-1100-1700/governing/"
+    ],
+    "sourceIds": [
+      "townCharter"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "university",
+    "name": "学问，形成新的共同体",
+    "mapLabel": "学问，形成新的共同体",
+    "startYear": 1088,
+    "endYear": 1300,
+    "region": "西欧的城市和大学",
+    "coordinates": [
+      11.34,
+      44.49
+    ],
+    "chapter": 3,
+    "lesson": 8,
+    "type": "文化成就",
+    "explanation": "大学逐渐兴起，师生形成共同体。教学与辩论，推动知识传承和专业教育。",
+    "visual": "university：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.unibo.it/en/university/who-we-are/our-history"
+    ],
+    "sourceIds": [
+      "bologna"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "justinian",
+    "name": "把罗马法，整理成体系",
+    "mapLabel": "把罗马法，整理成体系",
+    "startYear": 529,
+    "endYear": 534,
+    "region": "拜占庭帝国",
+    "coordinates": [
+      28.98,
+      41.01
+    ],
+    "chapter": 3,
+    "lesson": 9,
+    "type": "法典",
+    "explanation": "《罗马民法大全》系统整理罗马法律。它成为后世大陆法发展的重要源头。",
+    "visual": "justinian：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.uwyo.edu/lawlib/blume-justinian/ajc-edition-2/novels/novels.html"
+    ],
+    "sourceIds": [
+      "justinian"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "byzantium",
+    "name": "延续千年，留下文化遗产",
+    "mapLabel": "延续千年，留下文化遗产",
+    "startYear": 330,
+    "endYear": 1453,
+    "region": "拜占庭帝国",
+    "coordinates": [
+      28.98,
+      41.01
+    ],
+    "chapter": 3,
+    "lesson": 9,
+    "type": "文化传承",
+    "explanation": "拜占庭延续罗马传统，保存古典知识。1453年覆亡，法律与文化影响仍在。",
+    "visual": "byzantium：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.metmuseum.org/essays/byzantium-ca-330-1453"
+    ],
+    "sourceIds": [
+      "byzantium"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "taika",
+    "name": "改革，向中央集权推进",
+    "mapLabel": "改革，向中央集权推进",
+    "startYear": 645,
+    "endYear": 700,
+    "region": "封建时代的日本",
+    "coordinates": [
+      135.8,
+      34.5
+    ],
+    "chapter": 4,
+    "lesson": 10,
+    "type": "政治改革",
+    "explanation": "日本大化改新，借鉴唐朝等制度。改革逐步加强中央权力，并非一朝完成。",
+    "visual": "taika：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://afe.easia.columbia.edu/main_pop/ps/ps_japan-taika.htm"
+    ],
+    "sourceIds": [
+      "taika"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "shogunate",
+    "name": "武士与将军，掌握政治力量",
+    "mapLabel": "武士与将军，掌握政治力量",
+    "startYear": 1185,
+    "endYear": 1192,
+    "region": "封建时代的日本",
+    "coordinates": [
+      139.55,
+      35.32
+    ],
+    "chapter": 4,
+    "lesson": 10,
+    "type": "政治制度",
+    "explanation": "源赖朝建立镰仓政权，后获将军称号。幕府时代开启，天皇与武家权力并存。",
+    "visual": "shogunate：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.metmuseum.org/essays/kamakura-and-nanbokucho-periods-1185-1392",
+      "https://www.britannica.com/biography/Minamoto-Yoritomo"
+    ],
+    "sourceIds": [
+      "kamakura",
+      "yoritomo"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "arabia",
+    "name": "信仰与政权，在半岛兴起",
+    "mapLabel": "信仰与政权，在半岛兴起",
+    "startYear": 610,
+    "endYear": 750,
+    "region": "阿拉伯帝国",
+    "coordinates": [
+      43,
+      28
+    ],
+    "chapter": 4,
+    "lesson": 11,
+    "type": "宗教与国家",
+    "explanation": "伊斯兰教兴起，阿拉伯政权向外扩展。新的政治与文化共同体逐渐形成。",
+    "visual": "arabia：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.metmuseum.org/exhibitions/listings/2012/byzantium-and-islam",
+      "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-661-750"
+    ],
+    "sourceIds": [
+      "islam",
+      "umayyad"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "astrolabe",
+    "name": "翻译之后，继续研究",
+    "mapLabel": "翻译之后，继续研究",
+    "startYear": 750,
+    "endYear": 1258,
+    "region": "阿拉伯帝国",
+    "coordinates": [
+      44.36,
+      33.31
+    ],
+    "chapter": 4,
+    "lesson": 11,
+    "type": "科学文化",
+    "explanation": "阿拉伯世界学者翻译并发展多地知识。数学、医学与天文学影响后来世界。",
+    "visual": "astrolabe：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "https://doi.org/10.1086/698236"
+    ],
+    "sourceIds": [
+      "abbasid",
+      "translation"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "mali",
+    "name": "马里",
+    "mapLabel": "马里",
+    "startYear": 1235,
+    "endYear": 1500,
+    "region": "中古时期的非洲和美洲",
+    "coordinates": [
+      -8.0,
+      12.6
+    ],
+    "chapter": 4,
+    "lesson": 12,
+    "type": "文明发展",
+    "explanation": "马里与大津巴布韦等社会发展。国家、城市和建筑展现非洲多样历史。",
+    "visual": "mali：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.metmuseum.org/essays/the-trans-saharan-gold-trade-7th-14th-century",
+      "https://whc.unesco.org/en/list/364/"
+    ],
+    "sourceIds": [
+      "mali",
+      "zimbabwe"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "zimbabwe",
+    "name": "大津巴布韦",
+    "mapLabel": "大津巴布韦",
+    "startYear": 1100,
+    "endYear": 1450,
+    "region": "中古时期的非洲和美洲",
+    "coordinates": [
+      30.93,
+      -20.27
+    ],
+    "chapter": 4,
+    "lesson": 12,
+    "type": "文明发展",
+    "explanation": "马里与大津巴布韦等社会发展。国家、城市和建筑展现非洲多样历史。",
+    "visual": "mali：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.metmuseum.org/essays/the-trans-saharan-gold-trade-7th-14th-century",
+      "https://whc.unesco.org/en/list/364/"
+    ],
+    "sourceIds": [
+      "mali",
+      "zimbabwe"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "americas",
+    "name": "大洋彼岸，文明独立生长",
+    "mapLabel": "大洋彼岸，文明独立生长",
+    "startYear": 250,
+    "endYear": 1533,
+    "region": "中古时期的非洲和美洲",
+    "coordinates": [
+      -89,
+      8
+    ],
+    "chapter": 4,
+    "lesson": 12,
+    "type": "文明发展",
+    "explanation": "玛雅发展文字历法；阿兹特克、印加兴起。美洲早有复杂社会，绝非等待发现的空地。",
+    "visual": "americas：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.marc.ucsb.edu/research/maya/ancient-maya-civilization/classic-period",
+      "https://www.loc.gov/exhibits/1492/america.html"
+    ],
+    "sourceIds": [
+      "maya",
+      "america"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "perspective",
+    "name": "重新观看人，与现实世界",
+    "mapLabel": "重新观看人，与现实世界",
+    "startYear": 1300,
+    "endYear": 1600,
+    "region": "西欧经济社会发展与文艺复兴运动",
+    "coordinates": [
+      12,
+      43
+    ],
+    "chapter": 5,
+    "lesson": 13,
+    "type": "思想文化",
+    "explanation": "文艺复兴重研古典文化，强调人的价值。人文主义推动艺术、思想与文化革新。",
+    "visual": "perspective：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://crrs.library.utoronto.ca/exhibits/show/vic449/vic449exhibit"
+    ],
+    "sourceIds": [
+      "renaissance"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "manufactory",
+    "name": "生产，开始换一种组织方式",
+    "mapLabel": "生产，开始换一种组织方式",
+    "startYear": 1300,
+    "endYear": 1600,
+    "region": "西欧经济社会发展与文艺复兴运动",
+    "coordinates": [
+      2,
+      50
+    ],
+    "chapter": 5,
+    "lesson": 13,
+    "type": "生产组织",
+    "explanation": "租地农场与手工工场逐渐发展。雇佣劳动和经营扩大，积累近代社会条件。",
+    "visual": "manufactory：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.britannica.com/topic/domestic-system",
+      "https://www.britannica.com/topic/history-of-Europe/The-emergence-of-modern-Europe-1500-1648"
+    ],
+    "sourceIds": [
+      "domestic",
+      "capitalism"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "voyages",
+    "name": "跨越海洋，新的航路出现",
+    "mapLabel": "跨越海洋，新的航路出现",
+    "startYear": 1492,
+    "endYear": 1522,
+    "region": "探寻新航路",
+    "coordinates": [
+      10,
+      10
+    ],
+    "chapter": 5,
+    "lesson": 14,
+    "type": "航海",
+    "explanation": "横渡大西洋、绕非洲与首次环球航行。新航路加强全球联系，也打开殖民通道。",
+    "visual": "voyages：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.loc.gov/exhibits/1492/",
+      "https://www.parlamento.pt/VisitaParlamento/Paginas/BiogVascodaGama.aspx",
+      "https://www.unesco.org/en/memory-world/first-voyage-circumnavigation-fernao-de-magalhaes-and-juan-sebastian-elcano-1519-1522",
+      "https://origins.osu.edu/milestones/magellan-circumnavigation-earth"
+    ],
+    "sourceIds": [
+      "columbus",
+      "gama",
+      "magellan",
+      "elcano"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "aztec-conquest",
+    "name": "特诺奇蒂特兰",
+    "mapLabel": "特诺奇蒂特兰",
+    "startYear": 1521,
+    "endYear": 1521,
+    "region": "早期殖民掠夺",
+    "coordinates": [
+      -99.13,
+      19.43
+    ],
+    "chapter": 5,
+    "lesson": 15,
+    "type": "殖民征服",
+    "explanation": "阿兹特克、印加的统治中心遭征服。战争、疾病与强迫劳动造成深重灾难。",
+    "visual": "conquest：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.loc.gov/exhibits/1492/eurocla.html",
+      "https://www.aeaweb.org/articles?id=10.1257/jep.24.2.163"
+    ],
+    "sourceIds": [
+      "conquest",
+      "exchange"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "inca-conquest",
+    "name": "库斯科",
+    "mapLabel": "库斯科",
+    "startYear": 1533,
+    "endYear": 1533,
+    "region": "早期殖民掠夺",
+    "coordinates": [
+      -71.97,
+      -13.52
+    ],
+    "chapter": 5,
+    "lesson": 15,
+    "type": "殖民征服",
+    "explanation": "阿兹特克、印加的统治中心遭征服。战争、疾病与强迫劳动造成深重灾难。",
+    "visual": "conquest：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.loc.gov/exhibits/1492/eurocla.html",
+      "https://www.aeaweb.org/articles?id=10.1257/jep.24.2.163"
+    ],
+    "sourceIds": [
+      "conquest",
+      "exchange"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "slavery",
+    "name": "财富积累，伴随被迫迁移",
+    "mapLabel": "财富积累，伴随被迫迁移",
+    "startYear": 1500,
+    "endYear": 1800,
+    "region": "早期殖民掠夺",
+    "coordinates": [
+      -35,
+      0
+    ],
+    "chapter": 5,
+    "lesson": 15,
+    "type": "殖民掠夺",
+    "explanation": "奴隶贸易迫使数百万人离开非洲。殖民掠夺积累财富，也留下长期创伤。",
+    "visual": "slavery：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://legacy.slavevoyages.org/blog/methodology-trans-atlantic"
+    ],
+    "sourceIds": [
+      "slavery"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "english_revolution",
+    "name": "国王，也要面对议会",
+    "mapLabel": "国王，也要面对议会",
+    "startYear": 1640,
+    "endYear": 1688,
+    "region": "英国资产阶级革命",
+    "coordinates": [
+      -0.12,
+      51.5
+    ],
+    "chapter": 6,
+    "lesson": 16,
+    "type": "革命",
+    "explanation": "英国经历革命、共和国和王政复辟。1688年政变后，议会力量进一步扩大。",
+    "visual": "english_revolution：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/civilwar/",
+      "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/revolution/"
+    ],
+    "sourceIds": [
+      "civilWar",
+      "gloriousRevolution"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "bill_rights",
+    "name": "权力，受到法律约束",
+    "mapLabel": "权力，受到法律约束",
+    "startYear": 1689,
+    "endYear": 1689,
+    "region": "英国资产阶级革命",
+    "coordinates": [
+      -0.12,
+      51.5
+    ],
+    "chapter": 6,
+    "lesson": 16,
+    "type": "法典与制度",
+    "explanation": "《权利法案》限制王权，保障议会权利。英国君主立宪制逐步确立和发展。",
+    "visual": "bill_rights：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/revolution/collections1/collections-glorious-revolution/billofrights/"
+    ],
+    "sourceIds": [
+      "billRights"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "lexington",
+    "name": "列克星敦",
+    "mapLabel": "列克星敦",
+    "startYear": 1775,
+    "endYear": 1775,
+    "region": "美国的独立",
+    "coordinates": [
+      -71.23,
+      42.45
+    ],
+    "chapter": 6,
+    "lesson": 17,
+    "type": "革命",
+    "explanation": "1783年，英国承认美国独立。反殖民战争，为新国家奠定基础。",
+    "visual": "american_war：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.loc.gov/classroom-materials/american-revolution/",
+      "https://www.archives.gov/milestone-documents/treaty-of-paris"
+    ],
+    "sourceIds": [
+      "americanWar",
+      "parisTreaty"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "yorktown",
+    "name": "约克镇",
+    "mapLabel": "约克镇",
+    "startYear": 1781,
+    "endYear": 1781,
+    "region": "美国的独立",
+    "coordinates": [
+      -76.51,
+      37.24
+    ],
+    "chapter": 6,
+    "lesson": 17,
+    "type": "革命",
+    "explanation": "1783年，英国承认美国独立。反殖民战争，为新国家奠定基础。",
+    "visual": "american_war：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.loc.gov/classroom-materials/american-revolution/",
+      "https://www.archives.gov/milestone-documents/treaty-of-paris"
+    ],
+    "sourceIds": [
+      "americanWar",
+      "parisTreaty"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "independence",
+    "name": "宣布独立，也提出权利原则",
+    "mapLabel": "宣布独立，也提出权利原则",
+    "startYear": 1776,
+    "endYear": 1776,
+    "region": "美国的独立",
+    "coordinates": [
+      -75.16,
+      39.95
+    ],
+    "chapter": 6,
+    "lesson": 17,
+    "type": "政治文献",
+    "explanation": "《独立宣言》提出平等与人民主权。独立并未同时消除奴隶制和性别排斥。",
+    "visual": "independence：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.archives.gov/milestone-documents/declaration-of-independence"
+    ],
+    "sourceIds": [
+      "declaration"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "constitution",
+    "name": "共和国，怎样分配权力？",
+    "mapLabel": "共和国，怎样分配权力？",
+    "startYear": 1787,
+    "endYear": 1787,
+    "region": "美国的独立",
+    "coordinates": [
+      -75.16,
+      39.95
+    ],
+    "chapter": 6,
+    "lesson": 17,
+    "type": "宪法",
+    "explanation": "美国宪法确立联邦制与分权制衡。新制度限制权力，却保留奴隶制妥协。",
+    "visual": "constitution：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.archives.gov/milestone-documents/constitution",
+      "https://www.archives.gov/founding-docs/constitution-transcript"
+    ],
+    "sourceIds": [
+      "constitution",
+      "constitutionText"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "bastille",
+    "name": "旧秩序，被革命撼动",
+    "mapLabel": "旧秩序，被革命撼动",
+    "startYear": 1789,
+    "endYear": 1789,
+    "region": "法国大革命和拿破仑帝国",
+    "coordinates": [
+      2.37,
+      48.85
+    ],
+    "chapter": 6,
+    "lesson": 18,
+    "type": "革命",
+    "explanation": "巴黎民众攻占巴士底狱，革命深入。法国革命冲击封建特权与君主专制。",
+    "visual": "bastille：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.larousse.fr/encyclopedie/divers/R%C3%A9volution_fran%C3%A7aise/184321"
+    ],
+    "sourceIds": [
+      "france"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "rights_man",
+    "name": "把自由与平等，写成权利",
+    "mapLabel": "把自由与平等，写成权利",
+    "startYear": 1789,
+    "endYear": 1789,
+    "region": "法国大革命和拿破仑帝国",
+    "coordinates": [
+      2.35,
+      48.86
+    ],
+    "chapter": 6,
+    "lesson": 18,
+    "type": "政治文献",
+    "explanation": "《人权宣言》主张自由和法律面前平等。这些原则影响深远，实践仍有排斥与冲突。",
+    "visual": "rights_man：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.elysee.fr/en/french-presidency/the-declaration-of-the-rights-of-man-and-of-the-citizen"
+    ],
+    "sourceIds": [
+      "humanRights"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "napoleon_code",
+    "name": "革命后的秩序，写进民法",
+    "mapLabel": "革命后的秩序，写进民法",
+    "startYear": 1804,
+    "endYear": 1804,
+    "region": "法国大革命和拿破仑帝国",
+    "coordinates": [
+      2.35,
+      48.86
+    ],
+    "chapter": 6,
+    "lesson": 18,
+    "type": "法典",
+    "explanation": "《拿破仑法典》统一民法、保障财产权。它巩固革命成果，也保留对妇女的限制。",
+    "visual": "napoleon_code：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://revolution.chnm.org/exhibits/show/liberty--equality--fraternity/item/358",
+      "https://guides.loc.gov/feminism-french-women-history/women-napoleonic-france"
+    ],
+    "sourceIds": [
+      "napoleonicCode",
+      "napoleonicWomen"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "napoleon-wars",
+    "name": "奥斯特里茨",
+    "mapLabel": "奥斯特里茨",
+    "startYear": 1805,
+    "endYear": 1805,
+    "region": "法国大革命和拿破仑帝国",
+    "coordinates": [
+      16.76,
+      49.13
+    ],
+    "chapter": 6,
+    "lesson": 18,
+    "type": "战争",
+    "explanation": "拿破仑建立帝国，战争席卷欧洲。制度改革传播，征服也激起反抗并终告失败。",
+    "visual": "napoleon：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.napoleon.org/en/young-historians/napodoc/timeline-consulate1st-french-empire/",
+      "https://www.nam.ac.uk/explore/battle-waterloo"
+    ],
+    "sourceIds": [
+      "napoleon",
+      "waterloo"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "waterloo",
+    "name": "滑铁卢",
+    "mapLabel": "滑铁卢",
+    "startYear": 1815,
+    "endYear": 1815,
+    "region": "法国大革命和拿破仑帝国",
+    "coordinates": [
+      4.4,
+      50.68
+    ],
+    "chapter": 6,
+    "lesson": 18,
+    "type": "战争",
+    "explanation": "拿破仑建立帝国，战争席卷欧洲。制度改革传播，征服也激起反抗并终告失败。",
+    "visual": "napoleon：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.napoleon.org/en/young-historians/napodoc/timeline-consulate1st-french-empire/",
+      "https://www.nam.ac.uk/explore/battle-waterloo"
+    ],
+    "sourceIds": [
+      "napoleon",
+      "waterloo"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "textile",
+    "name": "工场，变成机器工厂",
+    "mapLabel": "工场，变成机器工厂",
+    "startYear": 1760,
+    "endYear": 1800,
+    "region": "第一次工业革命",
+    "coordinates": [
+      -2.24,
+      53.48
+    ],
+    "chapter": 7,
+    "lesson": 19,
+    "type": "工业革命",
+    "explanation": "英国纺织业机械化，工厂制度发展。能源、资本与劳动组织共同推动工业化。",
+    "visual": "textile：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://whc.unesco.org/en/list/1030/",
+      "https://blog.sciencemuseum.org.uk/steaming-through-the-centuries/"
+    ],
+    "sourceIds": [
+      "derwent",
+      "industrial"
+    ],
+    "dateDisputed": true,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "steam",
+    "name": "蒸汽，让动力摆脱水流限制",
+    "mapLabel": "蒸汽，让动力摆脱水流限制",
+    "startYear": 1769,
+    "endYear": 1830,
+    "region": "第一次工业革命",
+    "coordinates": [
+      -2,
+      53
+    ],
+    "chapter": 7,
+    "lesson": 19,
+    "type": "技术成就",
+    "explanation": "瓦特等人改进蒸汽机，扩大动力应用。生产不再只依赖水力，机器进入更多行业。",
+    "visual": "steam：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.historicenvironment.scot/about-us/our-work/commemorative-plaques/explore/james-watt/",
+      "https://www.nms.ac.uk/discover-catalogue/the-newcomen-engine-and-its-role-in-britains-industrial-revolution",
+      "https://collection.sciencemuseumgroup.org.uk/objects/co50948/rotative-steam-engine-by-boulton-and-watt-1788"
+    ],
+    "sourceIds": [
+      "watt",
+      "steam",
+      "engine"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "rail",
+    "name": "铁路，改变距离与速度",
+    "mapLabel": "铁路，改变距离与速度",
+    "startYear": 1830,
+    "endYear": 1830,
+    "region": "第一次工业革命",
+    "coordinates": [
+      -2.6,
+      53.45
+    ],
+    "chapter": 7,
+    "lesson": 19,
+    "type": "交通技术",
+    "explanation": "利物浦—曼彻斯特铁路开通。铁路加速运输，推动工业城市与市场扩展。",
+    "visual": "rail：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://collection.sciencemuseumgroup.org.uk/people/ap48/liverpool-manchester-railway-co"
+    ],
+    "sourceIds": [
+      "rail"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "workers",
+    "name": "工业增长，也带来社会问题",
+    "mapLabel": "工业增长，也带来社会问题",
+    "startYear": 1830,
+    "endYear": 1849,
+    "region": "马克思主义的诞生",
+    "coordinates": [
+      -1,
+      53
+    ],
+    "chapter": 7,
+    "lesson": 20,
+    "type": "工人运动",
+    "explanation": "工人面对长工时和危险劳动，组织抗争。工人运动推动改革，也提出新的社会问题。",
+    "visual": "workers：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/19thcentury/overview/factoryact/",
+      "https://www.nationalarchives.gov.uk/education/teaching-resources/what-was-chartism/"
+    ],
+    "sourceIds": [
+      "factory",
+      "chartist"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "marx",
+    "name": "从工业社会，提出新的分析",
+    "mapLabel": "从工业社会，提出新的分析",
+    "startYear": 1844,
+    "endYear": 1847,
+    "region": "马克思主义的诞生",
+    "coordinates": [
+      6,
+      50
+    ],
+    "chapter": 7,
+    "lesson": 20,
+    "type": "思想形成",
+    "explanation": "马克思与恩格斯合作，研究资本主义。他们从生产关系和阶级矛盾提出理论。",
+    "visual": "marx：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://plato.stanford.edu/entries/marx/",
+      "https://plato.stanford.edu/entries/engels/"
+    ],
+    "sourceIds": [
+      "marx",
+      "engels"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "manifesto",
+    "name": "《共产党宣言》，公开发表",
+    "mapLabel": "《共产党宣言》，公开发表",
+    "startYear": 1848,
+    "endYear": 1848,
+    "region": "马克思主义的诞生",
+    "coordinates": [
+      -0.12,
+      51.5
+    ],
+    "chapter": 7,
+    "lesson": 20,
+    "type": "理论与政治主张",
+    "explanation": "《共产党宣言》发表，阐述新的政治主张。通常以此作为马克思主义诞生的标志。",
+    "visual": "manifesto：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/",
+      "https://www.unesco.org/en/memory-world/manifest-der-kommunistischen-partei-draft-manuscript-page-and-das-kapital-erster-band-karl-marxs",
+      "https://plato.stanford.edu/entries/marx/"
+    ],
+    "sourceIds": [
+      "manifesto",
+      "iish",
+      "marx"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "international",
+    "name": "跨越国界，联合工人组织",
+    "mapLabel": "跨越国界，联合工人组织",
+    "startYear": 1864,
+    "endYear": 1864,
+    "region": "第一国际和巴黎公社",
+    "coordinates": [
+      -0.12,
+      51.5
+    ],
+    "chapter": 7,
+    "lesson": 21,
+    "type": "工人运动",
+    "explanation": "第一国际成立，联合多国工人组织。它促进国际合作，内部也存在路线分歧。",
+    "visual": "international：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.bishopsgate.org.uk/archives/our-archives-online-2/first-international-minute-book/",
+      "https://phm.org.uk/collections-display/?irn=1677"
+    ],
+    "sourceIds": [
+      "international",
+      "internationalCertificate"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  },
+  {
+    "id": "commune",
+    "name": "巴黎公社，短暂的政治尝试",
+    "mapLabel": "巴黎公社，短暂的政治尝试",
+    "startYear": 1871,
+    "endYear": 1871,
+    "region": "第一国际和巴黎公社",
+    "coordinates": [
+      2.35,
+      48.86
+    ],
+    "chapter": 7,
+    "lesson": 21,
+    "type": "革命",
+    "explanation": "巴黎公社短暂执政，随后遭到镇压。它成为工人政权探索的重要历史经验。",
+    "visual": "commune：独立场景构图；概念示意，非遗址复原",
+    "sources": [
+      "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/troisieme-republique/la-commune-de-paris"
+    ],
+    "sourceIds": [
+      "commune"
+    ],
+    "dateDisputed": false,
+    "approximateMap": true,
+    "sourceNotes": "坐标为代表性地点。底图为现代自然地理；不绘制现代国界或冒充精确古代疆域。历史意义为综合解释；理论主张单独归属。"
+  }
+]

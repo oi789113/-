@@ -1,0 +1,1912 @@
+[
+  {
+    "id": "s01",
+    "key": "uruk",
+    "chapter": 1,
+    "chapterTitle": "文明的产生与古代亚非文明",
+    "lesson": 1,
+    "lessonTitle": "从原始社会到奴隶社会",
+    "startFrame": 0,
+    "endFrame": 360,
+    "start": 0.0,
+    "end": 6.0,
+    "duration": 6,
+    "mode": "map",
+    "title": "河流之间，城市出现",
+    "date": "约公元前3500年",
+    "historicalYear": -3500,
+    "endHistoricalYear": -3200,
+    "caption": [
+      "乌鲁克逐渐成长为早期城市。",
+      "农业剩余，让分工与城市生活成为可能。"
+    ],
+    "significance": "农业剩余，让分工与城市生活成为可能。",
+    "focus": [
+      44.7,
+      32.5
+    ],
+    "zoom": 7,
+    "events": [
+      "uruk"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.metmuseum.org/essays/uruk-the-first-city"
+    ],
+    "transition": "travel",
+    "readingRate": 4.67,
+    "approximateMap": true
+  },
+  {
+    "id": "s02",
+    "key": "irrigation",
+    "chapter": 1,
+    "chapterTitle": "文明的产生与古代亚非文明",
+    "lesson": 1,
+    "lessonTitle": "从原始社会到奴隶社会",
+    "startFrame": 360,
+    "endFrame": 720,
+    "start": 6.0,
+    "end": 12.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "从协作，到社会分化",
+    "date": "约公元前3500年起",
+    "historicalYear": -3500,
+    "endHistoricalYear": -3000,
+    "caption": [
+      "财富和权力分化，早期国家形成。",
+      "奴隶制逐渐发展，各地经历并不相同。"
+    ],
+    "significance": "奴隶制逐渐发展，各地经历并不相同。",
+    "focus": [
+      44,
+      32
+    ],
+    "zoom": 6,
+    "events": [
+      "irrigation"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.metmuseum.org/essays/uruk-the-first-city",
+      "https://www.metmuseum.org/essays/art-of-the-first-cities-in-the-third-millennium-b-c"
+    ],
+    "transition": "iris",
+    "readingRate": 4.67,
+    "approximateMap": true
+  },
+  {
+    "id": "s03",
+    "key": "tablet",
+    "chapter": 1,
+    "chapterTitle": "文明的产生与古代亚非文明",
+    "lesson": 2,
+    "lessonTitle": "古代两河流域",
+    "startFrame": 720,
+    "endFrame": 1080,
+    "start": 12.0,
+    "end": 18.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "把数量，刻进泥板",
+    "date": "约公元前3300年",
+    "historicalYear": -3300,
+    "endHistoricalYear": -3000,
+    "caption": [
+      "两河流域出现早期楔形文字。",
+      "记录物资，让管理超越个人记忆。"
+    ],
+    "significance": "记录物资，让管理超越个人记忆。",
+    "focus": [
+      45.64,
+      31.32
+    ],
+    "zoom": 6,
+    "events": [
+      "tablet"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.metmuseum.org/essays/the-origins-of-writing"
+    ],
+    "transition": "match",
+    "readingRate": 4.17,
+    "approximateMap": true
+  },
+  {
+    "id": "s04",
+    "key": "hammurabi",
+    "chapter": 1,
+    "chapterTitle": "文明的产生与古代亚非文明",
+    "lesson": 2,
+    "lessonTitle": "古代两河流域",
+    "startFrame": 1080,
+    "endFrame": 1440,
+    "start": 18.0,
+    "end": 24.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "法律，被公开刻在石上",
+    "date": "约公元前1750年",
+    "historicalYear": -1750,
+    "endHistoricalYear": -1750,
+    "caption": [
+      "《汉谟拉比法典》汇集法律判例。",
+      "作为早期法律遗存，它体现王权与等级。"
+    ],
+    "significance": "作为早期法律遗存，它体现王权与等级。",
+    "focus": [
+      44.42,
+      32.54
+    ],
+    "zoom": 6,
+    "events": [
+      "hammurabi"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.louvre.fr/en/the-code-of-hammurabi"
+    ],
+    "transition": "rise",
+    "readingRate": 4.67,
+    "approximateMap": true
+  },
+  {
+    "id": "s05",
+    "key": "pyramid",
+    "chapter": 1,
+    "chapterTitle": "文明的产生与古代亚非文明",
+    "lesson": 3,
+    "lessonTitle": "古代埃及",
+    "startFrame": 1440,
+    "endFrame": 1800,
+    "start": 24.0,
+    "end": 30.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "尼罗河畔，国家与工程",
+    "date": "约公元前3100—前2500年",
+    "historicalYear": -3100,
+    "endHistoricalYear": -2500,
+    "caption": [
+      "埃及走向统一，后来建起金字塔。",
+      "大型工程体现王权和国家组织能力。"
+    ],
+    "significance": "大型工程体现王权和国家组织能力。",
+    "focus": [
+      31,
+      27
+    ],
+    "zoom": 4,
+    "events": [
+      "pyramid"
+    ],
+    "routes": [],
+    "sources": [
+      "https://egymonuments.gov.eg/en/historical-periods/early-dynastic-period",
+      "https://whc.unesco.org/en/list/86/"
+    ],
+    "transition": "travel",
+    "readingRate": 4.67,
+    "approximateMap": true
+  },
+  {
+    "id": "s06",
+    "key": "egypt_calendar",
+    "chapter": 1,
+    "chapterTitle": "文明的产生与古代亚非文明",
+    "lesson": 3,
+    "lessonTitle": "古代埃及",
+    "startFrame": 1800,
+    "endFrame": 2160,
+    "start": 30.0,
+    "end": 36.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "观察天象，记录时间",
+    "date": "公元前第三千纪起",
+    "historicalYear": -3000,
+    "endHistoricalYear": -2000,
+    "caption": [
+      "埃及人发展文字、历法与测量。",
+      "知识帮助安排农事，也服务国家管理。"
+    ],
+    "significance": "知识帮助安排农事，也服务国家管理。",
+    "focus": [
+      31.2,
+      29.9
+    ],
+    "zoom": 4,
+    "events": [
+      "egypt_calendar"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.britannica.com/science/Egyptian-calendar",
+      "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_Ancient_Egypt_A_Resource_for_Educators.pdf"
+    ],
+    "transition": "iris",
+    "readingRate": 4.5,
+    "approximateMap": true
+  },
+  {
+    "id": "s07",
+    "key": "harappa",
+    "chapter": 1,
+    "chapterTitle": "文明的产生与古代亚非文明",
+    "lesson": 4,
+    "lessonTitle": "古代印度",
+    "startFrame": 2160,
+    "endFrame": 2520,
+    "start": 36.0,
+    "end": 42.0,
+    "duration": 6,
+    "mode": "map",
+    "title": "城市之下，还有排水系统",
+    "date": "约公元前2600—前1900年",
+    "historicalYear": -2600,
+    "endHistoricalYear": -1900,
+    "caption": [
+      "印度河城市有街区和排水设施。",
+      "规划与公共工程，反映复杂社会组织。"
+    ],
+    "significance": "规划与公共工程，反映复杂社会组织。",
+    "focus": [
+      69,
+      28
+    ],
+    "zoom": 4.7,
+    "events": [
+      "harappa"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.metmuseum.org/toah/ht/02/ssa.html"
+    ],
+    "transition": "match",
+    "readingRate": 4.67,
+    "approximateMap": true
+  },
+  {
+    "id": "s08",
+    "key": "caste",
+    "chapter": 1,
+    "chapterTitle": "文明的产生与古代亚非文明",
+    "lesson": 4,
+    "lessonTitle": "古代印度",
+    "startFrame": 2520,
+    "endFrame": 2880,
+    "start": 42.0,
+    "end": 48.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "等级，被写进社会秩序",
+    "date": "约公元前第一千纪",
+    "historicalYear": -1000,
+    "endHistoricalYear": -500,
+    "caption": [
+      "古印度逐渐形成种姓等级秩序。",
+      "出身限制身份与交往，并非社会平等。"
+    ],
+    "significance": "出身限制身份与交往，并非社会平等。",
+    "focus": [
+      80.5,
+      26.8
+    ],
+    "zoom": 3,
+    "events": [
+      "caste"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.britannica.com/topic/varna-Hinduism"
+    ],
+    "transition": "rise",
+    "readingRate": 4.67,
+    "approximateMap": true
+  },
+  {
+    "id": "s09",
+    "key": "buddhism",
+    "chapter": 1,
+    "chapterTitle": "文明的产生与古代亚非文明",
+    "lesson": 4,
+    "lessonTitle": "古代印度",
+    "startFrame": 2880,
+    "endFrame": 3240,
+    "start": 48.0,
+    "end": 54.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "苦难，能否得到解脱？",
+    "date": "约公元前6—前5世纪",
+    "historicalYear": -600,
+    "endHistoricalYear": -400,
+    "caption": [
+      "佛教兴起，强调修行与解脱。",
+      "它挑战祭祀特权，影响亚洲思想文化。"
+    ],
+    "significance": "它挑战祭祀特权，影响亚洲思想文化。",
+    "focus": [
+      85,
+      25
+    ],
+    "zoom": 3,
+    "events": [
+      "buddhism"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.metmuseum.org/essays/buddhism-and-buddhist-art"
+    ],
+    "transition": "travel",
+    "readingRate": 4.33,
+    "approximateMap": true
+  },
+  {
+    "id": "s10",
+    "key": "agora",
+    "chapter": 2,
+    "chapterTitle": "古代欧洲文明",
+    "lesson": 5,
+    "lessonTitle": "古代希腊",
+    "startFrame": 3240,
+    "endFrame": 3600,
+    "start": 54.0,
+    "end": 60.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "谁能在城邦中发言？",
+    "date": "公元前5世纪",
+    "historicalYear": -500,
+    "endHistoricalYear": -400,
+    "caption": [
+      "雅典成年男性公民参与政治。",
+      "民主具有开创性，也排除妇女与奴隶。"
+    ],
+    "significance": "民主具有开创性，也排除妇女与奴隶。",
+    "focus": [
+      23.73,
+      37.98
+    ],
+    "zoom": 5,
+    "events": [
+      "agora"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c",
+      "https://www.britannica.com/place/ancient-Greece/The-reforms-of-Cleisthenes"
+    ],
+    "transition": "iris",
+    "readingRate": 4.5,
+    "approximateMap": true
+  },
+  {
+    "id": "s11",
+    "key": "alexander",
+    "chapter": 2,
+    "chapterTitle": "古代欧洲文明",
+    "lesson": 5,
+    "lessonTitle": "古代希腊",
+    "startFrame": 3600,
+    "endFrame": 3960,
+    "start": 60.0,
+    "end": 66.0,
+    "duration": 6,
+    "mode": "map",
+    "title": "征服，打开希腊化时代",
+    "date": "公元前334—前323年",
+    "historicalYear": -334,
+    "endHistoricalYear": -323,
+    "caption": [
+      "亚历山大东征，建立庞大帝国。",
+      "战争带来破坏，也推动跨地区文化交融。"
+    ],
+    "significance": "战争带来破坏，也推动跨地区文化交融。",
+    "focus": [
+      45,
+      32
+    ],
+    "zoom": 2.7,
+    "events": [
+      "alexander"
+    ],
+    "routes": [
+      "alex-west-asia",
+      "alex-east"
+    ],
+    "sources": [
+      "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c",
+      "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c"
+    ],
+    "transition": "match",
+    "readingRate": 4.67,
+    "approximateMap": true
+  },
+  {
+    "id": "s12",
+    "key": "roman_republic",
+    "chapter": 2,
+    "chapterTitle": "古代欧洲文明",
+    "lesson": 6,
+    "lessonTitle": "古代罗马",
+    "startFrame": 3960,
+    "endFrame": 4320,
+    "start": 66.0,
+    "end": 72.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "从君王，到共和国",
+    "date": "传统纪年：公元前509年",
+    "historicalYear": -509,
+    "endHistoricalYear": -509,
+    "caption": [
+      "传统记载中，罗马从王政转向共和国。",
+      "贵族与平民斗争，推动公民政治发展。"
+    ],
+    "significance": "贵族与平民斗争，推动公民政治发展。",
+    "focus": [
+      12.48,
+      41.89
+    ],
+    "zoom": 4,
+    "events": [
+      "roman_republic"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.britannica.com/place/ancient-Rome/The-early-Republic-509-280-bce",
+      "https://resources.metmuseum.org/resources/metpublications/pdf/Roman_Art_A_Resource_for_Educators.pdf"
+    ],
+    "transition": "rise",
+    "readingRate": 5.0,
+    "approximateMap": true
+  },
+  {
+    "id": "s13",
+    "key": "twelve_tables",
+    "chapter": 2,
+    "chapterTitle": "古代欧洲文明",
+    "lesson": 6,
+    "lessonTitle": "古代罗马",
+    "startFrame": 4320,
+    "endFrame": 4680,
+    "start": 72.0,
+    "end": 78.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "让规则，不再只被少数人掌握",
+    "date": "公元前451—前450年",
+    "historicalYear": -451,
+    "endHistoricalYear": -450,
+    "caption": [
+      "《十二铜表法》把法律公开成文。",
+      "它限制任意解释，仍保留身份不平等。"
+    ],
+    "significance": "它限制任意解释，仍保留身份不平等。",
+    "focus": [
+      12.48,
+      41.89
+    ],
+    "zoom": 4,
+    "events": [
+      "twelve_tables"
+    ],
+    "routes": [],
+    "sources": [
+      "https://avalon.law.yale.edu/ancient/twelve_tables.asp"
+    ],
+    "transition": "travel",
+    "readingRate": 4.5,
+    "approximateMap": true
+  },
+  {
+    "id": "s14",
+    "key": "rome",
+    "chapter": 2,
+    "chapterTitle": "古代欧洲文明",
+    "lesson": 6,
+    "lessonTitle": "古代罗马",
+    "startFrame": 4680,
+    "endFrame": 5040,
+    "start": 78.0,
+    "end": 84.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "共和国，走向帝国",
+    "date": "公元前27年—公元2世纪",
+    "historicalYear": -27,
+    "endHistoricalYear": 200,
+    "caption": [
+      "罗马进入帝国时期，兴建道路与水渠。",
+      "法律和工程影响后世，扩张依赖征服。"
+    ],
+    "significance": "法律和工程影响后世，扩张依赖征服。",
+    "focus": [
+      12,
+      42
+    ],
+    "zoom": 4,
+    "events": [
+      "rome"
+    ],
+    "routes": [],
+    "sources": [
+      "https://resources.metmuseum.org/resources/metpublications/pdf/Roman_Art_A_Resource_for_Educators.pdf"
+    ],
+    "transition": "iris",
+    "readingRate": 5.0,
+    "approximateMap": true
+  },
+  {
+    "id": "s15",
+    "key": "rome_split",
+    "chapter": 2,
+    "chapterTitle": "古代欧洲文明",
+    "lesson": 6,
+    "lessonTitle": "古代罗马",
+    "startFrame": 5040,
+    "endFrame": 5400,
+    "start": 84.0,
+    "end": 90.0,
+    "duration": 6,
+    "mode": "map",
+    "title": "西部终结，东部延续",
+    "date": "395年 / 476年",
+    "historicalYear": 395,
+    "endHistoricalYear": 476,
+    "caption": [
+      "罗马东西分治；476年西部帝位终结。",
+      "东罗马延续，古代制度并未同时消失。"
+    ],
+    "significance": "东罗马延续，古代制度并未同时消失。",
+    "focus": [
+      20,
+      39
+    ],
+    "zoom": 3.4,
+    "events": [
+      "rome-division",
+      "west-rome",
+      "east-rome"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.metmuseum.org/essays/byzantium-ca-330-1453"
+    ],
+    "transition": "match",
+    "readingRate": 5.17,
+    "approximateMap": true
+  },
+  {
+    "id": "s16",
+    "key": "frankish",
+    "chapter": 3,
+    "chapterTitle": "封建时代的欧洲",
+    "lesson": 7,
+    "lessonTitle": "法兰克王国和西欧封建制度",
+    "startFrame": 5400,
+    "endFrame": 5760,
+    "start": 90.0,
+    "end": 96.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "西欧，形成新的王国",
+    "date": "481年起 / 800年",
+    "historicalYear": 481,
+    "endHistoricalYear": 800,
+    "caption": [
+      "法兰克王国扩展，查理曼加冕称帝。",
+      "王权与教会合作，重塑西欧政治秩序。"
+    ],
+    "significance": "王权与教会合作，重塑西欧政治秩序。",
+    "focus": [
+      5,
+      48
+    ],
+    "zoom": 3,
+    "events": [
+      "frankish"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.britannica.com/biography/Clovis-I",
+      "https://www.britannica.com/biography/Charlemagne"
+    ],
+    "transition": "rise",
+    "readingRate": 4.83,
+    "approximateMap": true
+  },
+  {
+    "id": "s17",
+    "key": "feudal",
+    "chapter": 3,
+    "chapterTitle": "封建时代的欧洲",
+    "lesson": 7,
+    "lessonTitle": "法兰克王国和西欧封建制度",
+    "startFrame": 5760,
+    "endFrame": 6120,
+    "start": 96.0,
+    "end": 102.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "土地与义务，层层相连",
+    "date": "约8—11世纪",
+    "historicalYear": 700,
+    "endHistoricalYear": 1100,
+    "caption": [
+      "封君封臣以土地和义务建立联系。",
+      "庄园劳动支撑领主，农民承担沉重负担。"
+    ],
+    "significance": "庄园劳动支撑领主，农民承担沉重负担。",
+    "focus": [
+      3,
+      48
+    ],
+    "zoom": 3,
+    "events": [
+      "feudal"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.britannica.com/topic/feudalism"
+    ],
+    "transition": "travel",
+    "readingRate": 5.0,
+    "approximateMap": true
+  },
+  {
+    "id": "s18",
+    "key": "town_charter",
+    "chapter": 3,
+    "chapterTitle": "封建时代的欧洲",
+    "lesson": 8,
+    "lessonTitle": "西欧的城市和大学",
+    "startFrame": 6120,
+    "endFrame": 6480,
+    "start": 102.0,
+    "end": 108.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "城市，争取自己的规则",
+    "date": "约10—13世纪",
+    "historicalYear": 900,
+    "endHistoricalYear": 1300,
+    "caption": [
+      "西欧城市复兴，部分取得自治权。",
+      "市民和商业成长，改变庄园之外的生活。"
+    ],
+    "significance": "市民和商业成长，改变庄园之外的生活。",
+    "focus": [
+      2.5,
+      49
+    ],
+    "zoom": 3,
+    "events": [
+      "town_charter"
+    ],
+    "routes": [],
+    "sources": [
+      "https://dur.ac.uk/research/institutes-and-centres/medieval-early-modern-studies/research/cities-in-history-archives-and-traces-1100-1700/governing/"
+    ],
+    "transition": "iris",
+    "readingRate": 4.83,
+    "approximateMap": true
+  },
+  {
+    "id": "s19",
+    "key": "university",
+    "chapter": 3,
+    "chapterTitle": "封建时代的欧洲",
+    "lesson": 8,
+    "lessonTitle": "西欧的城市和大学",
+    "startFrame": 6480,
+    "endFrame": 6840,
+    "start": 108.0,
+    "end": 114.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "学问，形成新的共同体",
+    "date": "约11—13世纪",
+    "historicalYear": 1088,
+    "endHistoricalYear": 1300,
+    "caption": [
+      "大学逐渐兴起，师生形成共同体。",
+      "教学与辩论，推动知识传承和专业教育。"
+    ],
+    "significance": "教学与辩论，推动知识传承和专业教育。",
+    "focus": [
+      11.34,
+      44.49
+    ],
+    "zoom": 5,
+    "events": [
+      "university"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.unibo.it/en/university/who-we-are/our-history"
+    ],
+    "transition": "match",
+    "readingRate": 4.83,
+    "approximateMap": true
+  },
+  {
+    "id": "s20",
+    "key": "justinian",
+    "chapter": 3,
+    "chapterTitle": "封建时代的欧洲",
+    "lesson": 9,
+    "lessonTitle": "拜占庭帝国",
+    "startFrame": 6840,
+    "endFrame": 7200,
+    "start": 114.0,
+    "end": 120.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "把罗马法，整理成体系",
+    "date": "529—534年及以后",
+    "historicalYear": 529,
+    "endHistoricalYear": 534,
+    "caption": [
+      "《罗马民法大全》系统整理罗马法律。",
+      "它成为后世大陆法发展的重要源头。"
+    ],
+    "significance": "它成为后世大陆法发展的重要源头。",
+    "focus": [
+      28.98,
+      41.01
+    ],
+    "zoom": 5,
+    "events": [
+      "justinian"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.uwyo.edu/lawlib/blume-justinian/ajc-edition-2/novels/novels.html"
+    ],
+    "transition": "rise",
+    "readingRate": 4.83,
+    "approximateMap": true
+  },
+  {
+    "id": "s21",
+    "key": "byzantium",
+    "chapter": 3,
+    "chapterTitle": "封建时代的欧洲",
+    "lesson": 9,
+    "lessonTitle": "拜占庭帝国",
+    "startFrame": 7200,
+    "endFrame": 7560,
+    "start": 120.0,
+    "end": 126.0,
+    "duration": 6,
+    "mode": "map",
+    "title": "延续千年，留下文化遗产",
+    "date": "330—1453年",
+    "historicalYear": 330,
+    "endHistoricalYear": 1453,
+    "caption": [
+      "拜占庭延续罗马传统，保存古典知识。",
+      "1453年覆亡，法律与文化影响仍在。"
+    ],
+    "significance": "1453年覆亡，法律与文化影响仍在。",
+    "focus": [
+      28.98,
+      41.01
+    ],
+    "zoom": 4,
+    "events": [
+      "byzantium"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.metmuseum.org/essays/byzantium-ca-330-1453"
+    ],
+    "transition": "travel",
+    "readingRate": 5.17,
+    "approximateMap": true
+  },
+  {
+    "id": "s22",
+    "key": "taika",
+    "chapter": 4,
+    "chapterTitle": "中古时期的亚洲、非洲和美洲",
+    "lesson": 10,
+    "lessonTitle": "封建时代的日本",
+    "startFrame": 7560,
+    "endFrame": 7920,
+    "start": 126.0,
+    "end": 132.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "改革，向中央集权推进",
+    "date": "645年起",
+    "historicalYear": 645,
+    "endHistoricalYear": 700,
+    "caption": [
+      "日本大化改新，借鉴唐朝等制度。",
+      "改革逐步加强中央权力，并非一朝完成。"
+    ],
+    "significance": "改革逐步加强中央权力，并非一朝完成。",
+    "focus": [
+      135.8,
+      34.5
+    ],
+    "zoom": 6,
+    "events": [
+      "taika"
+    ],
+    "routes": [],
+    "sources": [
+      "https://afe.easia.columbia.edu/main_pop/ps/ps_japan-taika.htm"
+    ],
+    "transition": "iris",
+    "readingRate": 4.83,
+    "approximateMap": true
+  },
+  {
+    "id": "s23",
+    "key": "shogunate",
+    "chapter": 4,
+    "chapterTitle": "中古时期的亚洲、非洲和美洲",
+    "lesson": 10,
+    "lessonTitle": "封建时代的日本",
+    "startFrame": 7920,
+    "endFrame": 8280,
+    "start": 132.0,
+    "end": 138.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "武士与将军，掌握政治力量",
+    "date": "1185年起 / 1192年",
+    "historicalYear": 1185,
+    "endHistoricalYear": 1192,
+    "caption": [
+      "源赖朝建立镰仓政权，后获将军称号。",
+      "幕府时代开启，天皇与武家权力并存。"
+    ],
+    "significance": "幕府时代开启，天皇与武家权力并存。",
+    "focus": [
+      139.55,
+      35.32
+    ],
+    "zoom": 6,
+    "events": [
+      "shogunate"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.metmuseum.org/essays/kamakura-and-nanbokucho-periods-1185-1392",
+      "https://www.britannica.com/biography/Minamoto-Yoritomo"
+    ],
+    "transition": "match",
+    "readingRate": 5.0,
+    "approximateMap": true
+  },
+  {
+    "id": "s24",
+    "key": "arabia",
+    "chapter": 4,
+    "chapterTitle": "中古时期的亚洲、非洲和美洲",
+    "lesson": 11,
+    "lessonTitle": "阿拉伯帝国",
+    "startFrame": 8280,
+    "endFrame": 8640,
+    "start": 138.0,
+    "end": 144.0,
+    "duration": 6,
+    "mode": "map",
+    "title": "信仰与政权，在半岛兴起",
+    "date": "7—8世纪",
+    "historicalYear": 610,
+    "endHistoricalYear": 750,
+    "caption": [
+      "伊斯兰教兴起，阿拉伯政权向外扩展。",
+      "新的政治与文化共同体逐渐形成。"
+    ],
+    "significance": "新的政治与文化共同体逐渐形成。",
+    "focus": [
+      43,
+      28
+    ],
+    "zoom": 2.5,
+    "events": [
+      "arabia"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.metmuseum.org/exhibitions/listings/2012/byzantium-and-islam",
+      "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-661-750"
+    ],
+    "transition": "rise",
+    "readingRate": 4.83,
+    "approximateMap": true
+  },
+  {
+    "id": "s25",
+    "key": "astrolabe",
+    "chapter": 4,
+    "chapterTitle": "中古时期的亚洲、非洲和美洲",
+    "lesson": 11,
+    "lessonTitle": "阿拉伯帝国",
+    "startFrame": 8640,
+    "endFrame": 9000,
+    "start": 144.0,
+    "end": 150.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "翻译之后，继续研究",
+    "date": "8—13世纪",
+    "historicalYear": 750,
+    "endHistoricalYear": 1258,
+    "caption": [
+      "阿拉伯世界学者翻译并发展多地知识。",
+      "数学、医学与天文学影响后来世界。"
+    ],
+    "significance": "数学、医学与天文学影响后来世界。",
+    "focus": [
+      44.36,
+      33.31
+    ],
+    "zoom": 3,
+    "events": [
+      "astrolabe"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258",
+      "https://doi.org/10.1086/698236"
+    ],
+    "transition": "travel",
+    "readingRate": 5.0,
+    "approximateMap": true
+  },
+  {
+    "id": "s26",
+    "key": "mali",
+    "chapter": 4,
+    "chapterTitle": "中古时期的亚洲、非洲和美洲",
+    "lesson": 12,
+    "lessonTitle": "中古时期的非洲和美洲",
+    "startFrame": 9000,
+    "endFrame": 9360,
+    "start": 150.0,
+    "end": 156.0,
+    "duration": 6,
+    "mode": "map",
+    "title": "非洲，拥有自己的国家与城市",
+    "date": "约13—15世纪",
+    "historicalYear": 1200,
+    "endHistoricalYear": 1500,
+    "caption": [
+      "马里与大津巴布韦等社会发展。",
+      "国家、城市和建筑展现非洲多样历史。"
+    ],
+    "significance": "国家、城市和建筑展现非洲多样历史。",
+    "focus": [
+      8,
+      0
+    ],
+    "zoom": 1.5,
+    "events": [
+      "mali",
+      "zimbabwe"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.metmuseum.org/essays/the-trans-saharan-gold-trade-7th-14th-century",
+      "https://whc.unesco.org/en/list/364/"
+    ],
+    "transition": "iris",
+    "readingRate": 4.67,
+    "approximateMap": true
+  },
+  {
+    "id": "s27",
+    "key": "americas",
+    "chapter": 4,
+    "chapterTitle": "中古时期的亚洲、非洲和美洲",
+    "lesson": 12,
+    "lessonTitle": "中古时期的非洲和美洲",
+    "startFrame": 9360,
+    "endFrame": 9720,
+    "start": 156.0,
+    "end": 162.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "大洋彼岸，文明独立生长",
+    "date": "约3—16世纪",
+    "historicalYear": 250,
+    "endHistoricalYear": 1533,
+    "caption": [
+      "玛雅发展文字历法；阿兹特克、印加兴起。",
+      "美洲早有复杂社会，绝非等待发现的空地。"
+    ],
+    "significance": "美洲早有复杂社会，绝非等待发现的空地。",
+    "focus": [
+      -89,
+      8
+    ],
+    "zoom": 1.9,
+    "events": [
+      "americas"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.marc.ucsb.edu/research/maya/ancient-maya-civilization/classic-period",
+      "https://www.loc.gov/exhibits/1492/america.html"
+    ],
+    "transition": "match",
+    "readingRate": 5.5,
+    "approximateMap": true
+  },
+  {
+    "id": "s28",
+    "key": "perspective",
+    "chapter": 5,
+    "chapterTitle": "走向近代",
+    "lesson": 13,
+    "lessonTitle": "西欧经济社会发展与文艺复兴运动",
+    "startFrame": 9720,
+    "endFrame": 10080,
+    "start": 162.0,
+    "end": 168.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "重新观看人，与现实世界",
+    "date": "14—16世纪",
+    "historicalYear": 1300,
+    "endHistoricalYear": 1600,
+    "caption": [
+      "文艺复兴重研古典文化，强调人的价值。",
+      "人文主义推动艺术、思想与文化革新。"
+    ],
+    "significance": "人文主义推动艺术、思想与文化革新。",
+    "focus": [
+      12,
+      43
+    ],
+    "zoom": 3,
+    "events": [
+      "perspective"
+    ],
+    "routes": [],
+    "sources": [
+      "https://crrs.library.utoronto.ca/exhibits/show/vic449/vic449exhibit"
+    ],
+    "transition": "rise",
+    "readingRate": 5.17,
+    "approximateMap": true
+  },
+  {
+    "id": "s29",
+    "key": "manufactory",
+    "chapter": 5,
+    "chapterTitle": "走向近代",
+    "lesson": 13,
+    "lessonTitle": "西欧经济社会发展与文艺复兴运动",
+    "startFrame": 10080,
+    "endFrame": 10440,
+    "start": 168.0,
+    "end": 174.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "生产，开始换一种组织方式",
+    "date": "约14—16世纪",
+    "historicalYear": 1300,
+    "endHistoricalYear": 1600,
+    "caption": [
+      "租地农场与手工工场逐渐发展。",
+      "雇佣劳动和经营扩大，积累近代社会条件。"
+    ],
+    "significance": "雇佣劳动和经营扩大，积累近代社会条件。",
+    "focus": [
+      2,
+      50
+    ],
+    "zoom": 3,
+    "events": [
+      "manufactory"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.britannica.com/topic/domestic-system",
+      "https://www.britannica.com/topic/history-of-Europe/The-emergence-of-modern-Europe-1500-1648"
+    ],
+    "transition": "travel",
+    "readingRate": 5.0,
+    "approximateMap": true
+  },
+  {
+    "id": "s30",
+    "key": "voyages",
+    "chapter": 5,
+    "chapterTitle": "走向近代",
+    "lesson": 14,
+    "lessonTitle": "探寻新航路",
+    "startFrame": 10440,
+    "endFrame": 10800,
+    "start": 174.0,
+    "end": 180.0,
+    "duration": 6,
+    "mode": "map",
+    "title": "跨越海洋，新的航路出现",
+    "date": "1492年 / 1498年 / 1519—1522年",
+    "historicalYear": 1492,
+    "endHistoricalYear": 1522,
+    "caption": [
+      "横渡大西洋、绕非洲与首次环球航行。",
+      "新航路加强全球联系，也打开殖民通道。"
+    ],
+    "significance": "新航路加强全球联系，也打开殖民通道。",
+    "focus": [
+      10,
+      10
+    ],
+    "zoom": 1,
+    "events": [
+      "voyages"
+    ],
+    "routes": [
+      "columbus-1492",
+      "dagama-1498",
+      "magellan-1519"
+    ],
+    "sources": [
+      "https://www.loc.gov/exhibits/1492/",
+      "https://www.parlamento.pt/VisitaParlamento/Paginas/BiogVascodaGama.aspx",
+      "https://www.unesco.org/en/memory-world/first-voyage-circumnavigation-fernao-de-magalhaes-and-juan-sebastian-elcano-1519-1522",
+      "https://origins.osu.edu/milestones/magellan-circumnavigation-earth"
+    ],
+    "transition": "iris",
+    "readingRate": 5.17,
+    "approximateMap": true
+  },
+  {
+    "id": "s31",
+    "key": "conquest",
+    "chapter": 5,
+    "chapterTitle": "走向近代",
+    "lesson": 15,
+    "lessonTitle": "早期殖民掠夺",
+    "startFrame": 10800,
+    "endFrame": 11160,
+    "start": 180.0,
+    "end": 186.0,
+    "duration": 6,
+    "mode": "map",
+    "title": "航路之后，是殖民征服",
+    "date": "1521年 / 1532—1533年",
+    "historicalYear": 1521,
+    "endHistoricalYear": 1533,
+    "caption": [
+      "阿兹特克、印加的统治中心遭征服。",
+      "战争、疾病与强迫劳动造成深重灾难。"
+    ],
+    "significance": "战争、疾病与强迫劳动造成深重灾难。",
+    "focus": [
+      -88,
+      3
+    ],
+    "zoom": 2,
+    "events": [
+      "aztec-conquest",
+      "inca-conquest"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.loc.gov/exhibits/1492/eurocla.html",
+      "https://www.aeaweb.org/articles?id=10.1257/jep.24.2.163"
+    ],
+    "transition": "match",
+    "readingRate": 4.83,
+    "approximateMap": true
+  },
+  {
+    "id": "s32",
+    "key": "slavery",
+    "chapter": 5,
+    "chapterTitle": "走向近代",
+    "lesson": 15,
+    "lessonTitle": "早期殖民掠夺",
+    "startFrame": 11160,
+    "endFrame": 11520,
+    "start": 186.0,
+    "end": 192.0,
+    "duration": 6,
+    "mode": "map",
+    "title": "财富积累，伴随被迫迁移",
+    "date": "16—19世纪",
+    "historicalYear": 1500,
+    "endHistoricalYear": 1800,
+    "caption": [
+      "奴隶贸易迫使数百万人离开非洲。",
+      "殖民掠夺积累财富，也留下长期创伤。"
+    ],
+    "significance": "殖民掠夺积累财富，也留下长期创伤。",
+    "focus": [
+      -35,
+      0
+    ],
+    "zoom": 1.7,
+    "events": [
+      "slavery"
+    ],
+    "routes": [
+      "forced-angola-brazil",
+      "forced-guinea-caribbean"
+    ],
+    "sources": [
+      "https://legacy.slavevoyages.org/blog/methodology-trans-atlantic"
+    ],
+    "transition": "rise",
+    "readingRate": 4.83,
+    "approximateMap": true
+  },
+  {
+    "id": "s33",
+    "key": "english_revolution",
+    "chapter": 6,
+    "chapterTitle": "资本主义制度的初步确立",
+    "lesson": 16,
+    "lessonTitle": "英国资产阶级革命",
+    "startFrame": 11520,
+    "endFrame": 11880,
+    "start": 192.0,
+    "end": 198.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "国王，也要面对议会",
+    "date": "1640年 / 1649年 / 1688年",
+    "historicalYear": 1640,
+    "endHistoricalYear": 1688,
+    "caption": [
+      "英国经历革命、共和国和王政复辟。",
+      "1688年政变后，议会力量进一步扩大。"
+    ],
+    "significance": "1688年政变后，议会力量进一步扩大。",
+    "focus": [
+      -0.12,
+      51.5
+    ],
+    "zoom": 4,
+    "events": [
+      "english_revolution"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/civilwar/",
+      "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/revolution/"
+    ],
+    "transition": "travel",
+    "readingRate": 5.17,
+    "approximateMap": true
+  },
+  {
+    "id": "s34",
+    "key": "bill_rights",
+    "chapter": 6,
+    "chapterTitle": "资本主义制度的初步确立",
+    "lesson": 16,
+    "lessonTitle": "英国资产阶级革命",
+    "startFrame": 11880,
+    "endFrame": 12240,
+    "start": 198.0,
+    "end": 204.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "权力，受到法律约束",
+    "date": "1689年",
+    "historicalYear": 1689,
+    "endHistoricalYear": 1689,
+    "caption": [
+      "《权利法案》限制王权，保障议会权利。",
+      "英国君主立宪制逐步确立和发展。"
+    ],
+    "significance": "英国君主立宪制逐步确立和发展。",
+    "focus": [
+      -0.12,
+      51.5
+    ],
+    "zoom": 4,
+    "events": [
+      "bill_rights"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/revolution/collections1/collections-glorious-revolution/billofrights/"
+    ],
+    "transition": "iris",
+    "readingRate": 4.67,
+    "approximateMap": true
+  },
+  {
+    "id": "s35",
+    "key": "american_war",
+    "chapter": 6,
+    "chapterTitle": "资本主义制度的初步确立",
+    "lesson": 17,
+    "lessonTitle": "美国的独立",
+    "startFrame": 12240,
+    "endFrame": 12600,
+    "start": 204.0,
+    "end": 210.0,
+    "duration": 6,
+    "mode": "map",
+    "title": "十三个殖民地，走向独立",
+    "date": "1775—1783年",
+    "historicalYear": 1775,
+    "endHistoricalYear": 1783,
+    "caption": [
+      "1783年，英国承认美国独立。",
+      "反殖民战争，为新国家奠定基础。"
+    ],
+    "significance": "反殖民战争，为新国家奠定基础。",
+    "focus": [
+      -76,
+      40
+    ],
+    "zoom": 4,
+    "events": [
+      "lexington",
+      "yorktown"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.loc.gov/classroom-materials/american-revolution/",
+      "https://www.archives.gov/milestone-documents/treaty-of-paris"
+    ],
+    "transition": "match",
+    "readingRate": 4.33,
+    "approximateMap": true
+  },
+  {
+    "id": "s36",
+    "key": "independence",
+    "chapter": 6,
+    "chapterTitle": "资本主义制度的初步确立",
+    "lesson": 17,
+    "lessonTitle": "美国的独立",
+    "startFrame": 12600,
+    "endFrame": 12960,
+    "start": 210.0,
+    "end": 216.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "宣布独立，也提出权利原则",
+    "date": "1776年7月4日",
+    "historicalYear": 1776,
+    "endHistoricalYear": 1776,
+    "caption": [
+      "《独立宣言》提出平等与人民主权。",
+      "独立并未同时消除奴隶制和性别排斥。"
+    ],
+    "significance": "独立并未同时消除奴隶制和性别排斥。",
+    "focus": [
+      -75.16,
+      39.95
+    ],
+    "zoom": 4,
+    "events": [
+      "independence"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.archives.gov/milestone-documents/declaration-of-independence"
+    ],
+    "transition": "rise",
+    "readingRate": 4.83,
+    "approximateMap": true
+  },
+  {
+    "id": "s37",
+    "key": "constitution",
+    "chapter": 6,
+    "chapterTitle": "资本主义制度的初步确立",
+    "lesson": 17,
+    "lessonTitle": "美国的独立",
+    "startFrame": 12960,
+    "endFrame": 13320,
+    "start": 216.0,
+    "end": 222.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "共和国，怎样分配权力？",
+    "date": "1787年",
+    "historicalYear": 1787,
+    "endHistoricalYear": 1787,
+    "caption": [
+      "美国宪法确立联邦制与分权制衡。",
+      "新制度限制权力，却保留奴隶制妥协。"
+    ],
+    "significance": "新制度限制权力，却保留奴隶制妥协。",
+    "focus": [
+      -75.16,
+      39.95
+    ],
+    "zoom": 4,
+    "events": [
+      "constitution"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.archives.gov/milestone-documents/constitution",
+      "https://www.archives.gov/founding-docs/constitution-transcript"
+    ],
+    "transition": "travel",
+    "readingRate": 4.83,
+    "approximateMap": true
+  },
+  {
+    "id": "s38",
+    "key": "bastille",
+    "chapter": 6,
+    "chapterTitle": "资本主义制度的初步确立",
+    "lesson": 18,
+    "lessonTitle": "法国大革命和拿破仑帝国",
+    "startFrame": 13320,
+    "endFrame": 13680,
+    "start": 222.0,
+    "end": 228.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "旧秩序，被革命撼动",
+    "date": "1789年7月14日",
+    "historicalYear": 1789,
+    "endHistoricalYear": 1789,
+    "caption": [
+      "巴黎民众攻占巴士底狱，革命深入。",
+      "法国革命冲击封建特权与君主专制。"
+    ],
+    "significance": "法国革命冲击封建特权与君主专制。",
+    "focus": [
+      2.37,
+      48.85
+    ],
+    "zoom": 4,
+    "events": [
+      "bastille"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.larousse.fr/encyclopedie/divers/R%C3%A9volution_fran%C3%A7aise/184321"
+    ],
+    "transition": "iris",
+    "readingRate": 4.83,
+    "approximateMap": true
+  },
+  {
+    "id": "s39",
+    "key": "rights_man",
+    "chapter": 6,
+    "chapterTitle": "资本主义制度的初步确立",
+    "lesson": 18,
+    "lessonTitle": "法国大革命和拿破仑帝国",
+    "startFrame": 13680,
+    "endFrame": 14040,
+    "start": 228.0,
+    "end": 234.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "把自由与平等，写成权利",
+    "date": "1789年8月",
+    "historicalYear": 1789,
+    "endHistoricalYear": 1789,
+    "caption": [
+      "《人权宣言》主张自由和法律面前平等。",
+      "这些原则影响深远，实践仍有排斥与冲突。"
+    ],
+    "significance": "这些原则影响深远，实践仍有排斥与冲突。",
+    "focus": [
+      2.35,
+      48.86
+    ],
+    "zoom": 4,
+    "events": [
+      "rights_man"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.elysee.fr/en/french-presidency/the-declaration-of-the-rights-of-man-and-of-the-citizen"
+    ],
+    "transition": "match",
+    "readingRate": 5.33,
+    "approximateMap": true
+  },
+  {
+    "id": "s40",
+    "key": "napoleon_code",
+    "chapter": 6,
+    "chapterTitle": "资本主义制度的初步确立",
+    "lesson": 18,
+    "lessonTitle": "法国大革命和拿破仑帝国",
+    "startFrame": 14040,
+    "endFrame": 14400,
+    "start": 234.0,
+    "end": 240.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "革命后的秩序，写进民法",
+    "date": "1804年",
+    "historicalYear": 1804,
+    "endHistoricalYear": 1804,
+    "caption": [
+      "《拿破仑法典》统一民法、保障财产权。",
+      "它巩固革命成果，也保留对妇女的限制。"
+    ],
+    "significance": "它巩固革命成果，也保留对妇女的限制。",
+    "focus": [
+      2.35,
+      48.86
+    ],
+    "zoom": 4,
+    "events": [
+      "napoleon_code"
+    ],
+    "routes": [],
+    "sources": [
+      "https://revolution.chnm.org/exhibits/show/liberty--equality--fraternity/item/358",
+      "https://guides.loc.gov/feminism-french-women-history/women-napoleonic-france"
+    ],
+    "transition": "rise",
+    "readingRate": 5.0,
+    "approximateMap": true
+  },
+  {
+    "id": "s41",
+    "key": "napoleon",
+    "chapter": 6,
+    "chapterTitle": "资本主义制度的初步确立",
+    "lesson": 18,
+    "lessonTitle": "法国大革命和拿破仑帝国",
+    "startFrame": 14400,
+    "endFrame": 14760,
+    "start": 240.0,
+    "end": 246.0,
+    "duration": 6,
+    "mode": "map",
+    "title": "改革与征服，交织在一起",
+    "date": "1804—1815年",
+    "historicalYear": 1804,
+    "endHistoricalYear": 1815,
+    "caption": [
+      "拿破仑建立帝国，战争席卷欧洲。",
+      "制度改革传播，征服也激起反抗并终告失败。"
+    ],
+    "significance": "制度改革传播，征服也激起反抗并终告失败。",
+    "focus": [
+      18,
+      50
+    ],
+    "zoom": 2.6,
+    "events": [
+      "napoleon-wars",
+      "waterloo"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.napoleon.org/en/young-historians/napodoc/timeline-consulate1st-french-empire/",
+      "https://www.nam.ac.uk/explore/battle-waterloo"
+    ],
+    "transition": "travel",
+    "readingRate": 5.17,
+    "approximateMap": true
+  },
+  {
+    "id": "s42",
+    "key": "textile",
+    "chapter": 7,
+    "chapterTitle": "工业革命、马克思主义与工人运动",
+    "lesson": 19,
+    "lessonTitle": "第一次工业革命",
+    "startFrame": 14760,
+    "endFrame": 15120,
+    "start": 246.0,
+    "end": 252.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "工场，变成机器工厂",
+    "date": "18世纪后半叶起",
+    "historicalYear": 1760,
+    "endHistoricalYear": 1800,
+    "caption": [
+      "英国纺织业机械化，工厂制度发展。",
+      "能源、资本与劳动组织共同推动工业化。"
+    ],
+    "significance": "能源、资本与劳动组织共同推动工业化。",
+    "focus": [
+      -2.24,
+      53.48
+    ],
+    "zoom": 5,
+    "events": [
+      "textile"
+    ],
+    "routes": [],
+    "sources": [
+      "https://whc.unesco.org/en/list/1030/",
+      "https://blog.sciencemuseum.org.uk/steaming-through-the-centuries/"
+    ],
+    "transition": "iris",
+    "readingRate": 5.0,
+    "approximateMap": true
+  },
+  {
+    "id": "s43",
+    "key": "steam",
+    "chapter": 7,
+    "chapterTitle": "工业革命、马克思主义与工人运动",
+    "lesson": 19,
+    "lessonTitle": "第一次工业革命",
+    "startFrame": 15120,
+    "endFrame": 15480,
+    "start": 252.0,
+    "end": 258.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "蒸汽，让动力摆脱水流限制",
+    "date": "1769年及以后",
+    "historicalYear": 1769,
+    "endHistoricalYear": 1830,
+    "caption": [
+      "瓦特等人改进蒸汽机，扩大动力应用。",
+      "生产不再只依赖水力，机器进入更多行业。"
+    ],
+    "significance": "生产不再只依赖水力，机器进入更多行业。",
+    "focus": [
+      -2,
+      53
+    ],
+    "zoom": 4,
+    "events": [
+      "steam"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.historicenvironment.scot/about-us/our-work/commemorative-plaques/explore/james-watt/",
+      "https://www.nms.ac.uk/discover-catalogue/the-newcomen-engine-and-its-role-in-britains-industrial-revolution",
+      "https://collection.sciencemuseumgroup.org.uk/objects/co50948/rotative-steam-engine-by-boulton-and-watt-1788"
+    ],
+    "transition": "match",
+    "readingRate": 5.33,
+    "approximateMap": true
+  },
+  {
+    "id": "s44",
+    "key": "rail",
+    "chapter": 7,
+    "chapterTitle": "工业革命、马克思主义与工人运动",
+    "lesson": 19,
+    "lessonTitle": "第一次工业革命",
+    "startFrame": 15480,
+    "endFrame": 15840,
+    "start": 258.0,
+    "end": 264.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "铁路，改变距离与速度",
+    "date": "1830年",
+    "historicalYear": 1830,
+    "endHistoricalYear": 1830,
+    "caption": [
+      "利物浦—曼彻斯特铁路开通。",
+      "铁路加速运输，推动工业城市与市场扩展。"
+    ],
+    "significance": "铁路加速运输，推动工业城市与市场扩展。",
+    "focus": [
+      -2.6,
+      53.45
+    ],
+    "zoom": 14,
+    "events": [
+      "rail"
+    ],
+    "routes": [
+      "liverpool-manchester"
+    ],
+    "sources": [
+      "https://collection.sciencemuseumgroup.org.uk/people/ap48/liverpool-manchester-railway-co"
+    ],
+    "transition": "rise",
+    "readingRate": 4.67,
+    "approximateMap": true
+  },
+  {
+    "id": "s45",
+    "key": "workers",
+    "chapter": 7,
+    "chapterTitle": "工业革命、马克思主义与工人运动",
+    "lesson": 20,
+    "lessonTitle": "马克思主义的诞生",
+    "startFrame": 15840,
+    "endFrame": 16200,
+    "start": 264.0,
+    "end": 270.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "工业增长，也带来社会问题",
+    "date": "1830—1840年代",
+    "historicalYear": 1830,
+    "endHistoricalYear": 1849,
+    "caption": [
+      "工人面对长工时和危险劳动，组织抗争。",
+      "工人运动推动改革，也提出新的社会问题。"
+    ],
+    "significance": "工人运动推动改革，也提出新的社会问题。",
+    "focus": [
+      -1,
+      53
+    ],
+    "zoom": 4,
+    "events": [
+      "workers"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/19thcentury/overview/factoryact/",
+      "https://www.nationalarchives.gov.uk/education/teaching-resources/what-was-chartism/"
+    ],
+    "transition": "travel",
+    "readingRate": 5.5,
+    "approximateMap": true
+  },
+  {
+    "id": "s46",
+    "key": "marx",
+    "chapter": 7,
+    "chapterTitle": "工业革命、马克思主义与工人运动",
+    "lesson": 20,
+    "lessonTitle": "马克思主义的诞生",
+    "startFrame": 16200,
+    "endFrame": 16560,
+    "start": 270.0,
+    "end": 276.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "从工业社会，提出新的分析",
+    "date": "1844—1847年",
+    "historicalYear": 1844,
+    "endHistoricalYear": 1847,
+    "caption": [
+      "马克思与恩格斯合作，研究资本主义。",
+      "他们从生产关系和阶级矛盾提出理论。"
+    ],
+    "significance": "他们从生产关系和阶级矛盾提出理论。",
+    "focus": [
+      6,
+      50
+    ],
+    "zoom": 3,
+    "events": [
+      "marx"
+    ],
+    "routes": [],
+    "sources": [
+      "https://plato.stanford.edu/entries/marx/",
+      "https://plato.stanford.edu/entries/engels/"
+    ],
+    "transition": "iris",
+    "readingRate": 5.17,
+    "approximateMap": true
+  },
+  {
+    "id": "s47",
+    "key": "manifesto",
+    "chapter": 7,
+    "chapterTitle": "工业革命、马克思主义与工人运动",
+    "lesson": 20,
+    "lessonTitle": "马克思主义的诞生",
+    "startFrame": 16560,
+    "endFrame": 16920,
+    "start": 276.0,
+    "end": 282.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "《共产党宣言》，公开发表",
+    "date": "1848年2月 · 伦敦",
+    "historicalYear": 1848,
+    "endHistoricalYear": 1848,
+    "caption": [
+      "《共产党宣言》发表，阐述新的政治主张。",
+      "通常以此作为马克思主义诞生的标志。"
+    ],
+    "significance": "通常以此作为马克思主义诞生的标志。",
+    "focus": [
+      -0.12,
+      51.5
+    ],
+    "zoom": 1,
+    "events": [
+      "manifesto"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/",
+      "https://www.unesco.org/en/memory-world/manifest-der-kommunistischen-partei-draft-manuscript-page-and-das-kapital-erster-band-karl-marxs",
+      "https://plato.stanford.edu/entries/marx/"
+    ],
+    "transition": "match",
+    "readingRate": 5.17,
+    "approximateMap": true
+  },
+  {
+    "id": "s48",
+    "key": "international",
+    "chapter": 7,
+    "chapterTitle": "工业革命、马克思主义与工人运动",
+    "lesson": 21,
+    "lessonTitle": "第一国际和巴黎公社",
+    "startFrame": 16920,
+    "endFrame": 17280,
+    "start": 282.0,
+    "end": 288.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "跨越国界，联合工人组织",
+    "date": "1864年 · 伦敦",
+    "historicalYear": 1864,
+    "endHistoricalYear": 1864,
+    "caption": [
+      "第一国际成立，联合多国工人组织。",
+      "它促进国际合作，内部也存在路线分歧。"
+    ],
+    "significance": "它促进国际合作，内部也存在路线分歧。",
+    "focus": [
+      -0.12,
+      51.5
+    ],
+    "zoom": 3,
+    "events": [
+      "international"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.bishopsgate.org.uk/archives/our-archives-online-2/first-international-minute-book/",
+      "https://phm.org.uk/collections-display/?irn=1677"
+    ],
+    "transition": "rise",
+    "readingRate": 5.0,
+    "approximateMap": true
+  },
+  {
+    "id": "s49",
+    "key": "commune",
+    "chapter": 7,
+    "chapterTitle": "工业革命、马克思主义与工人运动",
+    "lesson": 21,
+    "lessonTitle": "第一国际和巴黎公社",
+    "startFrame": 17280,
+    "endFrame": 17640,
+    "start": 288.0,
+    "end": 294.0,
+    "duration": 6,
+    "mode": "scene",
+    "title": "巴黎公社，短暂的政治尝试",
+    "date": "1871年3—5月",
+    "historicalYear": 1871,
+    "endHistoricalYear": 1871,
+    "caption": [
+      "巴黎公社短暂执政，随后遭到镇压。",
+      "它成为工人政权探索的重要历史经验。"
+    ],
+    "significance": "它成为工人政权探索的重要历史经验。",
+    "focus": [
+      2.35,
+      48.86
+    ],
+    "zoom": 4,
+    "events": [
+      "commune"
+    ],
+    "routes": [],
+    "sources": [
+      "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/troisieme-republique/la-commune-de-paris"
+    ],
+    "transition": "travel",
+    "readingRate": 5.0,
+    "approximateMap": true
+  }
+]

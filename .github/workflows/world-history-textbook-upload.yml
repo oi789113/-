@@ -1,0 +1,21 @@
+name: Publish textbook world history
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Reassemble and verify compact edition
+        run: |
+          cat .textbook-transfer/project.part-* > world-history-textbook-project.zip
+          sha256sum -c .textbook-transfer/project.sha256
+          unzip -oq world-history-textbook-project.zip
+      - name: Upload verified downloads
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release upload world-history-textbook-v4 world-history-textbook-project.zip .textbook-transfer/world-history-textbook-source.zip world-history-textbook/output/world-history-textbook-1080p60.mp4 world-history-textbook/output/history-preview.mp4 world-history-textbook/output/map-preview.mp4 world-history-textbook/output/storyboard.png world-history-textbook/output/timeline.png world-history-textbook/subtitles.srt world-history-textbook/captions.md world-history-textbook/output/validation.json world-history-textbook/output/decode-validation.json world-history-textbook/output/render-report.json .textbook-transfer/SHA256SUMS.txt --clobber
+          gh release edit world-history-textbook-v4 --draft=false --latest=true

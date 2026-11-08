@@ -1,0 +1,8 @@
+import React,{useLayoutEffect,useRef,useState} from 'react';
+import {AbsoluteFill,Composition,registerRoot,useCurrentFrame,delayRender,continueRender,cancelRender,staticFile} from 'remotion';
+// @ts-ignore Shared native/browser drawing engine.
+import {Film} from './film.mjs';
+const History:React.FC=()=>{const frame=useCurrentFrame(),canvas=useRef<HTMLCanvasElement>(null),[film,setFilm]=useState<any>(null),[gate]=useState(()=>delayRender('Loading geographic data'));
+useLayoutEffect(()=>{const files=['assets/ne_50m_land.geojson','assets/ne_110m_rivers_lake_centerlines.geojson','assets/ancient-rivers.geojson','assets/ne_110m_geography_regions_polys.geojson','data/events.json','data/routes.json','data/empire-regions.json','data/story.json'];Promise.all(files.map(f=>fetch(staticFile(f)).then(r=>r.json()))).then(async([land,rivers,ancientRivers,regions,events,routes,empires,shots])=>{const f=new Film({land,rivers,ancientRivers,regions,events,routes,empires,shots},{Path2D,createCanvas:(w:number,h:number)=>{const cv=document.createElement('canvas');cv.width=w;cv.height=h;return cv}});for(const shot of shots)await f.prepare(shot);setFilm(f);continueRender(gate)}).catch(e=>cancelRender(e))},[]);
+useLayoutEffect(()=>{if(film&&canvas.current)film.render(canvas.current.getContext('2d'),frame)},[film,frame]);return <AbsoluteFill style={{background:'#07151e'}}><canvas ref={canvas} width={1920} height={1080} style={{width:'100%',height:'100%'}}/></AbsoluteFill>};
+registerRoot(()=> <Composition id="WorldHistoryTextbook" component={History} durationInFrames={17640} fps={60} width={1920} height={1080}/>);

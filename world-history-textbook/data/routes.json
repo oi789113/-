@@ -1,0 +1,439 @@
+[
+  {
+    "id": "alex-west-asia",
+    "name": "亚历山大征服：小亚细亚至埃及",
+    "chapter": 4,
+    "type": "war",
+    "startYear": -334,
+    "endYear": -332,
+    "points": [
+      [
+        26.4,
+        40.2
+      ],
+      [
+        26.5,
+        39.1
+      ],
+      [
+        27.3,
+        37.9
+      ],
+      [
+        34.9,
+        36.9
+      ],
+      [
+        36.2,
+        36.6
+      ],
+      [
+        35.2,
+        33.3
+      ],
+      [
+        34.5,
+        31.5
+      ],
+      [
+        31.25,
+        29.85
+      ]
+    ],
+    "source": "https://www.iranicaonline.org/articles/alexander-the-great-356-23-bc/",
+    "approximate": true,
+    "detail": "史料支持的主要经过地区和节点；连线仅概略方向，非逐日行军轨迹。"
+  },
+  {
+    "id": "alex-east",
+    "name": "亚历山大征服：美索不达米亚至印度河",
+    "chapter": 4,
+    "type": "war",
+    "startYear": -331,
+    "endYear": -326,
+    "points": [
+      [
+        31.25,
+        29.85
+      ],
+      [
+        35.2,
+        33.3
+      ],
+      [
+        36.8,
+        36.9
+      ],
+      [
+        43.4,
+        36.4
+      ],
+      [
+        44.4,
+        32.5
+      ],
+      [
+        48.3,
+        32.2
+      ],
+      [
+        52.9,
+        29.94
+      ],
+      [
+        48.5,
+        34.8
+      ],
+      [
+        62.2,
+        34.3
+      ],
+      [
+        66.9,
+        36.8
+      ],
+      [
+        69.2,
+        34.5
+      ],
+      [
+        72.8,
+        33.7
+      ],
+      [
+        73.5,
+        32.8
+      ]
+    ],
+    "source": "https://www.iranicaonline.org/articles/alexander-the-great-356-23-bc/",
+    "approximate": true,
+    "detail": "依据伊朗百科条目及主要战役节点绘制分段方向；未给出未经核实的兵力、边界或精确路径。"
+  },
+  {
+    "id": "columbus-1492",
+    "name": "1492年首次跨大西洋航行",
+    "chapter": 7,
+    "type": "voyage",
+    "startYear": 1492,
+    "endYear": 1492,
+    "points": [
+      [
+        -6.99,
+        37.23
+      ],
+      [
+        -12,
+        32
+      ],
+      [
+        -16.3,
+        28.4
+      ],
+      [
+        -27,
+        27
+      ],
+      [
+        -42,
+        25
+      ],
+      [
+        -59,
+        24.5
+      ],
+      [
+        -74.5,
+        24.1
+      ]
+    ],
+    "source": "https://www.loc.gov/exhibits/exploring-the-early-americas/columbus-and-the-taino",
+    "approximate": true,
+    "detail": "西班牙—加那利群岛—巴哈马群岛的大方向；首次登陆岛具体识别有争论，终点取概略地区中心。",
+    "dateDisputed": true
+  },
+  {
+    "id": "dagama-1498",
+    "name": "1497—1498年达·伽马抵达印度",
+    "chapter": 7,
+    "type": "voyage",
+    "startYear": 1497,
+    "endYear": 1498,
+    "points": [
+      [
+        -9.14,
+        38.7
+      ],
+      [
+        -19,
+        20
+      ],
+      [
+        -27,
+        0
+      ],
+      [
+        -20,
+        -20
+      ],
+      [
+        -2,
+        -34
+      ],
+      [
+        18,
+        -35.5
+      ],
+      [
+        30,
+        -31
+      ],
+      [
+        40,
+        -20
+      ],
+      [
+        41,
+        -10
+      ],
+      [
+        40,
+        -3
+      ],
+      [
+        48,
+        3
+      ],
+      [
+        60,
+        9
+      ],
+      [
+        75.8,
+        11.25
+      ]
+    ],
+    "source": "https://www.dhm.de/archiv/ausstellungen/neue-welten/en/entdeckungsreisen.html",
+    "approximate": true,
+    "detail": "按绕非洲南端、东非和印度的主要方向绘制；大西洋远洋迂回仅概略示意，不是航海日志复原。"
+  },
+  {
+    "id": "forced-angola-brazil",
+    "name": "安哥拉—巴西：强迫迁移",
+    "chapter": 8,
+    "type": "forced",
+    "startYear": 1570,
+    "endYear": 1700,
+    "points": [
+      [
+        13.23,
+        -8.84
+      ],
+      [
+        4,
+        -10
+      ],
+      [
+        -12,
+        -12
+      ],
+      [
+        -28,
+        -13
+      ],
+      [
+        -38.5,
+        -12.97
+      ]
+    ],
+    "source": "https://www.slavevoyages.org/voyage/trans-atlantic",
+    "approximate": true,
+    "detail": "按主要启运和抵达区域示意。没有轻松商品图标；无虚构人数；此过程延续至19世纪。"
+  },
+  {
+    "id": "forced-guinea-caribbean",
+    "name": "西非—加勒比海：强迫迁移",
+    "chapter": 8,
+    "type": "forced",
+    "startYear": 1600,
+    "endYear": 1700,
+    "points": [
+      [
+        -1.25,
+        5.1
+      ],
+      [
+        -16,
+        8
+      ],
+      [
+        -34,
+        12
+      ],
+      [
+        -50,
+        15
+      ],
+      [
+        -61.5,
+        15
+      ],
+      [
+        -72,
+        18
+      ]
+    ],
+    "source": "https://www.slavevoyages.org/voyage/trans-atlantic",
+    "approximate": true,
+    "detail": "以SlaveVoyages记录所显示的地区联系为依据的概略路线；不代表某一具体船次。"
+  },
+  {
+    "id": "liverpool-manchester",
+    "name": "利物浦—曼彻斯特铁路",
+    "chapter": 11,
+    "type": "rail",
+    "startYear": 1830,
+    "endYear": 1848,
+    "points": [
+      [
+        -2.98,
+        53.4
+      ],
+      [
+        -2.74,
+        53.45
+      ],
+      [
+        -2.25,
+        53.48
+      ]
+    ],
+    "source": "https://archives.sciencemuseumgroup.ac.uk/Details/archive/110016690",
+    "approximate": true,
+    "detail": "1830年9月15日开通；两端城市与中途方向为概略示意。"
+  },
+  {
+    "id": "magellan-1519",
+    "name": "麦哲伦—埃尔卡诺环球航行",
+    "chapter": 5,
+    "type": "voyage",
+    "startYear": 1519,
+    "endYear": 1522,
+    "points": [
+      [
+        -6.35,
+        36.78
+      ],
+      [
+        -16.3,
+        28.4
+      ],
+      [
+        -22,
+        12
+      ],
+      [
+        -36,
+        -8
+      ],
+      [
+        -43.2,
+        -22.9
+      ],
+      [
+        -56,
+        -35
+      ],
+      [
+        -65,
+        -47
+      ],
+      [
+        -68,
+        -53
+      ],
+      [
+        -73,
+        -53
+      ],
+      [
+        -85,
+        -41
+      ],
+      [
+        -110,
+        -18
+      ],
+      [
+        -145,
+        -3
+      ],
+      [
+        -175,
+        6
+      ],
+      [
+        160,
+        12
+      ],
+      [
+        144.8,
+        13.5
+      ],
+      [
+        125.6,
+        11
+      ],
+      [
+        124,
+        0
+      ],
+      [
+        128,
+        -2
+      ],
+      [
+        125,
+        -9
+      ],
+      [
+        93,
+        -23
+      ],
+      [
+        60,
+        -30
+      ],
+      [
+        23,
+        -38
+      ],
+      [
+        15,
+        -35
+      ],
+      [
+        -3,
+        -15
+      ],
+      [
+        -20,
+        5
+      ],
+      [
+        -24,
+        16
+      ],
+      [
+        -15,
+        32
+      ],
+      [
+        -6.35,
+        36.78
+      ]
+    ],
+    "source": "https://origins.osu.edu/milestones/magellan-circumnavigation-earth",
+    "approximate": true,
+    "detail": "1519—1522年远征的概略航向与主要经停区域；麦哲伦1521年在菲律宾死亡，埃尔卡诺率维多利亚号1522年返回。不是精确航迹；海上节点仅为路径方向示意。"
+  }
+]

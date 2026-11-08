@@ -1,0 +1,457 @@
+[
+  {
+    "id": "derwent",
+    "title": "UNESCO — Derwent Valley Mills",
+    "url": "https://whc.unesco.org/en/list/1030/"
+  },
+  {
+    "id": "earlyEgypt",
+    "title": "Egyptian Ministry of Tourism and Antiquities — Early Dynastic Period",
+    "url": "https://egymonuments.gov.eg/en/historical-periods/early-dynastic-period"
+  },
+  {
+    "id": "bologna",
+    "title": "University of Bologna — Our History",
+    "url": "https://www.unibo.it/en/university/who-we-are/our-history"
+  },
+  {
+    "id": "americanWar",
+    "title": "Library of Congress — American Revolution",
+    "url": "https://www.loc.gov/classroom-materials/american-revolution/"
+  },
+  {
+    "id": "uruk",
+    "title": "The Met — Uruk: The First City",
+    "url": "https://www.metmuseum.org/essays/uruk-the-first-city"
+  },
+  {
+    "id": "writing",
+    "title": "The Met — The Origins of Writing",
+    "url": "https://www.metmuseum.org/essays/the-origins-of-writing"
+  },
+  {
+    "id": "egypt",
+    "title": "UNESCO — Memphis and its Necropolis",
+    "url": "https://whc.unesco.org/en/list/86/"
+  },
+  {
+    "id": "indus",
+    "title": "The Met — South Asia, 8000–2000 BCE",
+    "url": "https://www.metmuseum.org/toah/ht/02/ssa.html"
+  },
+  {
+    "id": "bronze",
+    "title": "The Met — Art of the First Cities",
+    "url": "https://www.metmuseum.org/essays/art-of-the-first-cities-in-the-third-millennium-b-c"
+  },
+  {
+    "id": "persia",
+    "title": "The Met — The Achaemenid Persian Empire",
+    "url": "https://www.metmuseum.org/essays/the-achaemenid-persian-empire-550-330-b-c"
+  },
+  {
+    "id": "greece",
+    "title": "The Met — Art of Classical Greece",
+    "url": "https://www.metmuseum.org/essays/the-art-of-classical-greece-ca-480-323-b-c"
+  },
+  {
+    "id": "rome",
+    "title": "The Met — Roman Art: A Resource for Educators",
+    "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Roman_Art_A_Resource_for_Educators.pdf"
+  },
+  {
+    "id": "buddhism",
+    "title": "The Met — Buddhism and Buddhist Art",
+    "url": "https://www.metmuseum.org/essays/buddhism-and-buddhist-art"
+  },
+  {
+    "id": "byzantium",
+    "title": "The Met — Byzantium ca.330–1453",
+    "url": "https://www.metmuseum.org/essays/byzantium-ca-330-1453"
+  },
+  {
+    "id": "islam",
+    "title": "The Met — Byzantium and Islam: Age of Transition",
+    "url": "https://www.metmuseum.org/exhibitions/listings/2012/byzantium-and-islam"
+  },
+  {
+    "id": "abbasid",
+    "title": "The Met — Art of the Abbasid Period",
+    "url": "https://www.metmuseum.org/essays/the-art-of-the-abbasid-period-750-1258"
+  },
+  {
+    "id": "translation",
+    "title": "Isis — Mobilities of Science: Era of Translation into Arabic",
+    "url": "https://doi.org/10.1086/698236"
+  },
+  {
+    "id": "mali",
+    "title": "The Met — Trans-Saharan Gold Trade",
+    "url": "https://www.metmuseum.org/essays/the-trans-saharan-gold-trade-7th-14th-century"
+  },
+  {
+    "id": "maya",
+    "title": "University of California Santa Barbara — Classic Period Maya",
+    "url": "https://www.marc.ucsb.edu/research/maya/ancient-maya-civilization/classic-period"
+  },
+  {
+    "id": "renaissance",
+    "title": "University of Toronto — Renaissance in Print",
+    "url": "https://crrs.library.utoronto.ca/exhibits/show/vic449/vic449exhibit"
+  },
+  {
+    "id": "columbus",
+    "title": "Library of Congress — 1492: An Ongoing Voyage",
+    "url": "https://www.loc.gov/exhibits/1492/"
+  },
+  {
+    "id": "gama",
+    "title": "Portuguese Parliament — Vasco da Gama",
+    "url": "https://www.parlamento.pt/VisitaParlamento/Paginas/BiogVascodaGama.aspx"
+  },
+  {
+    "id": "conquest",
+    "title": "Library of Congress — Europe Claims America",
+    "url": "https://www.loc.gov/exhibits/1492/eurocla.html"
+  },
+  {
+    "id": "america",
+    "title": "Library of Congress — What Came to Be Called America",
+    "url": "https://www.loc.gov/exhibits/1492/america.html"
+  },
+  {
+    "id": "exchange",
+    "title": "Nunn and Qian — The Columbian Exchange",
+    "url": "https://www.aeaweb.org/articles?id=10.1257/jep.24.2.163"
+  },
+  {
+    "id": "slavery",
+    "title": "SlaveVoyages — Methodology",
+    "url": "https://legacy.slavevoyages.org/blog/methodology-trans-atlantic"
+  },
+  {
+    "id": "declaration",
+    "title": "US National Archives — Declaration of Independence",
+    "url": "https://www.archives.gov/milestone-documents/declaration-of-independence"
+  },
+  {
+    "id": "france",
+    "title": "Larousse — Révolution française",
+    "url": "https://www.larousse.fr/encyclopedie/divers/R%C3%A9volution_fran%C3%A7aise/184321"
+  },
+  {
+    "id": "napoleon",
+    "title": "Fondation Napoléon — Timeline",
+    "url": "https://www.napoleon.org/en/young-historians/napodoc/timeline-consulate1st-french-empire/"
+  },
+  {
+    "id": "waterloo",
+    "title": "National Army Museum — Battle of Waterloo",
+    "url": "https://www.nam.ac.uk/explore/battle-waterloo"
+  },
+  {
+    "id": "steam",
+    "title": "National Museums Scotland — Newcomen Engine",
+    "url": "https://www.nms.ac.uk/discover-catalogue/the-newcomen-engine-and-its-role-in-britains-industrial-revolution"
+  },
+  {
+    "id": "watt",
+    "title": "Historic Environment Scotland — James Watt",
+    "url": "https://www.historicenvironment.scot/about-us/our-work/commemorative-plaques/explore/james-watt/"
+  },
+  {
+    "id": "engine",
+    "title": "Science Museum Group — Rotative Steam Engine 1788",
+    "url": "https://collection.sciencemuseumgroup.org.uk/objects/co50948/rotative-steam-engine-by-boulton-and-watt-1788"
+  },
+  {
+    "id": "rail",
+    "title": "Science Museum Group — Liverpool and Manchester Railway",
+    "url": "https://collection.sciencemuseumgroup.org.uk/people/ap48/liverpool-manchester-railway-co"
+  },
+  {
+    "id": "industrial",
+    "title": "Science Museum — Steaming through the Centuries",
+    "url": "https://blog.sciencemuseum.org.uk/steaming-through-the-centuries/"
+  },
+  {
+    "id": "factory",
+    "title": "UK Parliament — 1833 Factory Act",
+    "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/19thcentury/overview/factoryact/"
+  },
+  {
+    "id": "chartist",
+    "title": "UK National Archives — What Was Chartism?",
+    "url": "https://www.nationalarchives.gov.uk/education/teaching-resources/what-was-chartism/"
+  },
+  {
+    "id": "marx",
+    "title": "Stanford Encyclopedia of Philosophy — Karl Marx",
+    "url": "https://plato.stanford.edu/entries/marx/"
+  },
+  {
+    "id": "engels",
+    "title": "Stanford Encyclopedia of Philosophy — Friedrich Engels",
+    "url": "https://plato.stanford.edu/entries/engels/"
+  },
+  {
+    "id": "manifesto",
+    "title": "Marx/Engels — Manifesto of the Communist Party, 1848",
+    "url": "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/"
+  },
+  {
+    "id": "iish",
+    "title": "UNESCO — Marx-Engels documents, Memory of the World",
+    "url": "https://www.unesco.org/en/memory-world/manifest-der-kommunistischen-partei-draft-manuscript-page-and-das-kapital-erster-band-karl-marxs"
+  },
+  {
+    "id": "egyptCalendar",
+    "title": "Britannica — Egyptian calendar",
+    "url": "https://www.britannica.com/science/Egyptian-calendar",
+    "checkedAt": "2026-11-07",
+    "verification": "Retrieved source page or PDF over HTTPS; dates and narrative checked against source text.",
+    "httpStatus": 200
+  },
+  {
+    "id": "egyptWriting",
+    "title": "The Metropolitan Museum of Art — The Art of Ancient Egypt: A Resource for Educators",
+    "url": "https://resources.metmuseum.org/resources/metpublications/pdf/The_Art_of_Ancient_Egypt_A_Resource_for_Educators.pdf",
+    "checkedAt": "2026-11-07",
+    "verification": "Retrieved source page or PDF over HTTPS; dates and narrative checked against source text.",
+    "httpStatus": 200
+  },
+  {
+    "id": "varna",
+    "title": "Britannica — Varna: social classifications and their historical complexity",
+    "url": "https://www.britannica.com/topic/varna-Hinduism",
+    "checkedAt": "2026-11-07",
+    "verification": "Retrieved source page or PDF over HTTPS; dates and narrative checked against source text.",
+    "httpStatus": 200
+  },
+  {
+    "id": "athens",
+    "title": "Britannica — Ancient Greek civilization: Cleisthenes and democracy",
+    "url": "https://www.britannica.com/place/ancient-Greece/The-reforms-of-Cleisthenes",
+    "checkedAt": "2026-11-07",
+    "verification": "Retrieved source page or PDF over HTTPS; dates and narrative checked against source text.",
+    "httpStatus": 200
+  },
+  {
+    "id": "romanRepublic",
+    "title": "Britannica — Ancient Rome: the early Republic",
+    "url": "https://www.britannica.com/place/ancient-Rome/The-early-Republic-509-280-bce",
+    "checkedAt": "2026-11-07",
+    "verification": "Retrieved source page or PDF over HTTPS; dates and narrative checked against source text.",
+    "httpStatus": 200
+  },
+  {
+    "id": "twelveTables",
+    "title": "Yale Law School, Avalon Project — The Twelve Tables",
+    "url": "https://avalon.law.yale.edu/ancient/twelve_tables.asp",
+    "checkedAt": "2026-11-08",
+    "verification": "Relevant source text opened and read with the web tool during this edition; dates and selected claims cross-checked."
+  },
+  {
+    "id": "franks",
+    "title": "Britannica — Clovis I",
+    "url": "https://www.britannica.com/biography/Clovis-I",
+    "checkedAt": "2026-11-07",
+    "verification": "Retrieved source page or PDF over HTTPS; dates and narrative checked against source text.",
+    "httpStatus": 200
+  },
+  {
+    "id": "charlemagne",
+    "title": "Britannica — Charlemagne",
+    "url": "https://www.britannica.com/biography/Charlemagne",
+    "checkedAt": "2026-11-07",
+    "verification": "Retrieved source page or PDF over HTTPS; dates and narrative checked against source text.",
+    "httpStatus": 200
+  },
+  {
+    "id": "feudal",
+    "title": "Britannica — Feudalism",
+    "url": "https://www.britannica.com/topic/feudalism",
+    "checkedAt": "2026-11-07",
+    "verification": "Retrieved source page or PDF over HTTPS; dates and narrative checked against source text.",
+    "httpStatus": 200
+  },
+  {
+    "id": "justinian",
+    "title": "University of Wyoming Law Library — The Novels of Justinian",
+    "url": "https://www.uwyo.edu/lawlib/blume-justinian/ajc-edition-2/novels/novels.html",
+    "checkedAt": "2026-11-08",
+    "verification": "Relevant text opened and read through the web tool by the edition’s historical review; chronology and selected claims cross-checked."
+  },
+  {
+    "id": "taika",
+    "title": "Columbia University, Asia for Educators — The Taika Reforms",
+    "url": "https://afe.easia.columbia.edu/main_pop/ps/ps_japan-taika.htm",
+    "checkedAt": "2026-11-08",
+    "verification": "Relevant text opened and read through the web tool by the edition’s historical review; chronology and selected claims cross-checked."
+  },
+  {
+    "id": "kamakura",
+    "title": "The Metropolitan Museum of Art — Kamakura and Nanbokucho Periods (1185–1392)",
+    "url": "https://www.metmuseum.org/essays/kamakura-and-nanbokucho-periods-1185-1392",
+    "checkedAt": "2026-11-07",
+    "verification": "Retrieved source page or PDF over HTTPS; dates and narrative checked against source text.",
+    "httpStatus": 200
+  },
+  {
+    "id": "yoritomo",
+    "title": "Britannica — Minamoto Yoritomo",
+    "url": "https://www.britannica.com/biography/Minamoto-Yoritomo",
+    "checkedAt": "2026-11-07",
+    "verification": "Retrieved source page or PDF over HTTPS; dates and narrative checked against source text.",
+    "httpStatus": 200
+  },
+  {
+    "id": "umayyad",
+    "title": "The Metropolitan Museum of Art — The Art of the Umayyad Period (661–750)",
+    "url": "https://www.metmuseum.org/essays/the-art-of-the-umayyad-period-661-750",
+    "checkedAt": "2026-11-07",
+    "verification": "Retrieved source page or PDF over HTTPS; dates and narrative checked against source text.",
+    "httpStatus": 200
+  },
+  {
+    "id": "zimbabwe",
+    "title": "UNESCO — Great Zimbabwe National Monument",
+    "url": "https://whc.unesco.org/en/list/364/",
+    "checkedAt": "2026-11-07",
+    "verification": "Retrieved source page or PDF over HTTPS; dates and narrative checked against source text.",
+    "httpStatus": 200
+  },
+  {
+    "id": "domestic",
+    "title": "Britannica — Domestic system",
+    "url": "https://www.britannica.com/topic/domestic-system",
+    "checkedAt": "2026-11-07",
+    "verification": "Retrieved source page or PDF over HTTPS; dates and narrative checked against source text.",
+    "httpStatus": 200
+  },
+  {
+    "id": "capitalism",
+    "title": "Britannica — The emergence of modern Europe, 1500–1648",
+    "url": "https://www.britannica.com/topic/history-of-Europe/The-emergence-of-modern-Europe-1500-1648",
+    "checkedAt": "2026-11-07",
+    "verification": "Retrieved source page or PDF over HTTPS; dates and narrative checked against source text.",
+    "httpStatus": 200
+  },
+  {
+    "id": "civilWar",
+    "title": "UK Parliament — The Civil War",
+    "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/civilwar/",
+    "checkedAt": "2026-11-07",
+    "verification": "Retrieved source page or PDF over HTTPS; dates and narrative checked against source text.",
+    "httpStatus": 200
+  },
+  {
+    "id": "gloriousRevolution",
+    "title": "UK Parliament — The Glorious Revolution",
+    "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/revolution/",
+    "checkedAt": "2026-11-07",
+    "verification": "Retrieved source page or PDF over HTTPS; dates and narrative checked against source text.",
+    "httpStatus": 200
+  },
+  {
+    "id": "billRights",
+    "title": "UK Parliament — Bill of Rights 1689",
+    "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/revolution/collections1/collections-glorious-revolution/billofrights/",
+    "checkedAt": "2026-11-08",
+    "verification": "Relevant source text opened and read with the web tool during this edition; dates and selected claims cross-checked."
+  },
+  {
+    "id": "parisTreaty",
+    "title": "US National Archives — Treaty of Paris (1783)",
+    "url": "https://www.archives.gov/milestone-documents/treaty-of-paris",
+    "checkedAt": "2026-11-07",
+    "verification": "Retrieved source page or PDF over HTTPS; dates and narrative checked against source text.",
+    "httpStatus": 200
+  },
+  {
+    "id": "constitution",
+    "title": "US National Archives — Constitution of the United States (1787)",
+    "url": "https://www.archives.gov/milestone-documents/constitution",
+    "checkedAt": "2026-11-08",
+    "verification": "Relevant source text opened and read with the web tool during this edition; dates and selected claims cross-checked."
+  },
+  {
+    "id": "constitutionText",
+    "title": "US National Archives — The Constitution: A Transcription",
+    "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+    "checkedAt": "2026-11-07",
+    "verification": "Retrieved source page or PDF over HTTPS; dates and narrative checked against source text.",
+    "httpStatus": 200
+  },
+  {
+    "id": "humanRights",
+    "title": "French Presidency — Declaration of the Rights of Man and of the Citizen",
+    "url": "https://www.elysee.fr/en/french-presidency/the-declaration-of-the-rights-of-man-and-of-the-citizen",
+    "checkedAt": "2026-11-07",
+    "verification": "Retrieved source page or PDF over HTTPS; dates and narrative checked against source text.",
+    "httpStatus": 200
+  },
+  {
+    "id": "napoleonicCode",
+    "title": "George Mason University, Roy Rosenzweig Center — The Napoleonic Code",
+    "url": "https://revolution.chnm.org/exhibits/show/liberty--equality--fraternity/item/358",
+    "checkedAt": "2026-11-08",
+    "verification": "Relevant text opened and read through the web tool by the edition’s historical review; chronology and selected claims cross-checked."
+  },
+  {
+    "id": "international",
+    "title": "Bishopsgate Institute — Minute Book of the General Council of the International Workingmen’s Association",
+    "url": "https://www.bishopsgate.org.uk/archives/our-archives-online-2/first-international-minute-book/",
+    "checkedAt": "2026-11-08",
+    "verification": "Relevant text opened and read through the web tool by the edition’s historical review; chronology and selected claims cross-checked."
+  },
+  {
+    "id": "commune",
+    "title": "Assemblée nationale — La Commune de Paris",
+    "url": "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/troisieme-republique/la-commune-de-paris",
+    "checkedAt": "2026-11-08",
+    "verification": "Relevant source text opened and read with the web tool during this edition; dates and selected claims cross-checked."
+  },
+  {
+    "id": "magellan",
+    "title": "UNESCO — First Voyage of Circumnavigation by Magellan and Elcano (1519–1522)",
+    "url": "https://www.unesco.org/en/memory-world/first-voyage-circumnavigation-fernao-de-magalhaes-and-juan-sebastian-elcano-1519-1522",
+    "checkedAt": "2026-11-08",
+    "verification": "Relevant source text opened and read with the web tool during this edition; dates and selected claims cross-checked."
+  },
+  {
+    "id": "elcano",
+    "title": "Ohio State University, Origins — Magellan’s Circumnavigation of the Earth",
+    "url": "https://origins.osu.edu/milestones/magellan-circumnavigation-earth",
+    "checkedAt": "2026-11-08",
+    "verification": "Relevant source text opened and read with the web tool during this edition; dates and selected claims cross-checked."
+  },
+  {
+    "id": "hammurabi",
+    "title": "Musée du Louvre — The Code of Hammurabi",
+    "url": "https://www.louvre.fr/en/the-code-of-hammurabi",
+    "checkedAt": "2026-11-08",
+    "verification": "Relevant source text opened and read with the web tool during this edition; dates and selected claims cross-checked."
+  },
+  {
+    "id": "townCharter",
+    "title": "Durham University — Cities in History: Governing",
+    "url": "https://dur.ac.uk/research/institutes-and-centres/medieval-early-modern-studies/research/cities-in-history-archives-and-traces-1100-1700/governing/",
+    "checkedAt": "2026-11-07",
+    "verification": "Read the full relevant source text through the web tool."
+  },
+  {
+    "id": "internationalCertificate",
+    "title": "People’s History Museum — IWMA affiliation certificate NMLH.1992.37",
+    "url": "https://phm.org.uk/collections-display/?irn=1677",
+    "checkedAt": "2026-11-08",
+    "verification": "Relevant text opened and read through the web tool in the edition’s historical review."
+  },
+  {
+    "id": "napoleonicWomen",
+    "title": "Library of Congress — Women in Napoleonic France",
+    "url": "https://guides.loc.gov/feminism-french-women-history/women-napoleonic-france",
+    "checkedAt": "2026-11-08",
+    "verification": "Relevant text opened and read through the web tool in the edition’s historical review."
+  }
+]
